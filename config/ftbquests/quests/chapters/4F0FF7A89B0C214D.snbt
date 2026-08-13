@@ -1,0 +1,650 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "4F0FF7A89B0C214D"
+	group: ""
+	id: "4F0FF7A89B0C214D"
+	images: [ ]
+	order_index: 10
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["0000000000000015"]
+			icon_scale: 1.8d
+			id: "0000000011000001"
+			rewards: [{
+				id: "39510B9E03254C0F"
+				type: "xp_levels"
+				xp_levels: 15
+			}]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [
+				{
+					count: 32L
+					id: "000000011000001A"
+					item: { count: 1, id: "irons_spellbooks:arcane_ingot" }
+					type: "item"
+				}
+				{
+					id: "21E538F16FBC7DEC"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0000000011000001"]
+			id: "0000000011000002"
+			rewards: [
+				{
+					id: "7AACF946711880FA"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+				{
+					id: "1251888423C57635"
+					item: {
+						count: 1
+						id: "minecraft:nether_star"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 32L
+					id: "000000011000002A"
+					item: { count: 1, id: "minecraft:blaze_rod" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "000000011000002B"
+					item: { count: 1, id: "minecraft:magma_cream" }
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0000000011000001"]
+			id: "0000000011000003"
+			rewards: [
+				{
+					id: "0D9D4B922616B38B"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+				{
+					id: "511542AE69583D44"
+					item: {
+						count: 1
+						id: "minecraft:nether_star"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 3L
+					id: "000000011000003A"
+					item: { count: 1, id: "minecraft:wither_skeleton_skull" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "000000011000003B"
+					item: { count: 1, id: "minecraft:bone_block" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"0000000011000002"
+				"0000000011000003"
+			]
+			id: "0000000011000004"
+			rewards: [{
+				id: "6834182633F7977D"
+				type: "xp_levels"
+				xp_levels: 30
+			}]
+			tasks: [{
+				id: "000000011000004A"
+				item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:raise_dead": 2 } }, "irons_spellbooks:spell_container": { data: [ { id: "irons_spellbooks:blood_slash", index: 0, level: 5, locked: 1b }, { id: "irons_spellbooks:blood_step", index: 1, level: 5, locked: 1b }, { id: "irons_spellbooks:ray_of_siphoning", index: 2, level: 5, locked: 1b }, { id: "irons_spellbooks:blaze_storm", index: 3, level: 5, locked: 1b } ], maxSpells: 10, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:necronomicon_spell_book" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0000000011000004"]
+			icon_scale: 1.5d
+			id: "0000000011000005"
+			rewards: [
+				{
+					id: "1F7F843B8DDB9039"
+					type: "xp_levels"
+					xp_levels: 40
+				}
+				{
+					count: 5
+					id: "69D37E8B7B067E2B"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [
+				{
+					count: 2L
+					id: "000000011000005A"
+					item: { count: 1, id: "minecraft:nether_star" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "000000011000005B"
+					item: { count: 1, id: "irons_spellbooks:arcane_ingot" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0000000011000001"]
+			icon_scale: 1.5d
+			id: "0000000011000006"
+			rewards: [
+				{
+					id: "76C9CAD66F63F575"
+					type: "xp_levels"
+					xp_levels: 20
+				}
+				{
+					count: 8
+					id: "0C51240D690B33AB"
+					item: {
+						count: 1
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [
+				{
+					id: "000000011000006A"
+					item: { count: 1, id: "minecraft:netherite_sword" }
+					type: "item"
+				}
+				{
+					id: "000000011000006B"
+					item: { count: 1, id: "minecraft:totem_of_undying" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0000000011000006"]
+			id: "0000000011000007"
+			rewards: [
+				{
+					id: "7DBBF2B790CE0D5F"
+					type: "xp_levels"
+					xp_levels: 20
+				}
+				{
+					id: "03DBA6FFB3847F55"
+					item: {
+						count: 1
+						id: "minecraft:nether_star"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 64L
+					id: "000000011000007A"
+					item: { count: 1, id: "minecraft:sand" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "000000011000007B"
+					item: { count: 1, id: "minecraft:sandstone" }
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "000000011000007C"
+					item: { count: 1, id: "minecraft:rotten_flesh" }
+					type: "item"
+				}
+			]
+			x: -9.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0000000011000006"]
+			id: "0000000011000008"
+			rewards: [
+				{
+					id: "5D169C59F4CC779A"
+					type: "xp_levels"
+					xp_levels: 20
+				}
+				{
+					id: "0BB2342C51CB6E4B"
+					item: {
+						count: 1
+						id: "minecraft:nether_star"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 32L
+					id: "000000011000008A"
+					item: { count: 1, id: "minecraft:snow_block" }
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "000000011000008B"
+					item: { count: 1, id: "minecraft:packed_ice" }
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "000000011000008C"
+					item: { count: 1, id: "minecraft:bone" }
+					type: "item"
+				}
+				{
+					id: "236F9CD5E0E770F5"
+					item: { count: 1, id: "block_factorys_bosses:ice_gauntlet" }
+					type: "item"
+				}
+				{
+					entity: "block_factorys_bosses:yeti"
+					id: "1AAC71687AECA81A"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: -9.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["0000000011000006"]
+			id: "0000000011000009"
+			rewards: [
+				{
+					id: "771C6411363B80F5"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+				{
+					id: "6A3EF9D349CCEEE3"
+					item: {
+						count: 1
+						id: "minecraft:nether_star"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 8L
+					id: "000000011000009A"
+					item: { count: 1, id: "minecraft:dragon_breath" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "000000011000009C"
+					item: { count: 1, id: "minecraft:obsidian" }
+					type: "item"
+				}
+				{
+					id: "56F1E4C165F718D5"
+					item: { count: 1, id: "block_factorys_bosses:dragon_bone" }
+					type: "item"
+				}
+				{
+					entity: "block_factorys_bosses:infernal_dragon"
+					id: "52B005A53D0B63A0"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: -6.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["0000000011000006"]
+			id: "0000000011000010"
+			rewards: [
+				{
+					id: "50AD6318A38359B1"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+				{
+					id: "1B6BA39C0DCB2627"
+					item: {
+						count: 1
+						id: "minecraft:nether_star"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 4L
+					id: "000000011000010A"
+					item: { count: 1, id: "minecraft:netherite_ingot" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "000000011000010B"
+					item: { count: 1, id: "minecraft:shield" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "000000011000010C"
+					item: { count: 1, id: "minecraft:iron_block" }
+					type: "item"
+				}
+				{
+					id: "704E6456481237AC"
+					item: { count: 1, id: "block_factorys_bosses:knight_helmet" }
+					type: "item"
+				}
+				{
+					entity: "block_factorys_bosses:underworld_knight"
+					id: "38CB0C2953B0AD47"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: -3.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["0000000011000006"]
+			id: "0000000011000011"
+			rewards: [
+				{
+					id: "3B5C02BE3036E1B7"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+				{
+					id: "37EEA68CD52A16F5"
+					item: {
+						count: 1
+						id: "minecraft:nether_star"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 2L
+					id: "000000011000011A"
+					item: { count: 1, id: "minecraft:heart_of_the_sea" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "000000011000011B"
+					item: { count: 1, id: "minecraft:prismarine_shard" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "000000011000011C"
+					item: { count: 1, id: "minecraft:nautilus_shell" }
+					type: "item"
+				}
+				{
+					id: "141D503A66BB3604"
+					item: { count: 1, id: "block_factorys_bosses:kraken_tooth" }
+					type: "item"
+				}
+				{
+					entity: "block_factorys_bosses:kraken"
+					id: "397AA316C0F9A05E"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"0000000011000007"
+				"0000000011000008"
+				"0000000011000009"
+				"0000000011000010"
+				"0000000011000011"
+			]
+			icon_scale: 1.5d
+			id: "0000000011000012"
+			rewards: [
+				{
+					id: "02E7565003BC3038"
+					type: "xp_levels"
+					xp_levels: 50
+				}
+				{
+					count: 5
+					id: "1DE3D6B8AE8295C5"
+					item: {
+						count: 1
+						id: "minecraft:nether_star"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "3D90C631D633A119"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [
+				{
+					count: 5L
+					id: "000000011000012A"
+					item: { count: 1, id: "minecraft:nether_star" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "000000011000012B"
+					item: { count: 1, id: "minecraft:dragon_breath" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "000000011000012C"
+					item: { count: 1, id: "minecraft:sand" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "000000011000012D"
+					item: { count: 1, id: "minecraft:snow_block" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "000000011000012E"
+					item: { count: 1, id: "minecraft:heart_of_the_sea" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: 10.0d
+		}
+		{
+			dependencies: [
+				"0000000011000005"
+				"0000000011000012"
+			]
+			icon_scale: 1.5d
+			id: "0000000011000013"
+			rewards: [
+				{
+					id: "75CDA29CC79F948F"
+					type: "xp_levels"
+					xp_levels: 50
+				}
+				{
+					count: 10
+					id: "25B6DF453B6B5347"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "57131D8C462A0FF3"
+					item: {
+						count: 1
+						id: "minecraft:nether_star"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [
+				{
+					count: 8L
+					id: "000000011000013A"
+					item: { count: 1, id: "minecraft:nether_star" }
+					type: "item"
+				}
+				{
+					id: "000000011000013C"
+					item: { count: 1, id: "minecraft:netherite_block" }
+					type: "item"
+				}
+				{
+					id: "4FC1E93580AADA20"
+					item: { count: 1, id: "block_factorys_bosses:dragon_bones_chestplate" }
+					type: "item"
+				}
+				{
+					id: "5E855A6B6110F73F"
+					item: { count: 1, id: "block_factorys_bosses:dragon_bones_leggings" }
+					type: "item"
+				}
+				{
+					id: "6F54591FC7E7DE1A"
+					item: { count: 1, id: "block_factorys_bosses:dragon_bones_boots" }
+					type: "item"
+				}
+				{
+					id: "4A68942641BBF2B5"
+					item: { count: 1, id: "block_factorys_bosses:kraken_trident" }
+					type: "item"
+				}
+				{
+					id: "26198AE036496ACD"
+					item: { count: 1, id: "block_factorys_bosses:kraken_cannon_item" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["0000000011000013"]
+			icon_scale: 1.8d
+			id: "0000000011000014"
+			rewards: [
+				{
+					count: 10
+					id: "485D0BEDB7C523E7"
+					item: {
+						count: 1
+						id: "minecraft:nether_star"
+					}
+					type: "item"
+				}
+				{
+					id: "140EE1FB153255A6"
+					type: "xp_levels"
+					xp_levels: 100
+				}
+				{
+					command: "/tellraw @p [\"\",{\"text\":\"========================================\",\"color\":\"dark_red\"},{\"text\":\"\\n  = Boss Hunter - Graduated! =\\n\",\"color\":\"gold\",\"bold\":true},{\"text\":\"Tyros, Dead King, Sandworm, Yeti, Dragon, Knight, Kraken - all defeated!\\n\",\"color\":\"white\"},{\"text\":\"You are the strongest Boss Hunter! Legendary!\\n\",\"color\":\"yellow\"},{\"text\":\"========================================\",\"color\":\"dark_red\"}]"
+					id: "73675D91F7A3B3C8"
+					type: "command"
+				}
+				{
+					count: 5
+					id: "1088E1D3CBC23A1F"
+					item: {
+						count: 1
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [
+				{
+					count: 10L
+					id: "000000011000014A"
+					item: { count: 1, id: "minecraft:nether_star" }
+					type: "item"
+				}
+				{
+					id: "000000011000014B"
+					item: { count: 1, id: "minecraft:beacon" }
+					type: "item"
+				}
+				{
+					id: "000000011000014C"
+					item: { count: 1, id: "minecraft:dragon_head" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 14.0d
+		}
+	]
+}

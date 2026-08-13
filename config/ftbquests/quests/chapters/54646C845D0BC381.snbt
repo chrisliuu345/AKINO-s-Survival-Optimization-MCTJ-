@@ -1,0 +1,305 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "54646C845D0BC381"
+	group: ""
+	id: "54646C845D0BC381"
+	images: [ ]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["0000000000000015"]
+			icon_scale: 1.8d
+			id: "0000000003000001"
+			rewards: [{
+				id: "1912E7B0DA629FD9"
+				item: {
+					count: 1
+					id: "sophisticatedbackpacks:backpack"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [
+				{
+					id: "000000003000001A"
+					item: { count: 1, id: "minecraft:chest" }
+					type: "item"
+				}
+				{
+					id: "757C76F8873D9824"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0000000003000001"]
+			id: "0000000003000002"
+			rewards: [{
+				id: "7D9DA3CABECED685"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "000000003000002A"
+				item: { count: 1, id: "sophisticatedbackpacks:backpack" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0000000003000002"]
+			id: "0000000003000003"
+			rewards: [
+				{
+					count: 8
+					id: "52BE311DBC899A2E"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "79AD775F74EBEB04"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				id: "000000003000003A"
+				item: { count: 1, id: "sophisticatedbackpacks:iron_backpack" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0000000003000003"]
+			id: "0000000003000004"
+			rewards: [
+				{
+					count: 8
+					id: "558A71DEB0ED07D8"
+					item: {
+						count: 1
+						id: "minecraft:gold_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "7F013B9A0E18708C"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			tasks: [{
+				id: "000000003000004A"
+				item: { count: 1, id: "sophisticatedbackpacks:gold_backpack" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0000000003000004"]
+			id: "0000000003000005"
+			rewards: [
+				{
+					count: 3
+					id: "5C37FA228AA4B787"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "732E7AB1A6661B4C"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			tasks: [{
+				id: "000000003000005A"
+				item: { count: 1, id: "sophisticatedbackpacks:diamond_backpack" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0000000003000005"]
+			id: "0000000003000006"
+			rewards: [{
+				id: "02374563EFAA2769"
+				type: "xp_levels"
+				xp_levels: 20
+			}]
+			tasks: [{
+				id: "000000003000006A"
+				item: { count: 1, id: "sophisticatedbackpacks:netherite_backpack" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0000000003000001"]
+			id: "0000000003000007"
+			rewards: [{
+				id: "56D49B29F90ECE76"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "000000003000007A"
+				item: { count: 1, id: "sophisticatedstorage:barrel" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0000000003000007"]
+			id: "0000000003000008"
+			rewards: [{
+				id: "0B6AF6F51EBE4B5E"
+				type: "xp_levels"
+				xp_levels: 15
+			}]
+			tasks: [
+				{
+					id: "000000003000008A"
+					item: { count: 1, id: "minecraft:iron_block" }
+					type: "item"
+				}
+				{
+					id: "000000003000008B"
+					item: { count: 1, id: "minecraft:gold_block" }
+					type: "item"
+				}
+				{
+					id: "000000003000008C"
+					item: { count: 1, id: "minecraft:diamond_block" }
+					type: "item"
+				}
+				{
+					id: "000000003000008D"
+					item: { count: 1, id: "minecraft:netherite_block" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"0000000003000006"
+				"0000000003000007"
+			]
+			id: "0000000003000009"
+			rewards: [{
+				id: "14FC3F0CC31489C2"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "000000003000009A"
+				item: { count: 1, id: "sophisticatedstorage:controller" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["0000000003000009"]
+			id: "0000000003000010"
+			rewards: [{
+				id: "23B72F0ACB2DB1D2"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [{
+				id: "000000003000010A"
+				item: { count: 1, id: "sophisticatedstorage:storage_link" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["0000000003000010"]
+			icon_scale: 1.5d
+			id: "0000000003000011"
+			rewards: [{
+				id: "360EBCA210C2F9A3"
+				type: "xp_levels"
+				xp_levels: 20
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [
+				{
+					id: "000000003000011A"
+					item: { count: 1, id: "minecraft:chest" }
+					type: "item"
+				}
+				{
+					id: "000000003000011B"
+					item: { count: 1, id: "minecraft:barrel" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["0000000003000011"]
+			icon_scale: 1.8d
+			id: "0000000003000012"
+			rewards: [
+				{
+					count: 5
+					id: "4B92E750D54EC0DB"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "3FAFE0804550E72C"
+					type: "xp_levels"
+					xp_levels: 30
+				}
+				{
+					command: "/tellraw @a [{\"text\":\"========================================\",\"color\":\"gold\"},{\"text\":\"\\n  = Storage Master - Graduated! =\\n\",\"color\":\"gold\",\"bold\":true},{\"text\":\"%s has mastered Sophisticated Backpacks and Storage!\\n\",\"color\":\"white\"},{\"text\":\"Netherite Backpack + Storage Controller + Automated Warehouse\\n\",\"color\":\"aqua\"},{\"text\":\"========================================\",\"color\":\"gold\"}]"
+					id: "7200EB33A9A9362C"
+					type: "command"
+				}
+			]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [
+				{
+					id: "000000003000012A"
+					item: { count: 1, id: "sophisticatedbackpacks:netherite_backpack" }
+					type: "item"
+				}
+				{
+					id: "000000003000012B"
+					item: { count: 1, id: "sophisticatedstorage:controller" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 12.0d
+		}
+	]
+}

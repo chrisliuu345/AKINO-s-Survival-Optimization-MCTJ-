@@ -1,0 +1,47 @@
+{
+	"level_limit": 84,
+	"experience_per_level": {
+		"type": "expression",
+		"data": {
+			"expression": "min(level ^ 1.85 + 45, 1300)"
+		}
+	},
+	"sources": [
+		{
+			"type": "puffish_skills:mine_block",
+			"data": {
+				"experience": "0.08"
+			}
+		},
+		{
+			"type": "puffish_skills:break_block",
+			"data": {
+				"experience": "0.04"
+			}
+		},
+		{
+			"type": "pufferfish_unofficial_additions:harvest_crops",
+			"data": {
+				"experience": "0.12"
+			}
+		},
+		{
+			"type": "puffish_skills:eat_food",
+			"data": {
+				"experience": "0.12"
+			}
+		},
+		{
+			"type": "puffish_skills:heal",
+			"data": {
+				"experience": "0.06"
+			}
+		},
+		{
+			"type": "pufferfish_unofficial_additions:fishing",
+			"data": {
+				"experience": "0.25"
+			}
+		}
+	]
+}

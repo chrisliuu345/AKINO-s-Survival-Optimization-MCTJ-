@@ -1,0 +1,1435 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "5BC15F5B1D0DCFA0"
+	group: ""
+	id: "5BC15F5B1D0DCFA0"
+	images: [ ]
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["0000000000000015"]
+			icon_scale: 1.5d
+			id: "0000000008000001"
+			rewards: [{
+				count: 32
+				id: "042E52683F8D9CA1"
+				item: {
+					count: 1
+					id: "create:andesite_alloy"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [
+				{
+					count: 16L
+					id: "000000008000001A"
+					item: { count: 1, id: "create:andesite_casing" }
+					type: "item"
+				}
+				{
+					id: "1A1CFC7E7B9B11A6"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0000000008000001"]
+			id: "0000000008000002"
+			rewards: [{
+				id: "5C86906E33732FCE"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "circle"
+			tasks: [{
+				count: 32L
+				id: "000000008000002A"
+				item: { count: 1, id: "create:andesite_alloy" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0000000008000002"]
+			id: "0000000008000003"
+			rewards: [{
+				id: "617C873415EF4E4F"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "circle"
+			tasks: [{
+				count: 32L
+				id: "000000008000003A"
+				item: { count: 1, id: "create:andesite_casing" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0000000008000002"]
+			id: "0000000008000004"
+			rewards: [{
+				id: "146B0CFBECB48DC7"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			shape: "circle"
+			tasks: [{
+				count: 4L
+				id: "000000008000004A"
+				item: { count: 1, id: "create:andesite_alloy_block" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0000000008000001"]
+			id: "0000000008000005"
+			rewards: [{
+				id: "5005C7DEAC6D14D1"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "circle"
+			tasks: [{
+				count: 2L
+				id: "000000008000005A"
+				item: { count: 1, id: "create:water_wheel" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0000000008000005"]
+			id: "0000000008000006"
+			rewards: [{
+				id: "3353D8831F1873FE"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			shape: "circle"
+			tasks: [{
+				count: 2L
+				id: "000000008000006A"
+				item: { count: 1, id: "create:large_water_wheel" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0000000008000005"]
+			id: "0000000008000007"
+			rewards: [{
+				id: "03C505850C6E32EF"
+				type: "xp_levels"
+				xp_levels: 6
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					count: 16L
+					id: "000000008000007A"
+					item: { count: 1, id: "create:shaft" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "000000008000007B"
+					item: { count: 1, id: "create:cogwheel" }
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0000000008000007"]
+			id: "0000000008000008"
+			rewards: [{
+				id: "1A6FC9D68AE95F3A"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					count: 4L
+					id: "000000008000008A"
+					item: { count: 1, id: "create:gearbox" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "000000008000008B"
+					item: { count: 1, id: "create:large_cogwheel" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["0000000008000008"]
+			id: "0000000008000009"
+			rewards: [{
+				id: "4DB4164E01433CE8"
+				type: "xp_levels"
+				xp_levels: 6
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					count: 2L
+					id: "000000008000009A"
+					item: { count: 1, id: "create:gearshift" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "000000008000009B"
+					item: { count: 1, id: "create:clutch" }
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["0000000008000009"]
+			id: "0000000008000010"
+			rewards: [{
+				id: "291B6EEAB6F1A6C0"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					id: "000000008000010A"
+					item: { count: 1, id: "create:rotation_speed_controller" }
+					type: "item"
+				}
+				{
+					id: "000000008000010B"
+					item: { count: 1, id: "create:sequenced_gearshift" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["0000000008000007"]
+			id: "0000000008000011"
+			rewards: [{
+				id: "3FAFD7D5F69EBE70"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					count: 16L
+					id: "000000008000011A"
+					item: { count: 1, id: "create:belt_connector" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "000000008000011B"
+					item: { count: 1, id: "create:chain_conveyor" }
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["0000000008000011"]
+			id: "0000000008000012"
+			rewards: [{
+				id: "14ABF7B9A67349E9"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					id: "000000008000012A"
+					item: { count: 1, id: "create:windmill_bearing" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "000000008000012B"
+					item: { count: 1, id: "create:sail_frame" }
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["0000000008000012"]
+			id: "0000000008000013"
+			rewards: [{
+				id: "61E64CEB94415C82"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					id: "000000008000013A"
+					item: { count: 1, id: "create:blaze_burner" }
+					type: "item"
+				}
+				{
+					id: "000000008000013B"
+					item: { count: 1, id: "create:empty_blaze_burner" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["0000000008000013"]
+			id: "0000000008000014"
+			rewards: [{
+				id: "1A2D0475EC0AFABD"
+				type: "xp_levels"
+				xp_levels: 15
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					id: "000000008000014A"
+					item: { count: 1, id: "create:steam_engine" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "000000008000014B"
+					item: { count: 1, id: "create:fluid_tank" }
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["0000000008000014"]
+			id: "0000000008000015"
+			rewards: [{
+				id: "7BD6C0807A6F85A8"
+				type: "xp_levels"
+				xp_levels: 20
+			}]
+			shape: "circle"
+			tasks: [{
+				count: 4L
+				id: "000000008000015A"
+				item: { count: 1, id: "create:blaze_cake" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["0000000008000005"]
+			id: "0000000008000016"
+			rewards: [{
+				id: "13B00AD4C2F01C08"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					count: 2L
+					id: "000000008000016A"
+					item: { count: 1, id: "create:millstone" }
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "000000008000016B"
+					item: { count: 1, id: "create:wheat_flour" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0000000008000016"]
+			id: "0000000008000017"
+			rewards: [{
+				id: "4B6CD6EC359B4D89"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			shape: "circle"
+			tasks: [{
+				count: 16L
+				id: "000000008000017A"
+				item: { count: 1, id: "create:dough" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["0000000008000005"]
+			id: "0000000008000018"
+			rewards: [{
+				id: "3FA0F38045680980"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					count: 4L
+					id: "000000008000018A"
+					item: { count: 1, id: "create:encased_fan" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "000000008000018B"
+					item: { count: 1, id: "create:iron_sheet" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0000000008000005"]
+			id: "0000000008000019"
+			rewards: [{
+				id: "1329B1F87F5B6DAB"
+				type: "xp_levels"
+				xp_levels: 6
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					count: 2L
+					id: "000000008000019A"
+					item: { count: 1, id: "create:mechanical_press" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "000000008000019B"
+					item: { count: 1, id: "create:iron_sheet" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0000000008000019"]
+			id: "0000000008000020"
+			rewards: [{
+				id: "305BE93A747E40FA"
+				type: "xp_levels"
+				xp_levels: 6
+			}]
+			shape: "circle"
+			tasks: [{
+				count: 16L
+				id: "000000008000020A"
+				item: { count: 1, id: "create:golden_sheet" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["0000000008000019"]
+			id: "0000000008000021"
+			rewards: [{
+				id: "2D347EFD61B2F9B2"
+				type: "xp_levels"
+				xp_levels: 6
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					count: 16L
+					id: "000000008000021A"
+					item: { count: 1, id: "create:copper_sheet" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "000000008000021B"
+					item: { count: 1, id: "create:zinc_ingot" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["0000000008000001"]
+			id: "0000000008000022"
+			rewards: [{
+				id: "0F59458FC03AE1E5"
+				type: "xp_levels"
+				xp_levels: 6
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					count: 32L
+					id: "000000008000022A"
+					item: { count: 1, id: "create:raw_zinc" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "000000008000022B"
+					item: { count: 1, id: "create:zinc_ingot" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0000000008000022"]
+			id: "0000000008000023"
+			rewards: [{
+				id: "046DAB7F4F07BB44"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					id: "000000008000023A"
+					item: { count: 1, id: "create:zinc_block" }
+					type: "item"
+				}
+				{
+					id: "000000008000023B"
+					item: { count: 1, id: "create:raw_zinc_block" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"0000000008000019"
+				"0000000008000022"
+			]
+			id: "0000000008000024"
+			rewards: [{
+				id: "52D08B3C572D21E3"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					id: "000000008000024A"
+					item: { count: 1, id: "create:mechanical_mixer" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "000000008000024B"
+					item: { count: 1, id: "create:basin" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["0000000008000024"]
+			id: "0000000008000025"
+			rewards: [{
+				id: "7DF39D35A0D9F802"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			shape: "circle"
+			tasks: [{
+				count: 32L
+				id: "000000008000025A"
+				item: { count: 1, id: "create:brass_ingot" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["0000000008000025"]
+			id: "0000000008000026"
+			rewards: [{
+				id: "3259DD325AB00965"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			shape: "circle"
+			tasks: [{
+				count: 16L
+				id: "000000008000026A"
+				item: { count: 1, id: "create:brass_casing" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["0000000008000026"]
+			id: "0000000008000027"
+			rewards: [{
+				id: "122145A37118E5D4"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					count: 8L
+					id: "000000008000027A"
+					item: { count: 1, id: "create:brass_funnel" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "000000008000027B"
+					item: { count: 1, id: "create:brass_tunnel" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["0000000008000003"]
+			id: "0000000008000028"
+			rewards: [{
+				id: "609A4277A750F733"
+				type: "xp_levels"
+				xp_levels: 6
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					count: 8L
+					id: "000000008000028A"
+					item: { count: 1, id: "create:andesite_funnel" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "000000008000028B"
+					item: { count: 1, id: "create:andesite_tunnel" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["0000000008000025"]
+			id: "0000000008000029"
+			rewards: [{
+				id: "2CE6D67930D3BA3C"
+				type: "xp_levels"
+				xp_levels: 15
+			}]
+			shape: "circle"
+			tasks: [{
+				count: 8L
+				id: "000000008000029A"
+				item: { count: 1, id: "create:precision_mechanism" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["0000000008000029"]
+			id: "0000000008000030"
+			rewards: [{
+				id: "09C58289F9FF44A6"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			shape: "circle"
+			tasks: [{
+				count: 4L
+				id: "000000008000030A"
+				item: { count: 1, id: "create:mechanical_drill" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["0000000008000029"]
+			id: "0000000008000031"
+			rewards: [{
+				id: "2EB601A7CE923BB1"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					count: 2L
+					id: "000000008000031A"
+					item: { count: 1, id: "create:mechanical_harvester" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "000000008000031B"
+					item: { count: 1, id: "create:mechanical_saw" }
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["0000000008000029"]
+			id: "0000000008000032"
+			rewards: [{
+				id: "35B395D2794064AB"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					count: 2L
+					id: "000000008000032A"
+					item: { count: 1, id: "create:mechanical_plough" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "000000008000032B"
+					item: { count: 1, id: "create:mechanical_roller" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["0000000008000021"]
+			id: "0000000008000033"
+			rewards: [{
+				id: "4003382DF0B0FA83"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "circle"
+			tasks: [{
+				count: 8L
+				id: "000000008000033A"
+				item: { count: 1, id: "create:copper_casing" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["0000000008000026"]
+			id: "0000000008000034"
+			rewards: [{
+				id: "0487944B19543623"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					count: 16L
+					id: "000000008000034A"
+					item: { count: 1, id: "create:chute" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "000000008000034B"
+					item: { count: 1, id: "create:smart_chute" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["0000000008000029"]
+			id: "0000000008000035"
+			rewards: [{
+				id: "6CF228E0FABB2FFE"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			shape: "circle"
+			tasks: [{
+				count: 4L
+				id: "000000008000035A"
+				item: { count: 1, id: "create:deployer" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["0000000008000029"]
+			id: "0000000008000036"
+			rewards: [{
+				id: "476761220894392C"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			shape: "circle"
+			tasks: [{
+				count: 2L
+				id: "000000008000036A"
+				item: { count: 1, id: "create:mechanical_arm" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["0000000008000031"]
+			id: "0000000008000037"
+			rewards: [{
+				id: "4AD14C7952FF6745"
+				type: "xp_levels"
+				xp_levels: 12
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					count: 2L
+					id: "000000008000037A"
+					item: { count: 1, id: "create:crushing_wheel" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "000000008000037B"
+					item: { count: 1, id: "create:crushed_raw_iron" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["0000000008000037"]
+			id: "0000000008000038"
+			rewards: [{
+				id: "18CFC565B84B4B6D"
+				type: "xp_levels"
+				xp_levels: 15
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					count: 32L
+					id: "000000008000038A"
+					item: { count: 1, id: "create:crushed_raw_gold" }
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "000000008000038B"
+					item: { count: 1, id: "create:crushed_raw_copper" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "000000008000038C"
+					item: { count: 1, id: "create:crushed_raw_zinc" }
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["0000000008000029"]
+			id: "0000000008000039"
+			rewards: [{
+				id: "741594A32371CA14"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					count: 16L
+					id: "000000008000039A"
+					item: { count: 1, id: "create:fluid_pipe" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "000000008000039B"
+					item: { count: 1, id: "create:mechanical_pump" }
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["0000000008000039"]
+			id: "0000000008000040"
+			rewards: [{
+				id: "6BBB4F43C6765567"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					id: "000000008000040A"
+					item: { count: 1, id: "create:hose_pulley" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "000000008000040B"
+					item: { count: 1, id: "create:spout" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "000000008000040C"
+					item: { count: 1, id: "create:fluid_valve" }
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["0000000008000039"]
+			id: "0000000008000041"
+			rewards: [{
+				id: "2909F51F3E45B813"
+				type: "xp_levels"
+				xp_levels: 6
+			}]
+			shape: "circle"
+			tasks: [{
+				count: 8L
+				id: "000000008000041A"
+				item: { count: 1, id: "create:fluid_tank" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["0000000008000036"]
+			id: "0000000008000042"
+			rewards: [{
+				id: "3D92B75597B06C54"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			shape: "circle"
+			tasks: [{
+				count: 4L
+				id: "000000008000042A"
+				item: { count: 1, id: "create:item_vault" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 19.0d
+		}
+		{
+			dependencies: ["0000000008000042"]
+			id: "0000000008000043"
+			rewards: [{
+				id: "362BB108D672BB78"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					count: 2L
+					id: "000000008000043A"
+					item: { count: 1, id: "create:portable_storage_interface" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "000000008000043B"
+					item: { count: 1, id: "create:portable_fluid_interface" }
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 19.0d
+		}
+		{
+			dependencies: ["0000000008000029"]
+			id: "0000000008000044"
+			rewards: [{
+				id: "164671C74E96E10A"
+				type: "xp_levels"
+				xp_levels: 6
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					count: 2L
+					id: "000000008000044A"
+					item: { count: 1, id: "create:mechanical_piston" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "000000008000044B"
+					item: { count: 1, id: "create:sticky_mechanical_piston" }
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["0000000008000044"]
+			id: "0000000008000045"
+			rewards: [{
+				id: "44FE31F33EF99376"
+				type: "xp_levels"
+				xp_levels: 6
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					count: 4L
+					id: "000000008000045A"
+					item: { count: 1, id: "create:gantry_shaft" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "000000008000045B"
+					item: { count: 1, id: "create:gantry_carriage" }
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: 11.0d
+		}
+		{
+			dependencies: [
+				"0000000008000035"
+				"0000000008000037"
+			]
+			id: "0000000008000046"
+			rewards: [{
+				id: "381F659C116EEC19"
+				type: "xp_levels"
+				xp_levels: 12
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					count: 4L
+					id: "000000008000046A"
+					item: { count: 1, id: "create:mechanical_arm" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "000000008000046B"
+					item: { count: 1, id: "create:deployer" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 21.0d
+		}
+		{
+			dependencies: [
+				"0000000008000034"
+				"0000000008000042"
+				"0000000008000040"
+			]
+			id: "0000000008000047"
+			rewards: [{
+				id: "5D145DB6113CDE9E"
+				type: "xp_levels"
+				xp_levels: 15
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					count: 16L
+					id: "000000008000047A"
+					item: { count: 1, id: "create:smart_chute" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "000000008000047B"
+					item: { count: 1, id: "create:brass_funnel" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "000000008000047C"
+					item: { count: 1, id: "create:item_vault" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 21.0d
+		}
+		{
+			dependencies: ["0000000008000026"]
+			id: "0000000008000048"
+			rewards: [{
+				id: "10E2CE3777DE7B2F"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					count: 64L
+					id: "000000008000048A"
+					item: { count: 1, id: "create:track" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "000000008000048B"
+					item: { count: 1, id: "create:controller_rail" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "000000008000048C"
+					item: { count: 1, id: "create:train_door" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "000000008000048D"
+					item: { count: 1, id: "create:train_trapdoor" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["0000000008000048"]
+			id: "0000000008000049"
+			rewards: [{
+				id: "7B68C7646B348868"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					id: "000000008000049A"
+					item: { count: 1, id: "create:track_station" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "000000008000049B"
+					item: { count: 1, id: "create:track_signal" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "000000008000049C"
+					item: { count: 1, id: "create:track_observer" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 19.0d
+		}
+		{
+			dependencies: ["0000000008000029"]
+			id: "0000000008000050"
+			rewards: [{
+				id: "1FF07912B783244C"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					id: "000000008000050A"
+					item: { count: 1, id: "create:schematicannon" }
+					type: "item"
+				}
+				{
+					id: "000000008000050B"
+					item: { count: 1, id: "create:schematic_table" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "000000008000050C"
+					item: { count: 1, id: "create:empty_schematic" }
+					type: "item"
+				}
+				{
+					id: "000000008000050D"
+					item: { count: 1, id: "create:schematic_and_quill" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["0000000008000001"]
+			id: "0000000008000051"
+			rewards: [{
+				id: "6B78C9F379DB1AFC"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					id: "000000008000051A"
+					item: { count: 1, id: "create:wrench" }
+					type: "item"
+				}
+				{
+					id: "000000008000051B"
+					item: { count: 1, id: "create:goggles" }
+					type: "item"
+				}
+				{
+					id: "000000008000051C"
+					item: { count: 1, id: "create:speedometer" }
+					type: "item"
+				}
+				{
+					id: "000000008000051D"
+					item: { count: 1, id: "create:stressometer" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["0000000008000025"]
+			id: "0000000008000052"
+			rewards: [{
+				id: "0D8BED3CF9F9F846"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					id: "000000008000052A"
+					item: { count: 1, id: "create:brass_hand" }
+					type: "item"
+				}
+				{
+					id: "000000008000052B"
+					item: { count: 1, id: "create:extendo_grip" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "000000008000052C"
+					item: { count: 1, id: "create:builders_tea" }
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: 17.0d
+		}
+		{
+			dependencies: [
+				"0000000008000032"
+				"0000000008000046"
+				"0000000008000047"
+			]
+			icon_scale: 1.5d
+			id: "0000000008000053"
+			rewards: [
+				{
+					id: "50DFA5B359D299C4"
+					type: "xp_levels"
+					xp_levels: 30
+				}
+				{
+					count: 4
+					id: "3B102006A3698101"
+					item: {
+						count: 1
+						id: "create:brass_block"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [
+				{
+					count: 64L
+					id: "000000008000053A"
+					item: { count: 1, id: "create:brass_ingot" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "000000008000053B"
+					item: { count: 1, id: "create:precision_mechanism" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "000000008000053C"
+					item: { count: 1, id: "create:andesite_casing" }
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "000000008000053D"
+					item: { count: 1, id: "create:brass_casing" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 22.0d
+		}
+		{
+			dependencies: ["0000000008000053"]
+			id: "0000000008000054"
+			rewards: [{
+				id: "572F33576FA35349"
+				type: "xp_levels"
+				xp_levels: 25
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					id: "000000008000054A"
+					item: { count: 1, id: "create:netherite_backtank" }
+					type: "item"
+				}
+				{
+					id: "000000008000054B"
+					item: { count: 1, id: "create:copper_backtank" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 22.0d
+		}
+		{
+			dependencies: [
+				"0000000008000053"
+				"0000000008000054"
+				"0000000008000050"
+			]
+			icon_scale: 1.8d
+			id: "0000000008000055"
+			rewards: [
+				{
+					id: "31C157CF6628EE2F"
+					item: {
+						count: 1
+						id: "create:netherite_backtank"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "0A05237B4FD4E802"
+					item: {
+						count: 1
+						id: "create:brass_block"
+					}
+					type: "item"
+				}
+				{
+					id: "33BB4173EBF49AAD"
+					type: "xp_levels"
+					xp_levels: 50
+				}
+				{
+					command: "/tellraw @p [\"\",{\"text\":\"▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\",\"color\":\"gold\"},{\"text\":\"\\n  ✔ Create — Graduation!\\n\",\"color\":\"gold\",\"bold\":true},{\"text\":\"From waterwheel to full automation, you are a true master engineer!\\n\",\"color\":\"white\"},{\"text\":\"▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\",\"color\":\"gold\"}]"
+					id: "1EABD6E4127FC5CE"
+					type: "command"
+				}
+			]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [
+				{
+					count: 8L
+					id: "000000008000055A"
+					item: { count: 1, id: "create:brass_block" }
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "000000008000055B"
+					item: { count: 1, id: "create:precision_mechanism" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "000000008000055C"
+					item: { count: 1, id: "create:andesite_alloy_block" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "000000008000055D"
+					item: { count: 1, id: "create:rose_quartz_block" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 24.0d
+		}
+	]
+}

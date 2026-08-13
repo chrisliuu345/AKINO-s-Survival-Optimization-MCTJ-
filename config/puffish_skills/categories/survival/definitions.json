@@ -1,0 +1,3773 @@
+{
+	"survival_root_a": {
+		"title": {
+			"translate": "survival_root_a_title"
+		},
+		"description": {
+			"translate": "survival_root_a_description"
+		},
+		"extra_description": {
+			"translate": "survival_root_a_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "cooked_beef"
+			}
+		},
+		"cost": 1,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 1,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+	"survival_root_b": {
+		"title": {
+			"translate": "survival_root_b_title"
+		},
+		"description": {
+			"translate": "survival_root_b_description"
+		},
+		"extra_description": {
+			"translate": "survival_root_b_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_pickaxe"
+			}
+		},
+		"cost": 1,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.mining_speed",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.fortune",
+					"value": 0.1,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"survival_d1": {
+		"title": {
+			"translate": "survival_d1_title"
+		},
+		"description": {
+			"translate": "survival_d1_description"
+		},
+		"extra_description": {
+			"translate": "survival_d1_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "rotten_flesh"
+			}
+		},
+		"cost": 1,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+	"survival_d2": {
+		"title": {
+			"translate": "survival_d2_title"
+		},
+		"description": {
+			"translate": "survival_d2_description"
+		},
+		"extra_description": {
+			"translate": "survival_d2_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "rotten_flesh"
+			}
+		},
+		"cost": 2,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 8
+	},
+	"survival_d3": {
+		"title": {
+			"translate": "survival_d3_title"
+		},
+		"description": {
+			"translate": "survival_d3_description"
+		},
+		"extra_description": {
+			"translate": "survival_d3_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "rotten_flesh"
+			}
+		},
+		"cost": 3,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.15,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.15,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 20
+	},
+	"survival_d4": {
+		"title": {
+			"translate": "survival_d4_title"
+		},
+		"description": {
+			"translate": "survival_d4_description"
+		},
+		"extra_description": {
+			"translate": "survival_d4_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "rotten_flesh"
+			}
+		},
+		"cost": 4,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.2,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.2,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:poison",
+					"type": "IMMUNE",
+					"amplifier": 0
+				}
+			}
+		],
+		"required_spent_points": 35
+	},
+	"survival_d5": {
+		"title": {
+			"translate": "survival_d5_title"
+		},
+		"description": {
+			"translate": "survival_d5_description"
+		},
+		"extra_description": {
+			"translate": "survival_d5_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "rotten_flesh"
+			}
+		},
+		"cost": 5,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.25,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.25,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:regeneration",
+					"type": "GRANT",
+					"amplifier": 0,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 55
+	},
+	"survival_d6": {
+		"title": {
+			"translate": "survival_d6_title"
+		},
+		"description": {
+			"translate": "survival_d6_description"
+		},
+		"extra_description": {
+			"translate": "survival_d6_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "rotten_flesh"
+			}
+		},
+		"cost": 6,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.3,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.3,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:regeneration",
+					"type": "GRANT",
+					"amplifier": 1,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 75
+	},
+	"survival_d7": {
+		"title": {
+			"translate": "survival_d7_title"
+		},
+		"description": {
+			"translate": "survival_d7_description"
+		},
+		"extra_description": {
+			"translate": "survival_d7_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "rotten_flesh"
+			}
+		},
+		"cost": 7,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.32,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.32,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 95
+	},
+	"survival_d8": {
+		"title": {
+			"translate": "survival_d8_title"
+		},
+		"description": {
+			"translate": "survival_d8_description"
+		},
+		"extra_description": {
+			"translate": "survival_d8_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "rotten_flesh"
+			}
+		},
+		"cost": 8,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.35,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.35,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:wither",
+					"type": "IMMUNE",
+					"amplifier": 0
+				}
+			}
+		],
+		"required_spent_points": 115
+	},
+	"survival_d9": {
+		"title": {
+			"translate": "survival_d9_title"
+		},
+		"description": {
+			"translate": "survival_d9_description"
+		},
+		"extra_description": {
+			"translate": "survival_d9_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "rotten_flesh"
+			}
+		},
+		"cost": 10,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.38,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.38,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 135
+	},
+	"survival_d10": {
+		"title": {
+			"translate": "survival_d10_title"
+		},
+		"description": {
+			"translate": "survival_d10_description"
+		},
+		"extra_description": {
+			"translate": "survival_d10_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "rotten_flesh"
+			}
+		},
+		"cost": 12,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.38,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.4,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:regeneration",
+					"type": "GRANT",
+					"amplifier": 2,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 155
+	},
+	"survival_d11": {
+		"title": {
+			"translate": "survival_d11_title"
+		},
+		"description": {
+			"translate": "survival_d11_description"
+		},
+		"extra_description": {
+			"translate": "survival_d11_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "rotten_flesh"
+			}
+		},
+		"cost": 14,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.4,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.4,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 175
+	},
+	"survival_d12": {
+		"title": {
+			"translate": "survival_d12_title"
+		},
+		"description": {
+			"translate": "survival_d12_description"
+		},
+		"extra_description": {
+			"translate": "survival_d12_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "rotten_flesh"
+			}
+		},
+		"cost": 16,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.4,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.45,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:regeneration",
+					"type": "GRANT",
+					"amplifier": 3,
+					"show_icon": true
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.03,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"required_spent_points": 195
+	},
+	"survival_e1": {
+		"title": {
+			"translate": "survival_e1_title"
+		},
+		"description": {
+			"translate": "survival_e1_description"
+		},
+		"extra_description": {
+			"translate": "survival_e1_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "regeneration"
+			}
+		},
+		"cost": 1,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+	"survival_e2": {
+		"title": {
+			"translate": "survival_e2_title"
+		},
+		"description": {
+			"translate": "survival_e2_description"
+		},
+		"extra_description": {
+			"translate": "survival_e2_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "regeneration"
+			}
+		},
+		"cost": 2,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.2,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.01,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"required_spent_points": 8
+	},
+	"survival_e3": {
+		"title": {
+			"translate": "survival_e3_title"
+		},
+		"description": {
+			"translate": "survival_e3_description"
+		},
+		"extra_description": {
+			"translate": "survival_e3_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "regeneration"
+			}
+		},
+		"cost": 3,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.3,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.02,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 20
+	},
+	"survival_e4": {
+		"title": {
+			"translate": "survival_e4_title"
+		},
+		"description": {
+			"translate": "survival_e4_description"
+		},
+		"extra_description": {
+			"translate": "survival_e4_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "regeneration"
+			}
+		},
+		"cost": 4,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.4,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.03,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:weakness",
+					"type": "IMMUNE",
+					"amplifier": 0
+				}
+			}
+		],
+		"required_spent_points": 35
+	},
+	"survival_e5": {
+		"title": {
+			"translate": "survival_e5_title"
+		},
+		"description": {
+			"translate": "survival_e5_description"
+		},
+		"extra_description": {
+			"translate": "survival_e5_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "regeneration"
+			}
+		},
+		"cost": 5,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.5,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.04,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:regeneration",
+					"type": "GRANT",
+					"amplifier": 0,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 55
+	},
+	"survival_e6": {
+		"title": {
+			"translate": "survival_e6_title"
+		},
+		"description": {
+			"translate": "survival_e6_description"
+		},
+		"extra_description": {
+			"translate": "survival_e6_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "regeneration"
+			}
+		},
+		"cost": 6,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.6,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:regeneration",
+					"type": "GRANT",
+					"amplifier": 1,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 75
+	},
+	"survival_e7": {
+		"title": {
+			"translate": "survival_e7_title"
+		},
+		"description": {
+			"translate": "survival_e7_description"
+		},
+		"extra_description": {
+			"translate": "survival_e7_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "regeneration"
+			}
+		},
+		"cost": 7,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.62,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.06,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 95
+	},
+	"survival_e8": {
+		"title": {
+			"translate": "survival_e8_title"
+		},
+		"description": {
+			"translate": "survival_e8_description"
+		},
+		"extra_description": {
+			"translate": "survival_e8_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "regeneration"
+			}
+		},
+		"cost": 8,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.65,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.06,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:slowness",
+					"type": "IMMUNE",
+					"amplifier": 0
+				}
+			}
+		],
+		"required_spent_points": 115
+	},
+	"survival_e9": {
+		"title": {
+			"translate": "survival_e9_title"
+		},
+		"description": {
+			"translate": "survival_e9_description"
+		},
+		"extra_description": {
+			"translate": "survival_e9_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "regeneration"
+			}
+		},
+		"cost": 10,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.68,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.07,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 135
+	},
+	"survival_e10": {
+		"title": {
+			"translate": "survival_e10_title"
+		},
+		"description": {
+			"translate": "survival_e10_description"
+		},
+		"extra_description": {
+			"translate": "survival_e10_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "regeneration"
+			}
+		},
+		"cost": 12,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.7,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.07,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:regeneration",
+					"type": "GRANT",
+					"amplifier": 2,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 155
+	},
+	"survival_e11": {
+		"title": {
+			"translate": "survival_e11_title"
+		},
+		"description": {
+			"translate": "survival_e11_description"
+		},
+		"extra_description": {
+			"translate": "survival_e11_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "regeneration"
+			}
+		},
+		"cost": 14,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.75,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.08,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 175
+	},
+	"survival_e12": {
+		"title": {
+			"translate": "survival_e12_title"
+		},
+		"description": {
+			"translate": "survival_e12_description"
+		},
+		"extra_description": {
+			"translate": "survival_e12_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "regeneration"
+			}
+		},
+		"cost": 16,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.8,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:regeneration",
+					"type": "GRANT",
+					"amplifier": 3,
+					"show_icon": true
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.15,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"required_spent_points": 195
+	},
+	"survival_a1": {
+		"title": {
+			"translate": "survival_a1_title"
+		},
+		"description": {
+			"translate": "survival_a1_description"
+		},
+		"extra_description": {
+			"translate": "survival_a1_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_pickaxe"
+			}
+		},
+		"cost": 1,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.mining_speed",
+					"value": 0.08,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"survival_a2": {
+		"title": {
+			"translate": "survival_a2_title"
+		},
+		"description": {
+			"translate": "survival_a2_description"
+		},
+		"extra_description": {
+			"translate": "survival_a2_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_pickaxe"
+			}
+		},
+		"cost": 2,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.mining_speed",
+					"value": 0.15,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.fortune",
+					"value": 0.3,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 8
+	},
+	"survival_a3": {
+		"title": {
+			"translate": "survival_a3_title"
+		},
+		"description": {
+			"translate": "survival_a3_description"
+		},
+		"extra_description": {
+			"translate": "survival_a3_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_pickaxe"
+			}
+		},
+		"cost": 3,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.mining_speed",
+					"value": 0.2,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.fortune",
+					"value": 0.5,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 20
+	},
+	"survival_a4": {
+		"title": {
+			"translate": "survival_a4_title"
+		},
+		"description": {
+			"translate": "survival_a4_description"
+		},
+		"extra_description": {
+			"translate": "survival_a4_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_pickaxe"
+			}
+		},
+		"cost": 4,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.mining_speed",
+					"value": 0.25,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.fortune",
+					"value": 0.7,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:haste",
+					"type": "GRANT",
+					"amplifier": 0,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 35
+	},
+	"survival_a5": {
+		"title": {
+			"translate": "survival_a5_title"
+		},
+		"description": {
+			"translate": "survival_a5_description"
+		},
+		"extra_description": {
+			"translate": "survival_a5_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_pickaxe"
+			}
+		},
+		"cost": 5,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.mining_speed",
+					"value": 0.3,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.fortune",
+					"value": 1,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:haste",
+					"type": "GRANT",
+					"amplifier": 1,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 55
+	},
+	"survival_a6": {
+		"title": {
+			"translate": "survival_a6_title"
+		},
+		"description": {
+			"translate": "survival_a6_description"
+		},
+		"extra_description": {
+			"translate": "survival_a6_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_pickaxe"
+			}
+		},
+		"cost": 6,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.mining_speed",
+					"value": 0.35,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.fortune",
+					"value": 1.2,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:haste",
+					"type": "GRANT",
+					"amplifier": 1,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 75
+	},
+	"survival_a7": {
+		"title": {
+			"translate": "survival_a7_title"
+		},
+		"description": {
+			"translate": "survival_a7_description"
+		},
+		"extra_description": {
+			"translate": "survival_a7_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_pickaxe"
+			}
+		},
+		"cost": 7,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.mining_speed",
+					"value": 0.38,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.fortune",
+					"value": 1.3,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 95
+	},
+	"survival_a8": {
+		"title": {
+			"translate": "survival_a8_title"
+		},
+		"description": {
+			"translate": "survival_a8_description"
+		},
+		"extra_description": {
+			"translate": "survival_a8_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_pickaxe"
+			}
+		},
+		"cost": 8,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.mining_speed",
+					"value": 0.4,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.fortune",
+					"value": 1.4,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:haste",
+					"type": "GRANT",
+					"amplifier": 2,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 115
+	},
+	"survival_a9": {
+		"title": {
+			"translate": "survival_a9_title"
+		},
+		"description": {
+			"translate": "survival_a9_description"
+		},
+		"extra_description": {
+			"translate": "survival_a9_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_pickaxe"
+			}
+		},
+		"cost": 10,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.mining_speed",
+					"value": 0.42,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.fortune",
+					"value": 1.5,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 135
+	},
+	"survival_a10": {
+		"title": {
+			"translate": "survival_a10_title"
+		},
+		"description": {
+			"translate": "survival_a10_description"
+		},
+		"extra_description": {
+			"translate": "survival_a10_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_pickaxe"
+			}
+		},
+		"cost": 12,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.mining_speed",
+					"value": 0.45,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.fortune",
+					"value": 1.7,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:night_vision",
+					"type": "GRANT",
+					"amplifier": 0,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 155
+	},
+	"survival_a11": {
+		"title": {
+			"translate": "survival_a11_title"
+		},
+		"description": {
+			"translate": "survival_a11_description"
+		},
+		"extra_description": {
+			"translate": "survival_a11_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_pickaxe"
+			}
+		},
+		"cost": 14,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.mining_speed",
+					"value": 0.48,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.fortune",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 175
+	},
+	"survival_a12": {
+		"title": {
+			"translate": "survival_a12_title"
+		},
+		"description": {
+			"translate": "survival_a12_description"
+		},
+		"extra_description": {
+			"translate": "survival_a12_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_pickaxe"
+			}
+		},
+		"cost": 16,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.mining_speed",
+					"value": 0.5,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.fortune",
+					"value": 2.5,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:haste",
+					"type": "GRANT",
+					"amplifier": 3,
+					"show_icon": true
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.fortune",
+					"value": 0.5,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 195
+	},
+	"survival_b1": {
+		"title": {
+			"translate": "survival_b1_title"
+		},
+		"description": {
+			"translate": "survival_b1_description"
+		},
+		"extra_description": {
+			"translate": "survival_b1_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "wheat"
+			}
+		},
+		"cost": 1,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+	"survival_b2": {
+		"title": {
+			"translate": "survival_b2_title"
+		},
+		"description": {
+			"translate": "survival_b2_description"
+		},
+		"extra_description": {
+			"translate": "survival_b2_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "wheat"
+			}
+		},
+		"cost": 2,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.15,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.luck",
+					"value": 0.25,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 8
+	},
+	"survival_b3": {
+		"title": {
+			"translate": "survival_b3_title"
+		},
+		"description": {
+			"translate": "survival_b3_description"
+		},
+		"extra_description": {
+			"translate": "survival_b3_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "wheat"
+			}
+		},
+		"cost": 3,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.2,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.15,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.luck",
+					"value": 0.5,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 20
+	},
+	"survival_b4": {
+		"title": {
+			"translate": "survival_b4_title"
+		},
+		"description": {
+			"translate": "survival_b4_description"
+		},
+		"extra_description": {
+			"translate": "survival_b4_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "wheat"
+			}
+		},
+		"cost": 4,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.25,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.2,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.luck",
+					"value": 0.75,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:saturation",
+					"type": "GRANT",
+					"amplifier": 0,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 35
+	},
+	"survival_b5": {
+		"title": {
+			"translate": "survival_b5_title"
+		},
+		"description": {
+			"translate": "survival_b5_description"
+		},
+		"extra_description": {
+			"translate": "survival_b5_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "wheat"
+			}
+		},
+		"cost": 5,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.3,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.25,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.luck",
+					"value": 1,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:saturation",
+					"type": "GRANT",
+					"amplifier": 1,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 55
+	},
+	"survival_b6": {
+		"title": {
+			"translate": "survival_b6_title"
+		},
+		"description": {
+			"translate": "survival_b6_description"
+		},
+		"extra_description": {
+			"translate": "survival_b6_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "wheat"
+			}
+		},
+		"cost": 6,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.35,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.3,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.luck",
+					"value": 1.5,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:saturation",
+					"type": "GRANT",
+					"amplifier": 1,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 75
+	},
+	"survival_b7": {
+		"title": {
+			"translate": "survival_b7_title"
+		},
+		"description": {
+			"translate": "survival_b7_description"
+		},
+		"extra_description": {
+			"translate": "survival_b7_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "wheat"
+			}
+		},
+		"cost": 7,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.38,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.32,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.luck",
+					"value": 1.75,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 95
+	},
+	"survival_b8": {
+		"title": {
+			"translate": "survival_b8_title"
+		},
+		"description": {
+			"translate": "survival_b8_description"
+		},
+		"extra_description": {
+			"translate": "survival_b8_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "wheat"
+			}
+		},
+		"cost": 8,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.38,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.35,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.luck",
+					"value": 2,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:saturation",
+					"type": "GRANT",
+					"amplifier": 2,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 115
+	},
+	"survival_b9": {
+		"title": {
+			"translate": "survival_b9_title"
+		},
+		"description": {
+			"translate": "survival_b9_description"
+		},
+		"extra_description": {
+			"translate": "survival_b9_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "wheat"
+			}
+		},
+		"cost": 10,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.4,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.38,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.luck",
+					"value": 2.25,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 135
+	},
+	"survival_b10": {
+		"title": {
+			"translate": "survival_b10_title"
+		},
+		"description": {
+			"translate": "survival_b10_description"
+		},
+		"extra_description": {
+			"translate": "survival_b10_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "wheat"
+			}
+		},
+		"cost": 12,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.42,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.4,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.luck",
+					"value": 2.5,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 155
+	},
+	"survival_b11": {
+		"title": {
+			"translate": "survival_b11_title"
+		},
+		"description": {
+			"translate": "survival_b11_description"
+		},
+		"extra_description": {
+			"translate": "survival_b11_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "wheat"
+			}
+		},
+		"cost": 14,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.45,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.4,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.luck",
+					"value": 3,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 175
+	},
+	"survival_b12": {
+		"title": {
+			"translate": "survival_b12_title"
+		},
+		"description": {
+			"translate": "survival_b12_description"
+		},
+		"extra_description": {
+			"translate": "survival_b12_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "wheat"
+			}
+		},
+		"cost": 16,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.5,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.45,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.luck",
+					"value": 3.5,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:saturation",
+					"type": "GRANT",
+					"amplifier": 3,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 195
+	},
+	"survival_c1": {
+		"title": {
+			"translate": "survival_c1_title"
+		},
+		"description": {
+			"translate": "survival_c1_description"
+		},
+		"extra_description": {
+			"translate": "survival_c1_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "fishing_rod"
+			}
+		},
+		"cost": 1,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.luck",
+					"value": 0.25,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"survival_c2": {
+		"title": {
+			"translate": "survival_c2_title"
+		},
+		"description": {
+			"translate": "survival_c2_description"
+		},
+		"extra_description": {
+			"translate": "survival_c2_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "fishing_rod"
+			}
+		},
+		"cost": 2,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.luck",
+					"value": 0.5,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.movement_speed",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"required_spent_points": 8
+	},
+	"survival_c3": {
+		"title": {
+			"translate": "survival_c3_title"
+		},
+		"description": {
+			"translate": "survival_c3_description"
+		},
+		"extra_description": {
+			"translate": "survival_c3_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "fishing_rod"
+			}
+		},
+		"cost": 3,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.luck",
+					"value": 0.75,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.movement_speed",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 20
+	},
+	"survival_c4": {
+		"title": {
+			"translate": "survival_c4_title"
+		},
+		"description": {
+			"translate": "survival_c4_description"
+		},
+		"extra_description": {
+			"translate": "survival_c4_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "fishing_rod"
+			}
+		},
+		"cost": 4,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.luck",
+					"value": 1,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.movement_speed",
+					"value": 0.15,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:luck",
+					"type": "GRANT",
+					"amplifier": 0,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 35
+	},
+	"survival_c5": {
+		"title": {
+			"translate": "survival_c5_title"
+		},
+		"description": {
+			"translate": "survival_c5_description"
+		},
+		"extra_description": {
+			"translate": "survival_c5_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "fishing_rod"
+			}
+		},
+		"cost": 5,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.luck",
+					"value": 1.5,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.movement_speed",
+					"value": 0.2,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:dolphins_grace",
+					"type": "GRANT",
+					"amplifier": 0,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 55
+	},
+	"survival_c6": {
+		"title": {
+			"translate": "survival_c6_title"
+		},
+		"description": {
+			"translate": "survival_c6_description"
+		},
+		"extra_description": {
+			"translate": "survival_c6_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "fishing_rod"
+			}
+		},
+		"cost": 6,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.luck",
+					"value": 2,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.movement_speed",
+					"value": 0.25,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:dolphins_grace",
+					"type": "GRANT",
+					"amplifier": 1,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 75
+	},
+	"survival_c7": {
+		"title": {
+			"translate": "survival_c7_title"
+		},
+		"description": {
+			"translate": "survival_c7_description"
+		},
+		"extra_description": {
+			"translate": "survival_c7_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "fishing_rod"
+			}
+		},
+		"cost": 7,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.luck",
+					"value": 2.25,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.movement_speed",
+					"value": 0.28,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 95
+	},
+	"survival_c8": {
+		"title": {
+			"translate": "survival_c8_title"
+		},
+		"description": {
+			"translate": "survival_c8_description"
+		},
+		"extra_description": {
+			"translate": "survival_c8_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "fishing_rod"
+			}
+		},
+		"cost": 8,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.luck",
+					"value": 2.5,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.movement_speed",
+					"value": 0.3,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:dolphins_grace",
+					"type": "GRANT",
+					"amplifier": 2,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 115
+	},
+	"survival_c9": {
+		"title": {
+			"translate": "survival_c9_title"
+		},
+		"description": {
+			"translate": "survival_c9_description"
+		},
+		"extra_description": {
+			"translate": "survival_c9_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "fishing_rod"
+			}
+		},
+		"cost": 10,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.luck",
+					"value": 2.75,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.movement_speed",
+					"value": 0.32,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 135
+	},
+	"survival_c10": {
+		"title": {
+			"translate": "survival_c10_title"
+		},
+		"description": {
+			"translate": "survival_c10_description"
+		},
+		"extra_description": {
+			"translate": "survival_c10_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "fishing_rod"
+			}
+		},
+		"cost": 12,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.luck",
+					"value": 3,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.movement_speed",
+					"value": 0.35,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:water_breathing",
+					"type": "GRANT",
+					"amplifier": 0,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 155
+	},
+	"survival_c11": {
+		"title": {
+			"translate": "survival_c11_title"
+		},
+		"description": {
+			"translate": "survival_c11_description"
+		},
+		"extra_description": {
+			"translate": "survival_c11_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "fishing_rod"
+			}
+		},
+		"cost": 14,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.luck",
+					"value": 3.5,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.movement_speed",
+					"value": 0.35,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 175
+	},
+	"survival_c12": {
+		"title": {
+			"translate": "survival_c12_title"
+		},
+		"description": {
+			"translate": "survival_c12_description"
+		},
+		"extra_description": {
+			"translate": "survival_c12_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "fishing_rod"
+			}
+		},
+		"cost": 16,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.luck",
+					"value": 4,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.movement_speed",
+					"value": 0.4,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:dolphins_grace",
+					"type": "GRANT",
+					"amplifier": 3,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 195
+	},
+	"survival_f1": {
+		"title": {
+			"translate": "survival_f1_title"
+		},
+		"description": {
+			"translate": "survival_f1_description"
+		},
+		"extra_description": {
+			"translate": "survival_f1_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "leather_chestplate"
+			}
+		},
+		"cost": 1,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.005,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+	"survival_f2": {
+		"title": {
+			"translate": "survival_f2_title"
+		},
+		"description": {
+			"translate": "survival_f2_description"
+		},
+		"extra_description": {
+			"translate": "survival_f2_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "leather_chestplate"
+			}
+		},
+		"cost": 2,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.01,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 8
+	},
+	"survival_f3": {
+		"title": {
+			"translate": "survival_f3_title"
+		},
+		"description": {
+			"translate": "survival_f3_description"
+		},
+		"extra_description": {
+			"translate": "survival_f3_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "leather_chestplate"
+			}
+		},
+		"cost": 3,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.015,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.15,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 20
+	},
+	"survival_f4": {
+		"title": {
+			"translate": "survival_f4_title"
+		},
+		"description": {
+			"translate": "survival_f4_description"
+		},
+		"extra_description": {
+			"translate": "survival_f4_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "leather_chestplate"
+			}
+		},
+		"cost": 4,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.04,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.2,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:absorption",
+					"type": "GRANT",
+					"amplifier": 0,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 35
+	},
+	"survival_f5": {
+		"title": {
+			"translate": "survival_f5_title"
+		},
+		"description": {
+			"translate": "survival_f5_description"
+		},
+		"extra_description": {
+			"translate": "survival_f5_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "leather_chestplate"
+			}
+		},
+		"cost": 5,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.25,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:absorption",
+					"type": "GRANT",
+					"amplifier": 1,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 55
+	},
+	"survival_f6": {
+		"title": {
+			"translate": "survival_f6_title"
+		},
+		"description": {
+			"translate": "survival_f6_description"
+		},
+		"extra_description": {
+			"translate": "survival_f6_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "leather_chestplate"
+			}
+		},
+		"cost": 6,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.06,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.28,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 75
+	},
+	"survival_f7": {
+		"title": {
+			"translate": "survival_f7_title"
+		},
+		"description": {
+			"translate": "survival_f7_description"
+		},
+		"extra_description": {
+			"translate": "survival_f7_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "leather_chestplate"
+			}
+		},
+		"cost": 7,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.07,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.3,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"required_spent_points": 95
+	},
+	"survival_f8": {
+		"title": {
+			"translate": "survival_f8_title"
+		},
+		"description": {
+			"translate": "survival_f8_description"
+		},
+		"extra_description": {
+			"translate": "survival_f8_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "leather_chestplate"
+			}
+		},
+		"cost": 8,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.08,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.32,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 1,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:absorption",
+					"type": "GRANT",
+					"amplifier": 2,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 115
+	},
+	"survival_f9": {
+		"title": {
+			"translate": "survival_f9_title"
+		},
+		"description": {
+			"translate": "survival_f9_description"
+		},
+		"extra_description": {
+			"translate": "survival_f9_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "leather_chestplate"
+			}
+		},
+		"cost": 10,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.08,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.35,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"required_spent_points": 135
+	},
+	"survival_f10": {
+		"title": {
+			"translate": "survival_f10_title"
+		},
+		"description": {
+			"translate": "survival_f10_description"
+		},
+		"extra_description": {
+			"translate": "survival_f10_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "leather_chestplate"
+			}
+		},
+		"cost": 12,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.38,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 155
+	},
+	"survival_f11": {
+		"title": {
+			"translate": "survival_f11_title"
+		},
+		"description": {
+			"translate": "survival_f11_description"
+		},
+		"extra_description": {
+			"translate": "survival_f11_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "leather_chestplate"
+			}
+		},
+		"cost": 14,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.4,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"required_spent_points": 175
+	},
+	"survival_f12": {
+		"title": {
+			"translate": "survival_f12_title"
+		},
+		"description": {
+			"translate": "survival_f12_description"
+		},
+		"extra_description": {
+			"translate": "survival_f12_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "leather_chestplate"
+			}
+		},
+		"cost": 16,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.12,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.4,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 3,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:absorption",
+					"type": "GRANT",
+					"amplifier": 3,
+					"show_icon": true
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor",
+					"value": 3,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 4,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 195
+	}
+}

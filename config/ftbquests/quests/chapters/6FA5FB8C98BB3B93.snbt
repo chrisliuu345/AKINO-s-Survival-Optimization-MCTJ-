@@ -1,0 +1,297 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "6FA5FB8C98BB3B93"
+	group: ""
+	id: "6FA5FB8C98BB3B93"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon_scale: 1.8d
+			id: "6667B5A27F9DE92E"
+			rewards: [{
+				count: 8
+				id: "3696A4E6A04FE940"
+				item: {
+					count: 1
+					id: "minecraft:apple"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [{
+				id: "000000000000001A"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "0000000000000002"
+			rewards: [{
+				id: "3E4DD9C96E462AC9"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "000000000000002A"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0000000000000002"]
+			id: "0000000000000003"
+			rewards: [{
+				id: "65F56D6E8D4DC041"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "000000000000003A"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0000000000000002"]
+			id: "0000000000000004"
+			rewards: [{
+				id: "534D878BFC334B2B"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "000000000000004A"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0000000000000002"]
+			id: "0000000000000005"
+			rewards: [{
+				id: "44594465FCB6FC4C"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "000000000000005A"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0000000000000002"]
+			id: "0000000000000006"
+			rewards: [{
+				id: "5BB711D458AFFF5F"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "000000000000006A"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0000000000000003"]
+			id: "0000000000000007"
+			rewards: [{
+				id: "40E1DA56E8BB12D7"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "000000000000007A"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0000000000000004"]
+			id: "0000000000000008"
+			rewards: [{
+				id: "36BF65FFA7CF94FE"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "000000000000008A"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0000000000000005"]
+			id: "0000000000000009"
+			rewards: [{
+				id: "6DDF5D8DE52B42A0"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "000000000000009A"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0000000000000006"]
+			id: "0000000000000010"
+			rewards: [{
+				id: "28611AE6C94AD5D8"
+				item: {
+					count: 1
+					id: "minecraft:iron_axe"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "000000000000010A"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["0000000000000006"]
+			id: "0000000000000011"
+			rewards: [{
+				id: "00D668F430C1655B"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "000000000000011A"
+				type: "checkmark"
+			}]
+			x: 7.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["0000000000000006"]
+			id: "0000000000000012"
+			rewards: [{
+				id: "344B88BA50743E1C"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "000000000000012A"
+				type: "checkmark"
+			}]
+			x: 5.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["0000000000000007"]
+			id: "0000000000000013"
+			rewards: [{
+				count: 32
+				id: "2A428677E22A8927"
+				item: {
+					count: 1
+					id: "minecraft:torch"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "000000000000013A"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["0000000000000013"]
+			id: "0000000000000014"
+			rewards: [{
+				id: "4ED1929DB7E9410E"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "000000000000014A"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["0000000000000014"]
+			icon_scale: 1.5d
+			id: "0000000000000015"
+			rewards: [
+				{
+					id: "1162083474D02BBD"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					command: "/tellraw @p [\"\",{\"text\":\"▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\",\"color\":\"gold\"},{\"text\":\"\\n  ✔ Tutorial — Complete!\\n\",\"color\":\"gold\",\"bold\":true},{\"text\":\"All 12 chapters unlocked\\n\",\"color\":\"white\"},{\"text\":\"Begin your AKINO adventure!\\n\",\"color\":\"aqua\"},{\"text\":\"▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\",\"color\":\"gold\"}]"
+					id: "2243A8CD3F02EF4A"
+					type: "command"
+				}
+				{
+					count: 12
+					id: "3A0D8EF4E1A8EA27"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				id: "000000000000015A"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			id: "0000000000000016"
+			rewards: [
+				{
+					command: "/experience add @s -10 levels"
+					id: "34F00CA318EDADF8"
+					type: "command"
+				}
+				{
+					command: "/puffish_skills category erase @s combat"
+					id: "683E4812C7694F35"
+					type: "command"
+				}
+				{
+					command: "/puffish_skills category erase @s survival"
+					id: "683E4812C7694F37"
+					type: "command"
+				}
+			]
+			shape: "square"
+			size: 1.0d
+			tasks: [{
+				disable_toast: true
+				id: "000000000000016A"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: 0.5d
+		}
+	]
+}

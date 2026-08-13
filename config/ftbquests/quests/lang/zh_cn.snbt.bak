@@ -1,0 +1,5243 @@
+{
+
+	chapter_groups: {
+		"教程与基础": "教程与基础"
+		"建筑与探索": "建筑与探索"
+		"科技与魔法": "科技与魔法"
+		"终局征途": "终局征途"
+	}
+
+	chapter.0C672C6BEFF5930D.chapter_subtitle: [
+		"快速起步"
+		"完成后解锁全部章节"
+	]
+	chapter.0C672C6BEFF5930D.title: "新手教程"
+	chapter.120CBB12962D3B58.chapter_subtitle: [
+		"维度冒险"
+		"下界+末地+深暗+彼岸"
+	]
+	chapter.120CBB12962D3B58.title: "维度冒险"
+	chapter.15F4DA1D291107B1.chapter_subtitle: [
+		"存储大师"
+		"高级背包与存储"
+	]
+	chapter.15F4DA1D291107B1.title: "存储大师"
+	chapter.187D24DFD9C2C47A.chapter_subtitle: [
+		"奥术艺术"
+		"魔法六学派"
+	]
+	chapter.187D24DFD9C2C47A.title: "铁魔法"
+	chapter.1A487FAA2CB5018F.chapter_subtitle: [
+		"天境空域"
+		"天境"
+	]
+	chapter.1A487FAA2CB5018F.title: "天境"
+	chapter.1AA888B131F36C55.chapter_subtitle: [
+		"RPG与女仆"
+		"技能、属性与随从"
+	]
+	chapter.1AA888B131F36C55.title: "RPG与女仆"
+	chapter.2132EF0FF31E0F42.chapter_subtitle: [
+		"原版生存基础"
+		"原版生存"
+	]
+	chapter.2132EF0FF31E0F42.title: "原版生存"
+	chapter.295CFDD450125EC0.chapter_subtitle: [
+		"YUNG探索"
+		"全新地牢与建筑"
+	]
+	chapter.295CFDD450125EC0.title: "YUNG探索"
+	chapter.2C8F00AAEE4ECA87.chapter_subtitle: [
+		"铁魔法"
+		"魔法六学派"
+	]
+	chapter.2C8F00AAEE4ECA87.title: "铁魔法"
+	chapter.31C6D95C0D74D866.chapter_subtitle: [
+		"烹饪与饮水"
+		"农夫乐事 + 万花筒 + 口渴值"
+	]
+	chapter.31C6D95C0D74D866.title: "烹饪与饮水"
+	chapter.33D33815BC21DA5D.chapter_subtitle: [
+		"原版生存"
+		"工具  Food  探索"
+	]
+	chapter.33D33815BC21DA5D.title: "原版生存"
+	chapter.37268346631F5E69.chapter_subtitle: [
+		"烹饪与饮水"
+		"农夫乐事 + 万花筒 + 口渴值"
+	]
+	chapter.37268346631F5E69.title: "烹饪与饮水"
+	chapter.373BF342F389EF01.chapter_subtitle: [
+		"建造艺术"
+		"Macaw全套家具"
+	]
+	chapter.373BF342F389EF01.title: "建造艺术"
+	chapter.37477D112F48432B.chapter_subtitle: [
+		"维度之旅"
+		"下界+末地+深暗+更多建筑"
+	]
+	chapter.37477D112F48432B.title: "07. 维度之旅"
+	chapter.3DF930264F8C3254.chapter_subtitle: [
+		"BYG建筑"
+		"Oh The Biomes We've Gone"
+	]
+	chapter.3DF930264F8C3254.title: "BYG世界"
+	chapter.4F0FF7A89B0C214D.chapter_subtitle: [
+		"终极Boss"
+		"铁魔法Boss+工厂Boss"
+	]
+	chapter.4F0FF7A89B0C214D.title: "终极Boss"
+	chapter.54646C845D0BC381.chapter_subtitle: [
+		"存储大师"
+		"高级存储+背包"
+	]
+	chapter.54646C845D0BC381.title: "存储大师"
+	chapter.5BC15F5B1D0DCFA0.chapter_subtitle: [
+		"机械动力"
+		"从水车到全自动化"
+	]
+	chapter.5BC15F5B1D0DCFA0.title: "机械动力"
+	chapter.64405320FCBA634D.chapter_subtitle: [
+		"Boss狩猎"
+		"铁魔法+工厂Boss"
+	]
+	chapter.64405320FCBA634D.title: "Boss狩猎"
+	chapter.65BD5111F4CAEBF8.chapter_subtitle: [
+		"YUNG结构"
+		"更好矿井+地牢+地表"
+	]
+	chapter.65BD5111F4CAEBF8.title: "YUNG结构"
+	chapter.66BD90EDB5297441.chapter_subtitle: [
+		"BYG建筑"
+		"Oh The Biomes We've Gone"
+	]
+	chapter.66BD90EDB5297441.title: "BYG建筑"
+	chapter.673F3AF32A7184CD.chapter_subtitle: [
+		"RPG与女仆"
+		"RPG+女仆+毕业"
+	]
+	chapter.673F3AF32A7184CD.title: "RPG与女仆"
+	chapter.6FA5FB8C98BB3B93.chapter_subtitle: [
+		"快速起步"
+		"完成后解锁全部章节"
+	]
+	chapter.6FA5FB8C98BB3B93.title: "新手教程"
+	chapter.6FD98CA055E45E31.chapter_subtitle: [
+		"天境"
+		"天境冒险"
+	]
+	chapter.6FD98CA055E45E31.title: "天境"
+	chapter.7F7CC502D3C7E320.chapter_subtitle: [
+		"建造艺术"
+		"Macaw全套家具"
+	]
+	chapter.7F7CC502D3C7E320.title: "建造艺术"
+	quest.0000000000000002.quest_desc: [
+		"按下J打开任务书（当前界面）"
+		"左侧：章节列表"
+		"右侧：当前章节的任务树"
+		"任务类型："
+		"• 物品提交 — 提交指定物品"
+		"• 击杀生物 — 击败指定怪物"
+		"• 确认 — 确认你已了解该功能"
+		"完成任务可获得奖励（物品、经验）"
+		"完成章节全部任务可领取毕业奖励"
+	]
+	quest.0000000000000002.quest_subtitle: "如何使用任务"
+	quest.0000000000000002.title: "任务书指南"
+	quest.0000000000000003.quest_desc: [
+		"JEI是本整合包最重要的工具之一"
+		"显示在物品栏/合成界面的右侧"
+		"快捷键："
+		"• R — 查看物品配方"
+		"• U — 查看物品用途"
+		"• A — 收藏/取消收藏配方"
+		"• @模组名 — 按模组搜索"
+		"在搜索框中输入 #标签名"
+		"可查看该标签下的所有物品"
+	]
+	quest.0000000000000003.quest_subtitle: "配方与用途"
+	quest.0000000000000003.title: "JEI配方查询"
+	quest.0000000000000004.quest_desc: [
+		"Jade在屏幕顶部显示目标信息"
+		"看向方块时显示："
+		"• 方块名称和来源模组"
+		"• 挖掘进度和所需工具"
+		"• 容器物品预览"
+		"• 作物生长状态"
+		"看向实体时显示："
+		"• 生物名称和生命值"
+		"• 玩家名称和护甲值"
+		"按小键盘0(Num0)开关显示"
+	]
+	quest.0000000000000004.quest_subtitle: "方块与实体信息"
+	quest.0000000000000004.title: "Jade信息面板"
+	quest.0000000000000005.quest_desc: [
+		"Xaero提供两种地图系统"
+		"小地图（右上角）："
+		"• 按Y打开小地图设置"
+		"• 按B创建路径点"
+		"• 显示附近的生物和玩家"
+		"世界地图："
+		"• 按M打开全屏世界地图"
+		"• 已探索区域自动绘制"
+		"• 统一管理路径点"
+		"探索时善用路径点，"
+		"重要地点再也不会丢失！"
+	]
+	quest.0000000000000005.quest_subtitle: "永不迷路"
+	quest.0000000000000005.title: "Xaero地图"
+	quest.0000000000000006.quest_desc: [
+		"高级存储"
+		"为你的背包和容器添加智能整理按钮"
+		"功能："
+		"• 一键整理物品栏/箱子"
+		"• 快速堆叠到附近容器"
+		"• 鼠标中键排序"
+		"• 可自定义排序规则"
+		"打开任何容器界面"
+		"在左上角/右上角寻找整理按钮"
+		"告别杂乱的物品栏！"
+	]
+	quest.0000000000000006.quest_subtitle: "智能物品管理"
+	quest.0000000000000006.title: "智能整理"
+	quest.0000000000000007.quest_desc: [
+		"Curios为你的角色添加饰品栏位"
+		"按E打开物品栏，点击Curios图标"
+		"（左侧的小戒指图标）"
+		"可用栏位："
+		"• 戒指 x2"
+		"• 项链 x1"
+		"• 腰带 x1"
+		"• 手镯 x1"
+		"• 其他特殊栏位"
+		"铁魔法和"
+		"Puffish属性装备"
+		"都需要Curios栏位来佩戴"
+	]
+	quest.0000000000000007.quest_subtitle: "戒指与项链"
+	quest.0000000000000007.title: "Curios饰品"
+	quest.0000000000000008.quest_desc: [
+		"按K打开技能树面板"
+		"通过获取经验来赚取技能点"
+		"花费技能点来："
+		"• 提升生命值/护甲"
+		"• 增加攻击伤害/移动速度"
+		"• 解锁特殊能力"
+		"技能树类别："
+		"• 战斗技艺 — 伤害与防御"
+		"• 远程射手 — 弓弩与投掷"
+		"• 生存专家 — 采矿与农耕"
+		"• 探索冒险 — 移动与探险"
+		"• 工艺建造 — 机械与附魔"
+		"• 酿造炼金 — 药水与免疫"
+	]
+	quest.0000000000000008.quest_subtitle: "角色成长"
+	quest.0000000000000008.title: "技能树"
+	quest.0000000000000009.quest_desc: [
+		"传送石碑提供传送网络系统"
+		"自然生成的传送石碑可以在以下地点找到："
+		"• 村庄中心"
+		"• 野外路边"
+		"• 特殊结构附近"
+		"使用方法："
+		"• 右键点击传送石碑打开传送界面"
+		"• 花费少量经验值进行传送"
+		"• 可合成传送石用于便携使用"
+		"一旦建立传送网络，"
+		"长途旅行将瞬间完成！"
+	]
+	quest.0000000000000009.quest_subtitle: "快速传送网络"
+	quest.0000000000000009.title: "传送石碑"
+	quest.0000000000000010.quest_desc: [
+		"一键砍树模组改变了砍树方式"
+		"只需用斧头砍断树干最底部的"
+		"原木方块"
+		"整棵树就会全部倒下！"
+		"支持所有模组的树木"
+		"（包括BYG、天境等）"
+		"注意："
+		"• 需要使用斧头（空手无效）"
+		"• 潜行(Shift)可以阻止连锁砍伐"
+		"• 树叶会自动掉落树苗"
+	]
+	quest.0000000000000010.quest_subtitle: "一键砍树"
+	quest.0000000000000010.title: "一键砍树"
+	quest.0000000000000011.quest_desc: [
+		"鼠标手势快捷键："
+		"• Shift+左键拖动 — 批量转移"
+		"• Shift+右键 — 快速移动堆叠"
+		"• 滚轮 — 精确放置单个物品"
+		"垃圾桶："
+		"• 在物品栏/容器界面右下角"
+		"• 拖动物品进去即可删除"
+		"• 或使用Ctrl+Shift+点击物品"
+		"将其快速丢入垃圾桶"
+	]
+	quest.0000000000000011.quest_subtitle: "快捷操作与垃圾桶"
+	quest.0000000000000011.title: "鼠标手势与垃圾桶"
+	quest.0000000000000012.quest_desc: [
+		"交易刷新可以让你快速刷新村民交易"
+		"在村民交易界面中"
+		"点击交易旁边的刷新按钮"
+		"每次刷新消耗一个绿宝石"
+		"不再需要反复破坏和放置"
+		"工作方块了！"
+		"快速找到你需要的那本附魔书！"
+	]
+	quest.0000000000000012.title: "刷新村民交易"
+	quest.0000000000000013.quest_desc: [
+		"按下F7切换刷怪区域显示"
+		"颜色含义："
+		"• 黄色X — 白天安全，夜晚会刷怪"
+		"• 红色X — 怪物随时可以生成!"
+		"• 无标记 — 足够明亮，完全安全"
+		"确保你的基地没有红色X标记！"
+		"放置火把消除所有红色区域"
+		"这是生存中最实用的工具之一"
+	]
+	quest.0000000000000013.quest_subtitle: "防止刷怪"
+	quest.0000000000000013.title: "光照显示(F7)"
+	quest.0000000000000014.quest_desc: [
+		"死亡墓碑模组"
+		"在死亡时生成一个墓碑"
+		"死亡时："
+		"• 所有物品保存在墓碑中"
+		"• 墓碑标记你的死亡位置"
+		"• 右键点击墓碑取回所有物品"
+		"不再害怕岩浆或虚空！"
+		"你的物品会被安全保存"
+		"但记得在重新装备之前取回它们"
+	]
+	quest.0000000000000014.quest_subtitle: "安全死亡恢复"
+	quest.0000000000000014.title: "死亡墓碑"
+	quest.0000000000000015.quest_desc: [
+		"恭喜你完成了教程!"
+		"你现在已经了解："
+		"• FTB任务书和JEI配方系统"
+		"• Jade和Xaero地图信息工具"
+		"• Curios饰品和技能系统"
+		"• 传送石碑传送网络"
+		"• 一键砍树和快捷操作"
+		"• 交易刷新、F7光照显示、墓碑保护"
+		"全部13个章节已解锁！"
+		"从原版生存到终极Boss战斗"
+		"按你自己的节奏开始冒险吧！"
+	]
+	quest.0000000000000015.quest_subtitle: "解锁全部章节"
+	quest.0000000000000015.title: "教程完成"
+	quest.0000000001000001.quest_desc: [
+		"欢迎来到 the world of blocks!"
+		"首先, 你需要 合成 a 工作台."
+		"Use logs 合成 planks,"
+		"then use 4 planks 制作 a 工作台."
+		"右键点击 放置 it, right-click 打开 the crafting grid."
+		"这是 the starting point of all crafting!"
+	]
+	quest.0000000001000001.quest_subtitle: "第一步"
+	quest.0000000001000001.title: "第一步"
+	quest.0000000001000002.quest_desc: [
+		"找到一棵树,"
+		"break the log blocks with your hand or a tool."
+		"每个 oak tree provides 4-7 logs."
+		"Logs craft into planks,"
+		"the basic building material."
+		"别忘了 to plant saplings too!"
+	]
+	quest.0000000001000002.quest_subtitle: "获取木头"
+	quest.0000000001000002.title: "采集木头"
+	quest.0000000001000003.quest_desc: [
+		"The first step into the 石器时代!"
+		"Mine stone 获取 cobblestone,"
+		"craft a stone pickaxe, axe, and sword."
+		"石头 pickaxe can mine iron ore,"
+		"stone axe chops trees 3x faster than by hand,"
+		"stone sword is a reliable early-game weapon."
+		"Use a wooden pickaxe to mine stone, then upgrade to stone tools!"
+	]
+	quest.0000000001000003.quest_subtitle: "石器时代"
+	quest.0000000001000003.title: "石器时代"
+	quest.0000000001000004.quest_desc: [
+		"Darkness breeds monsters, torches bring safety!"
+		"Craft torches with coal/charcoal and sticks."
+		"One coal makes 4 torches."
+		"Torches are essential for cave exploration,"
+		"and also prevent mob spawning."
+		"确保 your home has adequate lighting!"
+	]
+	quest.0000000001000004.quest_subtitle: "照亮黑暗"
+	quest.0000000001000004.title: "火把与光源"
+	quest.0000000001000005.quest_desc: [
+		"Craft a furnace with 8 cobblestone."
+		"Smelt logs in the furnace 制作 charcoal,"
+		"charcoal burns 8x longer than raw logs!"
+		"Furnaces can smelt iron ore and cook food,"
+		"one of the most important survival tools."
+		"Produce 16 charcoal to prepare for the future."
+	]
+	quest.0000000001000005.quest_subtitle: "睡眠时间"
+	quest.0000000001000005.title: "安然入睡"
+	quest.0000000001000006.quest_desc: [
+		"Long nights call for a warm bed."
+		"Craft a bed with 3 wool and 3 planks."
+		"击杀 sheep or use shears 获取 wool."
+		"右键点击 a bed to set your spawn point,"
+		"right-click at night to sleep and skip the night."
+		"Without a bed, the night is full of monsters..."
+	]
+	quest.0000000001000006.quest_subtitle: "获取食物"
+	quest.0000000001000006.title: "食物供应"
+	quest.0000000001000007.quest_desc: [
+		"物品栏 full? You need a storage system!"
+		"Craft a chest with 8 planks,"
+		"a chest provides 27 storage slots."
+		"Barrels are a cheaper alternative,"
+		"crafted with 6 planks and 2 wooden slabs."
+		"Organize your storage warehouse!"
+	]
+	quest.0000000001000007.quest_subtitle: "燃料来源"
+	quest.0000000001000007.title: "煤炭与木炭"
+	quest.0000000001000008.quest_desc: [
+		"进入铁器时代 and boost your productivity!"
+		"Find iron ore below Y=56 underground,"
+		"smelt iron ore into iron ingots in a furnace."
+		"铁 pickaxe can mine diamond, gold, and redstone,"
+		"iron durability is over twice that of stone."
+		"Prioritize crafting an iron pickaxe!"
+	]
+	quest.0000000001000008.quest_subtitle: "进入铁器时代"
+	quest.0000000001000008.title: "铁器时代"
+	quest.0000000001000009.quest_desc: [
+		"Plant seeds, harvest the future!"
+		"Craft a wooden hoe with 2 sticks and 2 planks."
+		"右键点击 grass with a hoe to till farmland,"
+		"Breaking grass has a chance to drop wheat seeds."
+		"Farmland needs water nearby to stay hydrated,"
+		"One water block can hydrate a 9x9 area of farmland."
+	]
+	quest.0000000001000009.quest_subtitle: "更好的工具"
+	quest.0000000001000009.title: "农耕 Basics"
+	quest.0000000001000010.quest_desc: [
+		"Golden waves of wheat sway in the breeze."
+		"Growing wheat requires patience,"
+		"ripe wheat turns from green to golden."
+		"Harvest wheat 获取 more seeds,"
+		"gradually expand your farmland."
+		"Use wheat to attract cows and sheep for breeding!"
+	]
+	quest.0000000001000010.quest_subtitle: "钻石!"
+	quest.0000000001000010.title: "Golden 小麦 Field"
+	quest.0000000001000011.quest_desc: [
+		"Process wheat into delicious bread!"
+		"Craft 1 bread using 3 wheat at a crafting table."
+		"每个 bread restores 5 hunger points."
+		"面包 is the most stable mid-game food source,"
+		"portable and doesn't take much inventory space."
+		"Build a wheat farm and never go hungry again!"
+	]
+	quest.0000000001000011.quest_subtitle: "The Baker"
+	quest.0000000001000011.title: "The Baker"
+	quest.0000000001000012.quest_desc: [
+		"Build an animal farm,"
+		"say goodbye to hunting!"
+		"Use wheat to attract cows and sheep,"
+		"carrots to attract pigs,"
+		"seeds to attract chickens."
+		"Feed two of the same animal to breed them,"
+		"gain a stable source of meat and materials."
+	]
+	quest.0000000001000012.quest_subtitle: "动物养殖"
+	quest.0000000001000012.title: "动物养殖"
+	quest.0000000001000013.quest_desc: [
+		"Nothing beats the smell of grilled meat!"
+		"Cooking raw meat in a furnace greatly boosts hunger restoration."
+		"Cooked beef restores 8 hunger, the best food!"
+		"Cooked porkchop and cooked chicken are great too."
+		"Build an automated grilling system,"
+		"从不 go hungry again!"
+	]
+	quest.0000000001000013.quest_subtitle: "烤肉盛宴"
+	quest.0000000001000013.title: "烤肉盛宴"
+	quest.0000000001000014.quest_desc: [
+		"拿起你的 fishing rod and enjoy some time at the river!"
+		"Craft a fishing rod with sticks and string,"
+		"right-click water to cast the bobber."
+		"Wait for the bobber to dip then quickly reel in."
+		"钓鱼 yields raw fish, treasure, even enchanted books!"
+		"Cod and salmon are a cat's favorite."
+	]
+	quest.0000000001000014.quest_subtitle: "渔夫之道"
+	quest.0000000001000014.title: "渔夫之道"
+	quest.0000000001000015.quest_desc: [
+		"Find pumpkin and melon seeds in mineshafts or villages."
+		"Growing pumpkins and melons requires adjacent farmland,"
+		"their stems grow fruit on adjacent blocks."
+		"Craft pumpkin pie with pumpkin, sugar, and egg,"
+		"a quality food that restores 8 hunger!"
+		"32 melon slices to fill your backpack."
+	]
+	quest.0000000001000015.quest_subtitle: "南瓜与西瓜"
+	quest.0000000001000015.title: "南瓜与西瓜"
+	quest.0000000001000016.quest_desc: [
+		"You are a true livestock expert!"
+		"右键点击 a cow with an iron bucket 获取 milk,"
+		"milk clears all potion effects."
+		"Collect 32 eggs for sustainable chicken hatching,"
+		"16 leather can be used for books and equipment."
+		"Use eggs, sugar, and milk 合成 a celebration cake!"
+	]
+	quest.0000000001000016.quest_subtitle: "牛奶与鸡蛋"
+	quest.0000000001000016.title: "养殖专家"
+	quest.0000000001000017.quest_desc: [
+		"最好的 defense is raising your shield!"
+		"Craft a shield with 6 planks and 1 iron ingot."
+		"Hold right-click to raise the shield and fully block attacks,"
+		"including skeleton arrows and creeper explosions!"
+		"A shield is a must-have for exploring dangerous areas,"
+		"Don't face a group of skeleton archers bare-handed!"
+	]
+	quest.0000000001000017.quest_subtitle: "盾牌防御"
+	quest.0000000001000017.title: "盾牌护身"
+	quest.0000000001000018.quest_desc: [
+		"Wear a full set of iron armor and protect yourself!"
+		"A full set requires 24 iron ingots."
+		"提供 15 armor points (max 20),"
+		"significantly reducing damage taken."
+		"Prioritize crafting the chestplate for the most protection!"
+		"With iron armor, mining is no longer terrifying."
+	]
+	quest.0000000001000018.quest_subtitle: "铁 护甲 Set"
+	quest.0000000001000018.title: "铁 护甲 Set"
+	quest.0000000001000019.quest_desc: [
+		"A good weapon is key to survival!"
+		"石头 sword deals 5 attack damage,"
+		"1 more than wooden sword, 4 more than bare hands."
+		"Keep your weapon on you at all times,"
+		"ready to counter zombies and skeletons at night."
+		"Even better when paired with a shield!"
+	]
+	quest.0000000001000019.quest_subtitle: "石头 剑 Upgrade"
+	quest.0000000001000019.title: "石头 剑 Upgrade"
+	quest.0000000001000020.quest_desc: [
+		"Ranged combat is the safest way to fight!"
+		"Craft a bow with sticks and string."
+		"Bows can be charged for more damage,"
+		"a fully charged shot deals 9-10 damage."
+		"Prepare plenty of arrows (64+),"
+		"defeat monsters and Endermen from a distance."
+		"Arrows can be enchanted with Infinity for unlimited use!"
+	]
+	quest.0000000001000020.quest_subtitle: "The Archer"
+	quest.0000000001000020.title: "The Archer"
+	quest.0000000001000021.quest_desc: [
+		"Brave warrior, take up arms and hunt monsters!"
+		"击杀 15 zombies for rotten flesh and XP,"
+		"kill 15 skeletons for bones and arrows,"
+		"kill 8 spiders for string and spider eyes."
+		"These drops can be used for crafting and trading."
+		"Bones tame wolves, string makes bows and fishing rods."
+		"Hunt monsters at night for best results!"
+	]
+	quest.0000000001000021.quest_subtitle: "Monster Hunter"
+	quest.0000000001000021.title: "Monster Hunter"
+	quest.0000000001000022.quest_desc: [
+		"Ssssss-BOOM! Keep creepers away from your home!"
+		"击杀 8 creepers and collect 32 gunpowder."
+		"Creepers explode after 3 seconds when close,"
+		"use a bow for safer ranged attacks."
+		"火药 is used 合成 TNT and firework rockets."
+		"Beware! Creepers don't burn in daylight!"
+	]
+	quest.0000000001000022.quest_subtitle: "Creeper Bane"
+	quest.0000000001000022.title: "Creeper Bane"
+	quest.0000000001000023.quest_desc: [
+		"The anvil is key to weapon and tool upgrades!"
+		"需要 3 iron blocks and 4 iron ingots (31 total),"
+		"anvils can rename items, repair tools,"
+		"and combine enchanted books."
+		"Anvils gradually degrade with use,"
+		"eventually becoming a damaged anvil."
+		"Invest XP at the anvil to improve your gear!"
+	]
+	quest.0000000001000023.quest_subtitle: "铁砧 锻造"
+	quest.0000000001000023.title: "铁砧 锻造"
+	quest.0000000001000024.quest_desc: [
+		"恭喜! You've entered the 钻石时代!"
+		"Find diamond ore near Y=-58,"
+		"mine it with an iron pickaxe or better."
+		"钻石 pickaxe can mine obsidian,"
+		"a requirement for entering the Nether."
+		"钻石 pickaxe has 1561 durability,"
+		"6x that of an iron pickaxe!"
+	]
+	quest.0000000001000024.quest_subtitle: "钻石时代"
+	quest.0000000001000024.title: "钻石时代"
+	quest.0000000001000025.quest_desc: [
+		"Open the gate to the hell dimension!"
+		"You need at least 10 obsidian to build the portal."
+		"黑曜石 can only be mined with a diamond pickaxe,"
+		"create obsidian by pouring water over lava source blocks."
+		"The portal frame is a 4x5 hollow rectangle,"
+		"right-click with flint and steel to activate."
+		"步骤 through the purple veil into the Nether!"
+	]
+	quest.0000000001000025.quest_subtitle: "下界传送门"
+	quest.0000000001000025.title: "下界传送门"
+	quest.0000000001000026.quest_desc: [
+		"The Nether is a scorching and dangerous realm."
+		"Collect 32 netherrack as building and crafting material."
+		"荧石 dust is used for redstone lamps and arrow effects."
+		"Soul sand is needed to summon the Wither,"
+		"and is the soil for growing nether wart."
+		"当心 lava and ghasts in the Nether!"
+	]
+	quest.0000000001000026.quest_subtitle: "Nether 探索"
+	quest.0000000001000026.title: "Nether 探索"
+	quest.0000000001000027.quest_desc: [
+		"Find blaze spawners in Nether fortresses."
+		"Blazes charge up before shooting fireballs,"
+		"dodge or block with a shield!"
+		"击杀 8 blazes for 8 blaze rods,"
+		"blaze rods are essential for brewing and crafting ender eyes."
+		"Craft blaze powder for brewing fuel."
+	]
+	quest.0000000001000027.quest_subtitle: "Blaze Hunter"
+	quest.0000000001000027.title: "Blaze Hunter"
+	quest.0000000001000028.quest_desc: [
+		"Hunt Wither Skeletons in Nether fortresses."
+		"Wither skeletons are 3 blocks tall, carry stone swords,"
+		"and their attacks inflict the Wither effect."
+		"击杀 5 Wither Skeletons and get one skull."
+		"Wither skeleton skulls have only a 2.5% drop rate,"
+		"you may need to kill many!"
+		"Three skulls are needed to summon the Wither."
+	]
+	quest.0000000001000028.quest_subtitle: "Wither Skeleton"
+	quest.0000000001000028.title: "Wither Skeleton"
+	quest.0000000001000029.quest_desc: [
+		"Piglins love gold!"
+		"Drop gold ingots near piglins,"
+		"they will pick them up and throw back items in exchange."
+		"Piglin bartering yields ender pearls, soul sand,"
+		"glowstone dust, nether quartz, and other valuables."
+		"Wear gold armor and piglins won't attack you."
+		"Prepare 16 gold ingots for large-scale bartering!"
+	]
+	quest.0000000001000029.quest_subtitle: "Piglin Bartering"
+	quest.0000000001000029.title: "Piglin Bartering"
+	quest.0000000001000030.quest_desc: [
+		"Nether quartz is an ore found throughout the Nether."
+		"Quartz ore can be found at any height in the Nether."
+		"Quartz is used 合成 redstone comparators,"
+		"daylight detectors, and diorite."
+		"Quartz blocks are beautiful building materials,"
+		"collect 64 quartz for building and crafting."
+		"挖掘 quartz ore also gives good XP!"
+	]
+	quest.0000000001000030.quest_subtitle: "下界石英"
+	quest.0000000001000030.title: "下界石英"
+	quest.0000000001000031.quest_desc: [
+		"Mine the most powerful ore — 远古残骸!"
+		"Ancient debris only generates in the Nether at Y=8-22,"
+		"search at Y=15 using bed explosions or TNT."
+		"Ancient debris has extreme blast resistance,"
+		"cannot be destroyed by any explosion."
+		"Smelt in a furnace into netherite scrap,"
+		"4 scraps craft 1 netherite ingot."
+	]
+	quest.0000000001000031.quest_subtitle: "远古残骸"
+	quest.0000000001000031.title: "远古残骸"
+	quest.0000000001000032.quest_desc: [
+		"Obtain the most powerful material in the game!"
+		"Upgrade diamond gear to netherite at a smithing table."
+		"下界合金 gear does not burn in lava,"
+		"and has higher durability and armor values."
+		"Use 1 netherite ingot to upgrade one piece of gear,"
+		"preserving existing enchantments and durability."
+		"Wear full netherite and conquer everything!"
+	]
+	quest.0000000001000032.quest_subtitle: "下界合金"
+	quest.0000000001000032.title: "下界合金"
+	quest.0000000001000033.quest_desc: [
+		"Potion brewing is a powerful support system!"
+		"Craft a brewing stand with blaze rods and cobblestone."
+		"Place water bottles in the bottom of the stand,"
+		"and brewing ingredients on top."
+		"Use nether wart 制作 awkward potions as a base,"
+		"then add other ingredients for specific effects."
+		"Glass bottles can be obtained from water sources or witches."
+	]
+	quest.0000000001000033.quest_subtitle: "酿造基础"
+	quest.0000000001000033.title: "酿造基础"
+	quest.0000000001000034.quest_desc: [
+		"Dive deep into the art of potion brewing!"
+		"Craft at least one bottle of any potion."
+		"Collect dragon's breath 制作 lingering potions,"
+		"lingering potions create a potion cloud on the ground."
+		"Common potions: Strength, Swiftness, Regeneration,"
+		"Fire 抗性, Night Vision, and Slow Falling."
+		"Enhance with glowstone dust, extend with redstone!"
+	]
+	quest.0000000001000034.quest_subtitle: "Advanced 酿造"
+	quest.0000000001000034.title: "Advanced 酿造"
+	quest.0000000001000035.quest_desc: [
+		"挑战 the world's most dangerous boss — the Wither!"
+		"Summon using 3 wither skeleton skulls and 4 soul sand."
+		"The Wither shoots explosive wither skulls,"
+		"causing massive destruction and the Wither effect."
+		"Summon underground or far from your base,"
+		"prepare golden apples, strength, and regeneration potions."
+		"击败 the Wither to obtain a Nether Star!"
+	]
+	quest.0000000001000035.quest_subtitle: "Wither Battle"
+	quest.0000000001000035.title: "Wither Battle"
+	quest.0000000001000036.quest_desc: [
+		"Activate your beacon with a Nether Star!"
+		"Place the beacon on top of a pyramid made of"
+		"iron/gold/diamond/emerald/netherite blocks."
+		"The pyramid needs at least 3x3 (9 blocks),"
+		"and can go up to a 4-tier pyramid."
+		"Beacons provide permanent area buffs:"
+		"速度, Haste, 抗性, Strength, Jump Boost, and Regeneration."
+		"Collect 36 iron blocks to build the beacon base!"
+	]
+	quest.0000000001000036.quest_subtitle: "信标 Light"
+	quest.0000000001000036.title: "信标 Light"
+	quest.0000000001000037.quest_desc: [
+		"Long black figures flicker in the night."
+		"Endermen only attack when you look at their head!"
+		"They are neutral when you don't look at them."
+		"击杀 10 Endermen for ender pearls."
+		"Ender pearls are key to finding the stronghold."
+		"Build a 2-block-high shelter to safely fight Endermen,"
+		"since they are 3 blocks tall and can't fit in!"
+	]
+	quest.0000000001000037.quest_subtitle: "Enderman Hunter"
+	quest.0000000001000037.title: "Enderman Hunter"
+	quest.0000000001000038.quest_desc: [
+		"Find the portal to the End!"
+		"Craft eyes of ender with blaze powder and ender pearls."
+		"右键点击 with an eye of ender to throw it into the air,"
+		"it will fly towards the nearest stronghold."
+		"You need up to 12 eyes of ender"
+		"to activate the End portal frames."
+		"Follow the eyes of ender 找到 the underground stronghold!"
+	]
+	quest.0000000001000038.quest_subtitle: "Journey to the End"
+	quest.0000000001000038.title: "Journey to the End"
+	quest.0000000001000039.quest_desc: [
+		"Delve into the underground stronghold 找到 the portal room!"
+		"The stronghold is filled with silverfish spawners,"
+		"kill 5 silverfish and pass through their spawning areas."
+		"Collect 16 end stone as a memento."
+		"Place eyes of ender in the portal frames to activate."
+		"Prepare thoroughly before entering the portal!"
+		"Bring a bow, shield, and plenty of food."
+	]
+	quest.0000000001000039.quest_subtitle: "Stronghold 探索"
+	quest.0000000001000039.title: "Stronghold 探索"
+	quest.0000000001000040.quest_desc: [
+		"Face the 末影龙 and end her reign!"
+		"Destroy the End Crystals (on top of obsidian pillars) with a bow or snowballs,"
+		"the crystals constantly heal the dragon."
+		"The dragon perches on the central bedrock pillar,"
+		"this is the best time to attack her."
+		"After defeating the dragon, collect the dragon head as a trophy!"
+		"The dragon egg appears on the bedrock pillar."
+		"当心 the dragon's breath attack!"
+	]
+	quest.0000000001000040.quest_subtitle: "Dragonslayer"
+	quest.0000000001000040.title: "Dragonslayer"
+	quest.0000000001000041.quest_desc: [
+		"Travel through the End Gateway to the outer islands!"
+		"The outer islands are covered with chorus plants,"
+		"collect 32 chorus fruit for eating and planting."
+		"Search for End Cities on the outer islands,"
+		"kill shulkers for shulker shells,"
+		"collect 16 purpur blocks for building."
+		"The End Cities also hold the precious 鞘翅!"
+	]
+	quest.0000000001000041.quest_subtitle: "End Outer Islands"
+	quest.0000000001000041.title: "End Outer Islands"
+	quest.0000000001000042.quest_desc: [
+		"The sky is yours! Don the 鞘翅 and soar!"
+		"Find the 鞘翅 in an End City ship."
+		"Wear the 鞘翅, jump from a high place, and press space to glide."
+		"Use firework rockets with 鞘翅 for propelled flight,"
+		"craft 32 firework rockets as flight fuel."
+		"鞘翅 can also combine with a Riptide trident for fast flight."
+		"From now on, the sky is your domain!"
+	]
+	quest.0000000001000042.quest_subtitle: "鞘翅 Flight"
+	quest.0000000001000042.title: "鞘翅 Flight"
+	quest.0000000001000043.quest_desc: [
+		"Shulkers are one of the most fearsome End mobs!"
+		"Shulkers cling to the walls of End Cities,"
+		"shooting homing projectiles that make targets levitate."
+		"Shulker shells are the only material for shulker boxes,"
+		"shulker boxes are portable containers — an expandable backpack!"
+		"Craft 4 shulker boxes for storage expansion."
+		"Shulker boxes retain their contents even when broken."
+	]
+	quest.0000000001000043.quest_subtitle: "Shulker Farm"
+	quest.0000000001000043.title: "Shulker Farm"
+	quest.0000000001000044.quest_desc: [
+		"You have fully conquered the End dimension!"
+		"Display a dragon head, elytra, 8 shulker boxes,"
+		"and 64 ender pearls,"
+		"proving 你已经 mastered everything in the End."
+		"From defeating the 末影龙 to exploring the outer islands,"
+		"你已经 endured a long and difficult journey."
+		"The End holds no more secrets!"
+	]
+	quest.0000000001000044.quest_subtitle: "End Conquest"
+	quest.0000000001000044.title: "End Conquest"
+	quest.0000000001000045.quest_desc: [
+		"Villagers are your best trading partners!"
+		"Find a village and interact with villagers to trade."
+		"Trade crops and minerals with villagers for emeralds."
+		"Collect 16 emeralds and 4 emerald blocks."
+		"Different villager professions offer different trades."
+		"Repeat trades 解锁 better trading options,"
+		"discounted trades are even more worthwhile!"
+	]
+	quest.0000000001000045.quest_subtitle: "Villager Trading"
+	quest.0000000001000045.title: "Villager Trading"
+	quest.0000000001000046.quest_desc: [
+		"The librarian is the guardian of knowledge."
+		"Craft a lectern with 9 books and 6 planks,"
+		"a lectern lets unemployed villagers become librarians."
+		"Collect 16 bookshelves to empower your enchanting table."
+		"Bookshelves are key to boosting enchantment levels."
+		"Trade with librarians to obtain enchanted books!"
+	]
+	quest.0000000001000046.quest_subtitle: "The Librarian"
+	quest.0000000001000046.title: "The Librarian"
+	quest.0000000001000047.quest_desc: [
+		"Man's best friend — tame a wolf!"
+		"Find wild wolves in taiga and forest biomes,"
+		"right-click with bones for a chance to tame them."
+		"Tamed wolves will follow and protect you,"
+		"automatically attacking anything that hurts you or you attack."
+		"Prepare 16 bones for taming attempts,"
+		"and wheat to breed your tamed wolves."
+	]
+	quest.0000000001000047.quest_subtitle: "Tame the Wolf"
+	quest.0000000001000047.title: "Tame the Wolf"
+	quest.0000000001000048.quest_desc: [
+		"Creepers fear cats more than players!"
+		"Find stray cats near villages,"
+		"sneak close and tame them with raw cod or raw salmon."
+		"Cats follow their owner when sleeping and bring little gifts,"
+		"creepers and phantoms actively avoid cats."
+		"Prepare 16 fish for taming attempts,"
+		"there are 11 different cat variants!"
+	]
+	quest.0000000001000048.quest_subtitle: "Tame the Cat"
+	quest.0000000001000048.title: "Tame the Cat"
+	quest.0000000001000049.quest_desc: [
+		"附魔 is the ultimate way to enhance gear!"
+		"Craft an enchanting table with 4 obsidian, 2 diamonds, and 1 book."
+		"Surround the table with bookshelves for high-level enchantments,"
+		"level 30 enchants require 15 bookshelves around it."
+		"附魔 costs XP and lapis lazuli,"
+		"greatly improving gear power and durability."
+		"附魔 swords, pickaxes, bows, and armor is core gameplay!"
+	]
+	quest.0000000001000049.quest_subtitle: "Path of 附魔"
+	quest.0000000001000049.title: "Path of 附魔"
+	quest.0000000001000050.quest_desc: [
+		"Master the ultimate art of enchanting!"
+		"Obtain 4 enchanted books — through fishing,"
+		"villager trading, or the enchanting table."
+		"Use an anvil to apply enchanted books to gear."
+		"Collect 64 lapis lazuli as enchantment fuel,"
+		"master the strategy of stacking multiple enchantments."
+		"Recommended enchants: Efficiency V, Unbreaking III, Sharpness V!"
+	]
+	quest.0000000001000050.quest_subtitle: "附魔 Master"
+	quest.0000000001000050.title: "附魔 Master"
+	quest.0000000001000051.quest_desc: [
+		"装备 always wears down, learn to repair it!"
+		"Craft a grindstone with 2 sticks, 1 stone slab, and 2 planks."
+		"The grindstone removes enchantments and returns some XP."
+		"Repair gear at an anvil using base materials:"
+		"use iron ingots to repair iron tools and armor."
+		"Stockpile 32 iron ingots for repairs."
+		"The Mending enchantment auto-repairs gear!"
+	]
+	quest.0000000001000051.quest_subtitle: "Repair 装备"
+	quest.0000000001000051.title: "Repair 装备"
+	quest.0000000001000052.quest_desc: [
+		"Diamonds make the highest-tier equipment!"
+		"钻石 chestplate provides 8 armor points,"
+		"2 more than iron chestplate, with significant damage reduction."
+		"钻石 gear has far higher durability than iron,"
+		"it will accompany you through most of the game."
+		"With diamond armor, 你可以 challenge"
+		"Nether fortresses, the End, and other dangerous areas!"
+	]
+	quest.0000000001000052.quest_subtitle: "钻石 护甲"
+	quest.0000000001000052.title: "钻石 护甲"
+	quest.0000000001000053.quest_desc: [
+		"Wear a full set of diamond armor and shine!"
+		"Full diamond requires 24 diamonds,"
+		"providing 20 max armor points."
+		"钻石 helmet, leggings, and boots,"
+		"plus the diamond chestplate, complete the diamond set."
+		"Full diamond reduces damage by 80%!"
+		"The minimum setup for challenging the Wither and 末影龙."
+	]
+	quest.0000000001000053.quest_subtitle: "Full 钻石 Set"
+	quest.0000000001000053.title: "Full 钻石 Set"
+	quest.0000000001000054.quest_desc: [
+		"A true symbol of wealth — the 钻石 Block!"
+		"Craft 1 diamond block using 9 diamonds."
+		"Show off your vast diamond reserves."
+		"钻石 blocks can be used in beacon bases,"
+		"and are the best choice for luxurious builds."
+		"Flaunt your wealth and gathering prowess!"
+	]
+	quest.0000000001000054.quest_subtitle: "钻石 Block"
+	quest.0000000001000054.title: "钻石 Block"
+	quest.0000000001000055.quest_desc: [
+		"恭喜! You have completed 原版生存基础!"
+		"From your first log to defeating the Wither and 末影龙,"
+		"你已经 mastered everything in vanilla Minecraft."
+		"You have displayed a diamond block, nether star,"
+		"dragon head, and enchanted golden apple —"
+		"the highest honors of your journey."
+		"New adventures await you ahead!"
+	]
+	quest.0000000001000055.quest_subtitle: "章节 Graduation"
+	quest.0000000001000055.title: "章节 One Graduation"
+	quest.0000000002000001.quest_desc: [
+		"欢迎来到烹饪与水章节！"
+		"本章涵盖四个系统："
+		"  Farmer's Delight — 从农场到餐桌"
+		"  Kaleidoscope Cookery — 精致美食"
+		"  Kaleidoscope Tavern — 酒吧经营"
+		"  Thirst Was Taken — 饮水系统"
+	]
+	quest.0000000002000001.quest_subtitle: "章节 Entry"
+	quest.0000000002000001.title: "Culinary Journey"
+	quest.0000000002000002.quest_desc: [
+		"切菜板是你在Farmer's Delight中"
+		"准备食材所需的第一件工具。"
+		"放置切菜板后，使用刀在上面"
+		"将食材切碎用于烹饪。"
+	]
+	quest.0000000002000002.quest_subtitle: "Prepare your ingredients"
+	quest.0000000002000002.title: "Kitchen Basics"
+	quest.0000000002000003.quest_desc: [
+		"煎锅用于煎炒和烤制食物。"
+		"将其放在炉灶或营火等热源上方，"
+		"直接加入食材来煎肉、蛋等。"
+	]
+	quest.0000000002000003.quest_subtitle: "Frying made easy"
+	quest.0000000002000003.title: "Skillet Cooking"
+	quest.0000000002000004.quest_desc: [
+		"炉灶是核心烹饪站，为所有烹饪"
+		"设备提供永久热源。"
+		"它无需营火，可同时运行"
+		"多个锅具和平底锅。"
+	]
+	quest.0000000002000004.quest_subtitle: "Permanent cooking heat"
+	quest.0000000002000004.title: "Stove Heat"
+	quest.0000000002000005.quest_desc: [
+		"将烹饪锅放在炉灶上，解锁其"
+		"制作汤羹、炖菜和盛宴的全部潜力。"
+		"加入水、食材和热源，烹饪复杂"
+		"菜肴，恢复大量饱食度。"
+	]
+	quest.0000000002000005.quest_subtitle: "Hearty meals await"
+	quest.0000000002000005.title: "FD Crops"
+	quest.0000000002000006.quest_desc: [
+		"篮子是一种便携式存储容器，"
+		"专为食物和作物设计。"
+		"用它整理厨房，将收获的作物"
+		"从农田运回基地。"
+	]
+	quest.0000000002000006.quest_subtitle: "Portable food storage"
+	quest.0000000002000006.title: "Crop 种子"
+	quest.0000000002000007.quest_desc: [
+		"肥沃土壤是通过让有机堆肥"
+		"自然发酵生成的。"
+		"其作物生长速度显著快于普通"
+		"耕地，并具有天然保水能力。"
+	]
+	quest.0000000002000007.quest_subtitle: "Supercharged farmland"
+	quest.0000000002000007.title: "Rich Soil"
+	quest.0000000002000008.quest_desc: [
+		"有机堆肥由作物残渣、"
+		"腐坏食物等有机材料制成。"
+		"将其撒在地面上，等待其转化为"
+		"肥沃土壤，加速作物生长。"
+	]
+	quest.0000000002000008.quest_subtitle: "Nature's fertilizer"
+	quest.0000000002000008.title: "Kitchen Knives"
+	quest.0000000002000009.quest_desc: [
+		"水稻是在肥沃土壤浅水层中"
+		"生长的主食谷物。"
+		"收获水稻制作熟米饭，这是"
+		"炒饭等众多菜肴的基础。"
+	]
+	quest.0000000002000009.quest_subtitle: "Staple crop farming"
+	quest.0000000002000009.title: "Simple Cooking"
+	quest.000000000200000A.quest_desc: [
+		"洋葱是多种Farmer's Delight"
+		"食谱中通用的蔬菜。"
+		"它们为汤羹、炖菜、三明治"
+		"和沙拉增添风味。"
+	]
+	quest.000000000200000A.quest_subtitle: "Versatile vegetable"
+	quest.000000000200000A.title: "Onion"
+	quest.000000000200000B.quest_desc: [
+		"番茄是酱料、沙拉和三明治的"
+		"厨房必备品。"
+		"在肥沃土壤上种植番茄种子，"
+		"收获用于意面和汉堡。"
+	]
+	quest.000000000200000B.quest_subtitle: "Sauce and salad staple"
+	quest.000000000200000B.title: "Tomato"
+	quest.000000000200000C.quest_desc: [
+		"卷心菜叶片可从一株植物上"
+		"多次收获，无需重新种植。"
+		"用于制作卷心菜卷、沙拉以及"
+		"各种蔬菜料理。"
+	]
+	quest.000000000200000C.quest_subtitle: "Leafy green harvest"
+	quest.000000000200000C.title: "Cabbage"
+	quest.000000000200000D.quest_desc: [
+		"燧石小刀是在切菜板上"
+		"处理食材的基础切削工具。"
+		"用于切蔬菜、切肉，以及从"
+		"草和植物中收获额外资源。"
+	]
+	quest.000000000200000D.quest_subtitle: "Basic cutting tool"
+	quest.000000000200000D.title: "燧石 Knife"
+	quest.000000000200000E.quest_desc: [
+		"铁刀比燧石刀更耐用，"
+		"处理食材速度更快。"
+		"升级工具以加速食物准备，"
+		"减少切割设备的磨损。"
+	]
+	quest.000000000200000E.quest_subtitle: "Durable kitchen tool"
+	quest.000000000200000E.title: "铁 Knife"
+	quest.000000000200000F.quest_desc: [
+		"钻石刀是高级切削工具，"
+		"具有卓越的耐久度和速度。"
+		"它能迅速完成任何食材加工，"
+		"是值得长期投资的好工具。"
+	]
+	quest.000000000200000F.quest_subtitle: "Precision cutting"
+	quest.000000000200000F.title: "钻石 Knife"
+	quest.0000000002000010.quest_desc: [
+		"下界合金刀是终极切割工具，"
+		"拥有超强耐久度和无与伦比的速度。"
+		"这是你厨房武器库的最终升级。"
+	]
+	quest.0000000002000010.quest_subtitle: "Ultimate kitchen blade"
+	quest.0000000002000010.title: "Salads"
+	quest.0000000002000011.quest_desc: [
+		"烤鸡是一道丰盛的菜肴，提供"
+		"丰富的营养和饱食度。"
+		"在烹饪锅中将整只鸡与蔬菜一起"
+		"烹饪，享用这份美味大餐。"
+	]
+	quest.0000000002000011.quest_subtitle: "Hearty protein meal"
+	quest.0000000002000011.title: "Soups"
+	quest.0000000002000012.quest_desc: [
+		"牛排土豆是一道经典高蛋白料理，"
+		"将牛肉与丰厚的土豆完美结合。"
+		"在烹饪锅中将牛肉和土豆一起烹饪，"
+		"享用这道营养美味的菜肴。"
+	]
+	quest.0000000002000012.quest_subtitle: "Classic comfort food"
+	quest.0000000002000012.title: "Seafood"
+	quest.0000000002000013.quest_desc: [
+		"汉堡是包含面包、肉类和"
+		"新鲜蔬菜的完整一餐。"
+		"提供极佳的饱和度，适合"
+		"长期冒险和采矿探险。"
+	]
+	quest.0000000002000013.quest_subtitle: "完成 handheld meal"
+	quest.0000000002000013.title: "Noodles  Dumplings"
+	quest.0000000002000014.quest_desc: [
+		"混合沙拉将各种蔬菜组合成"
+		"一道清淡营养的餐食。"
+		"用卷心菜、番茄和洋葱快速制作，"
+		"是游戏早期的理想食物供应。"
+	]
+	quest.0000000002000014.quest_subtitle: "Light and nutritious"
+	quest.0000000002000014.title: "Rice Dishes"
+	quest.0000000002000015.quest_desc: [
+		"水果沙拉用多种新鲜水果"
+		"为你的饮食增添天然甜味。"
+		"清爽的餐食，提供良好的营养"
+		"和换换口味的美味体验。"
+	]
+	quest.0000000002000015.quest_subtitle: "Sweet and refreshing"
+	quest.0000000002000015.title: "Meat Platters"
+	quest.0000000002000016.quest_desc: [
+		"填馅南瓜是一道节日盛宴菜品，"
+		"将南瓜与丰富的食材相结合。"
+		"它既是装饰品也是营养餐食，"
+		"标志着你对Farmer's Delight烹饪的精通。"
+	]
+	quest.0000000002000016.quest_subtitle: "Festive feast item"
+	quest.0000000002000016.title: "Sandwiches"
+	quest.0000000002000017.quest_desc: [
+		"万物蒸煮炉是用于高级料理的"
+		"多功能烹饪站。"
+		"支持炒锅、汤锅、蒸笼和煎锅，"
+		"实现多样化的中式烹饪方式。"
+	]
+	quest.0000000002000017.quest_subtitle: "万花筒 cooking station"
+	quest.0000000002000017.title: "Drinks"
+	quest.0000000002000018.quest_desc: [
+		"炒锅用于在万物蒸煮炉上"
+		"进行高温翻炒。"
+		"搭配油和食材快速烹制"
+		"美味的中式炒菜。"
+	]
+	quest.0000000002000018.quest_subtitle: "High-heat stir-frying"
+	quest.0000000002000018.title: "Bakery"
+	quest.0000000002000019.quest_desc: [
+		"汤锅用于在万物蒸煮炉上"
+		"慢炖浓郁的高汤和汤品。"
+		"它是制作高汤的必备工具，"
+		"高汤是许多中国菜的风味基础。"
+	]
+	quest.0000000002000019.quest_subtitle: "Slow-cooking broths"
+	quest.0000000002000019.title: "Storage"
+	quest.000000000200001A.quest_desc: [
+		"蒸笼用蒸汽烹饪食物，保留"
+		"营养和细腻的口感。"
+		"用于制作饺子、包子和其他"
+		"中式蒸制美味。"
+	]
+	quest.000000000200001A.quest_subtitle: "Steam-cooked delicacies"
+	quest.000000000200001A.title: "Steamer"
+	quest.000000000200001B.quest_desc: [
+		"茶壶用各种原料冲泡茶水，"
+		"获得独特的效果。"
+		"茶与甜点完美搭配，为烹饪"
+		"之余带来片刻放松。"
+	]
+	quest.000000000200001B.quest_subtitle: "Brew soothing tea"
+	quest.000000000200001B.title: "Teapot"
+	quest.000000000200001C.quest_desc: [
+		"万物砧板用于加工"
+		"高级食谱所需食材。"
+		"配合厨房刀使用，制作饺子皮"
+		"和其他专用食材。"
+	]
+	quest.000000000200001C.quest_subtitle: "Precision prep surface"
+	quest.000000000200001C.title: "KaC Chopping Board"
+	quest.000000000200001D.quest_desc: [
+		"万物厨房刀专为"
+		"食材的精准切割设计。"
+		"在砧板上使用，准备"
+		"中式料理所需的食材。"
+	]
+	quest.000000000200001D.quest_subtitle: "KaC precision blade"
+	quest.000000000200001D.title: "Kitchen Knife"
+	quest.000000000200001E.quest_desc: [
+		"食用油是翻炒和煎炸"
+		"所需的基础食材。"
+		"用磨石从种子中榨取，"
+		"储存在炉灶旁的油壶中。"
+	]
+	quest.000000000200001E.quest_subtitle: "Essential stir-fry ingredient"
+	quest.000000000200001E.title: "Cooking Oil"
+	quest.000000000200001F.quest_desc: [
+		"煎锅用于将饺子、肉类等"
+		"食材煎至金黄香脆。"
+		"需要油和万物蒸煮炉的"
+		"热源才能运行。"
+	]
+	quest.000000000200001F.quest_subtitle: "Golden pan-frying"
+	quest.000000000200001F.title: "Frying Pan"
+	quest.0000000002000020.quest_desc: [
+		"蛋炒饭是一道经典简餐，"
+		"用米饭、鸡蛋和少许油制作。"
+		"快速又美味的餐食，容易大批量"
+		"制作，为冒险做好准备。"
+	]
+	quest.0000000002000020.quest_subtitle: "Classic simple dish"
+	quest.0000000002000020.title: "Organic Composting"
+	quest.0000000002000021.quest_desc: [
+		"麻婆豆腐是一道辛辣的川菜，"
+		"以豆腐和肉末搭配浓郁酱料。"
+		"提供充足的营养，代表了"
+		"高级中式烹饪技巧。"
+	]
+	quest.0000000002000021.quest_subtitle: "Culinary Master"
+	quest.0000000002000021.title: "FD Master"
+	quest.0000000002000022.quest_desc: [
+		"宫保鸡丁是一道香辣炒菜，"
+		"包含鸡肉、花生和彩色蔬菜。"
+		"高蛋白菜品，恢复大量饱食度，"
+		"展示了炒锅的精湛技艺。"
+	]
+	quest.0000000002000022.quest_subtitle: "Nutty spicy stir-fry"
+	quest.0000000002000022.title: "KaC Kitchen"
+	quest.0000000002000023.quest_desc: [
+		"点心是一系列小份蒸制美食，"
+		"展现了茶点文化的艺术。"
+		"使用砧板和蒸笼制作，"
+		"以小份量提供优质营养。"
+	]
+	quest.0000000002000023.quest_subtitle: "Steamed bite-sized treats"
+	quest.0000000002000023.title: "Chinese Cuisine"
+	quest.0000000002000024.quest_desc: [
+		"樱花吹雪是一道精致的甜点，"
+		"带有淡雅的樱花风味。"
+		"高级菜品，展示了万物烹饪"
+		"和甜点艺术的高超技艺。"
+	]
+	quest.0000000002000024.quest_subtitle: "Cherry blossom elegance"
+	quest.0000000002000024.title: "Japanese Cuisine"
+	quest.0000000002000025.quest_desc: [
+		"麻薯是一种甜味年糕甜点，"
+		"夹心多样，口感软糯Q弹。"
+		"经典的日式点心，丰富了"
+		"万物烹饪的甜点菜单。"
+	]
+	quest.0000000002000025.quest_subtitle: "Sweet rice cake dessert"
+	quest.0000000002000025.title: "Western Cuisine"
+	quest.0000000002000026.quest_desc: [
+		"吧台是你在万物酒馆中"
+		"的核心设施。"
+		"放置吧台，开始布置你的个人"
+		"酒吧和饮品待客区。"
+	]
+	quest.0000000002000026.quest_subtitle: "Tavern centerpiece"
+	quest.0000000002000026.title: "KaC Desserts"
+	quest.0000000002000027.quest_desc: [
+		"吧柜用于存放酒瓶、杯子"
+		"和酒吧工具。"
+		"帮助整理酿造原料，"
+		"调酒时取用方便。"
+	]
+	quest.0000000002000027.quest_subtitle: "Tavern storage"
+	quest.0000000002000027.title: "Barley Tea"
+	quest.0000000002000028.quest_desc: [
+		"酒窖柜专为在凉爽地下"
+		"储存陈酿酒饮设计。"
+		"它能保存葡萄酒和烈酒，"
+		"随时间推移提升品质和效果。"
+	]
+	quest.0000000002000028.quest_subtitle: "Aging and preservation"
+	quest.0000000002000028.title: "KaC Decor"
+	quest.0000000002000029.quest_desc: [
+		"黑色吧椅为酒吧客人"
+		"提供吧台座位。"
+		"在吧台周围摆放多把，营造"
+		"温馨完整的酒吧氛围。"
+	]
+	quest.0000000002000029.quest_subtitle: "Seating for guests"
+	quest.0000000002000029.title: "KaT Tavern"
+	quest.000000000200002A.quest_desc: [
+		"黑色沙发为酒吧休息区和"
+		"放松空间增添舒适座椅。"
+		"为长途冒险后享用饮品的"
+		"客人营造温馨的氛围。"
+	]
+	quest.000000000200002A.quest_subtitle: "Lounge comfort"
+	quest.000000000200002A.title: "Sofa"
+	quest.000000000200002B.quest_desc: [
+		"空瓶由玻璃制作，是酿造"
+		"饮品必不可少的材料。"
+		"装入各种原料后在酒窖柜中陈酿，"
+		"制作出精美的饮品。"
+	]
+	quest.000000000200002B.quest_subtitle: "酿造 essentials"
+	quest.000000000200002B.title: "Empty Bottle"
+	quest.000000000200002C.quest_desc: [
+		"白兰地是一种蒸馏葡萄酒烈酒，"
+		"在酒吧提供独特的状态效果。"
+		"将酒在酒窖柜中陈化后蒸馏，"
+		"即可生产这款精致的饮品。"
+	]
+	quest.000000000200002C.quest_subtitle: "Distilled wine spirit"
+	quest.000000000200002C.title: "Brandy"
+	quest.000000000200002D.quest_desc: [
+		"香槟是为庆典和特殊场合"
+		"酿造的起泡葡萄酒。"
+		"提供特殊增益，代表了"
+		"酿造工艺的巅峰。"
+	]
+	quest.000000000200002D.quest_subtitle: "Sparkling celebration"
+	quest.000000000200002D.title: "Champagne"
+	quest.000000000200002E.quest_desc: [
+		"血腥玛丽是混合番茄汁、"
+		"香料和烈酒的复杂鸡尾酒。"
+		"提供独特效果，展示你"
+		"在酒吧中逐渐成长的调酒技艺。"
+	]
+	quest.000000000200002E.quest_subtitle: "Savory cocktail"
+	quest.000000000200002E.title: "Bloody Mary"
+	quest.000000000200002F.quest_desc: [
+		"深水炸弹是将一小杯烈酒"
+		"投入啤酒杯中饮用的强劲酒饮。"
+		"提供显著效果，是勇敢"
+		"顾客的终极酒吧特调。"
+	]
+	quest.000000000200002F.quest_subtitle: "Ultimate tavern drink"
+	quest.000000000200002F.title: "Depth Charge"
+	quest.0000000002000030.quest_desc: [
+		"空玻璃器皿用于在酒吧中"
+		"专业地供应饮品。"
+		"制作各种杯子和马克杯，"
+		"优雅而时尚地呈现你的饮品。"
+	]
+	quest.0000000002000030.quest_subtitle: "Serve in style"
+	quest.0000000002000030.title: "Bar Seating"
+	quest.0000000002000031.quest_desc: [
+		"黑板用于向客人展示"
+		"酒吧的菜单。"
+		"写下可供应的饮品和菜肴，"
+		"营造温馨的酒吧氛围。"
+	]
+	quest.0000000002000031.quest_subtitle: "Tavern menu display"
+	quest.0000000002000031.title: "Bar Cocktails"
+	quest.0000000002000032.quest_desc: [
+		"熏香以宜人的香气为酒吧"
+		"营造放松的氛围。"
+		"制作蝴蝶熏香或猫薄荷熏香，"
+		"为客人创造不同的氛围效果。"
+	]
+	quest.0000000002000032.quest_subtitle: "Aromatic ambiance"
+	quest.0000000002000032.title: "Bar Reserve"
+	quest.0000000002000033.quest_desc: [
+		"陶碗是第一个用来盛水"
+		"和饮水的容器。"
+		"从水源舀水解渴，"
+		"开始在这个世界中生存。"
+	]
+	quest.0000000002000033.quest_subtitle: "First water container"
+	quest.0000000002000033.title: "Tavern Decor"
+	quest.0000000002000034.quest_desc: [
+		"陶罐是升级版饮水"
+		"容器，容量更大。"
+		"比基础陶碗装更多水且更耐用，"
+		"适合更长途的旅行。"
+	]
+	quest.0000000002000034.quest_subtitle: "Upgraded water container"
+	quest.0000000002000034.title: "Tavern Garden"
+	quest.0000000002000035.quest_desc: [
+		"陶水碗盛装净化后的"
+		"饮用水供安全饮用。"
+		"保持它装满水，在长时间"
+		"采矿和冒险中维持口渴值。"
+	]
+	quest.0000000002000035.quest_subtitle: "Purified drinking water"
+	quest.0000000002000035.title: "Tavern Paintings"
+	quest.0000000002000036.quest_desc: [
+		"沙子过滤器用沙子和砾石层"
+		"将脏水净化为干净饮用水。"
+		"当干净水源稀缺或远离基地时，"
+		"对生存至关重要。"
+	]
+	quest.0000000002000036.quest_subtitle: "Water purification"
+	quest.0000000002000036.title: "Bar Trinkets"
+	quest.0000000002000037.quest_desc: [
+		"来自Comforts的睡袋让你可以"
+		"随地睡觉而不会重置出生点。"
+		"非常适合远离基地床铺"
+		"进行探索和旅行。"
+	]
+	quest.0000000002000037.quest_subtitle: "Sleep anywhere"
+	quest.0000000002000037.title: "KaC/KaT Master"
+	quest.0000000002000038.quest_desc: [
+		"吊床是一种可以在树木或"
+		"柱子之间悬挂的便携睡眠方案。"
+		"在野外提供舒适的休息，"
+		"且不会重置你的出生点。"
+	]
+	quest.0000000002000038.quest_subtitle: "线 up and rest"
+	quest.0000000002000038.title: "口渴值 System"
+	quest.0000000002000039.quest_desc: [
+		"传送石碑是创建快速旅行"
+		"网络的传送锚点。"
+		"在重要地点放置传送石碑并激活，"
+		"即可启用传送功能。"
+	]
+	quest.0000000002000039.quest_subtitle: "Teleportation anchor"
+	quest.0000000002000039.title: "Upgraded Bowls"
+	quest.000000000200003A.quest_desc: [
+		"传送石是一种便携设备，可让"
+		"你传送到任何已激活的传送石碑。"
+		"随身携带，从世界任何地方"
+		"返回家园或在基地间旅行。"
+	]
+	quest.000000000200003A.quest_subtitle: "Portable teleportation"
+	quest.000000000200003A.title: "Warp 石头"
+	quest.0000000002000040.title: "Sand Filter"
+	quest.0000000002000041.title: "Water Master"
+	quest.0000000002000042.title: "Sleeping 装备"
+	quest.0000000002000043.title: "Rope  Nail"
+	quest.0000000002000044.title: "传送石碑"
+	quest.0000000002000045.title: "生存 Master"
+	quest.0000000002000046.title: "更多 BBQ"
+	quest.0000000002000047.title: "Skewers"
+	quest.0000000002000048.title: "Ice  Cookies"
+	quest.0000000002000049.title: "牛奶  Broth"
+	quest.0000000002000050.quest_desc: [
+		"恭喜！你已精通烹饪艺术！"
+		"从农场到酒吧，你是终极烹饪大师！"
+	]
+	quest.0000000002000050.quest_subtitle: "章节 完成"
+	quest.0000000002000050.title: "Culinary Graduation"
+	quest.0000000003000001.quest_desc: [
+		"原版箱子时代即将结束！"
+		"本章介绍现代存储系统："
+		"精致背包："
+		"- 多层级可升级便携背包"
+		"- 自动拾取、自动喂食、流体存储"
+		"- 升级槽位用于自定义功能"
+		"精致存储："
+		"- 多层级木桶、箱子和潜影盒"
+		"- 存储控制器实现统一网络管理"
+		"- 无线/有线存储访问终端"
+		"准备4个原版箱子作为基础"
+		"开始你的存储革命！"
+	]
+	quest.0000000003000001.quest_subtitle: "Farewell to messy chests"
+	quest.0000000003000001.title: "Storage Revolution"
+	quest.0000000003000002.quest_desc: [
+		"这是你的第一个精致背包！"
+		"右键打开背包界面。"
+		"基础背包提供27个存储槽位，"
+		"相当于一个小箱子。"
+		"精致背包的核心功能："
+		"- 升级槽位（初始1个）"
+		"- 可安装拾取升级、合成升级等"
+		"- 潜行+右键可放置在地面"
+		"- 破坏后保留所有物品和升级"
+		"提交一个基础背包，开始你的升级之旅！"
+	]
+	quest.0000000003000002.quest_subtitle: "Sophisticated Backpack Intro"
+	quest.0000000003000002.title: "Basic Backpack"
+	quest.0000000003000003.quest_desc: [
+		"将基础背包升级为铁背包！"
+		"铁背包属性："
+		"- 存储：54个槽位（双箱子大小）"
+		"- 升级槽位：2个"
+		"- 更坚固的材质，金属外观"
+		"合成方法："
+		"用铁锭环绕基础背包合成"
+		"（查看JEI获取精确配方）"
+		"每次升级都会显著提升"
+		"容量和功能！"
+	]
+	quest.0000000003000003.quest_subtitle: "铁 Backpack - 更多 Space"
+	quest.0000000003000003.title: "铁 Upgrade"
+	quest.0000000003000004.quest_desc: [
+		"从铁背包升级到金背包！"
+		"金背包属性："
+		"- 存储：81个槽位"
+		"- 升级槽位：3个"
+		"- 金色外观，奢华造型"
+		"金材质背包采用特殊的"
+		"空间折叠魔法，"
+		"比铁背包多50%容量！"
+		"用金锭环绕铁背包合成。"
+	]
+	quest.0000000003000004.quest_subtitle: "金 Backpack - 速度 and Luxury"
+	quest.0000000003000004.title: "金 Upgrade"
+	quest.0000000003000005.quest_desc: [
+		"从金背包升级到钻石背包！"
+		"钻石背包属性："
+		"- 存储：108个槽位"
+		"- 升级槽位：4个"
+		"- 钻石材质，提升爆炸抗性"
+		"钻石背包能满足几乎"
+		"所有日常冒险存储需求。"
+		"搭配升级模块，功能更加强大。"
+		"但还有终极升级在等待……"
+		"还有一个升级等级等待着你！"
+	]
+	quest.0000000003000005.quest_subtitle: "钻石 Backpack - Top Capacity"
+	quest.0000000003000005.title: "钻石 Upgrade"
+	quest.0000000003000006.quest_desc: [
+		"精致背包的终极形态！"
+		"下界合金背包属性："
+		"- 存储：135个槽位"
+		"- 升级槽位：5个"
+		"- 免疫火焰和熔岩销毁"
+		"- 虚空抗性——掉入虚空也不会消失"
+		"升级需要下界合金升级锻造模板。"
+		"将钻石背包与下界合金锭合成。"
+		"拥有它，你几乎不再需要"
+		"任何额外的便携存储！"
+	]
+	quest.0000000003000006.quest_subtitle: "Ultimate Portable Warehouse"
+	quest.0000000003000006.title: "下界合金升级"
+	quest.0000000003000007.quest_desc: [
+		"精致存储提供多层级容器系统。"
+		"木桶是精致存储的基础容器。"
+		"特点："
+		"- 像原版木桶一样摆放和使用"
+		"- 支持多材质升级（铁/金/钻石/下界合金）"
+		"- 每级升级增加更多存储空间"
+		"- 破坏后保留物品和升级"
+		"- 可接入存储网络进行统一管理"
+		"制作2个基础木桶开始使用！"
+	]
+	quest.0000000003000007.quest_subtitle: "高级存储 Basics"
+	quest.0000000003000007.title: "Barrels"
+	quest.0000000003000008.quest_desc: [
+		"精致存储的木桶/箱子/潜影盒"
+		"支持四个材质升级等级："
+		"铁 — 基础升级，额外空间"
+		"金 — 更大容量，更快访问"
+		"钻石 — 大幅扩容，增强爆炸抗性"
+		"下界合金 — 终极升级，免疫火焰"
+		"每级升级需要对应的矿物块。"
+		"收集全部四种材料，"
+		"为你的存储网络做好准备！"
+	]
+	quest.0000000003000008.quest_subtitle: "Four Upgrade 材料"
+	quest.0000000003000008.title: "Barrel Upgrades"
+	quest.0000000003000009.quest_desc: [
+		"存储控制器是整个存储系统的心脏！"
+		"放置后，它管理附近"
+		"所有已连接的存储容器。"
+		"功能："
+		"- 统一物品搜索界面"
+		"- 跨容器物品管理"
+		"- 支持存储链接扩展网络范围"
+		"- 支持无线终端远程访问"
+		"有了控制器，你不再需要记住"
+		"每个箱子里放了什么。"
+		"一切通过一个界面管理！"
+	]
+	quest.0000000003000009.quest_subtitle: "Core of Storage Network"
+	quest.0000000003000009.title: "Storage Controller"
+	quest.0000000003000010.quest_desc: [
+		"存储链接扩展控制器的覆盖范围。"
+		"默认情况下，控制器只管理"
+		"周围有限范围内的容器。"
+		"使用存储链接可以："
+		"- 将远方容器接入网络"
+		"- 跨楼层和房间桥接"
+		"- 构建大规模自动化仓库"
+		"每个链接连接一个容器组。"
+		"制作4个存储链接，"
+		"为大型存储网络奠定基础！"
+	]
+	quest.0000000003000010.quest_subtitle: "Expand Your Storage Network"
+	quest.0000000003000010.title: "Storage Link"
+	quest.0000000003000011.quest_desc: [
+		"将你所有的存储知识付诸实践！"
+		"构建完整存储网络需要："
+		"- 16个箱子 — 作为基础存储单元"
+		"- 4个木桶 — 作为辅助存储容器"
+		"将这些容器放置在控制器周围，"
+		"使用存储链接扩展网络范围。"
+		"你的首个自动化仓库"
+		"即将上线！"
+		"告别翻箱倒柜的日子！"
+	]
+	quest.0000000003000011.quest_subtitle: "Build Automated Warehouse"
+	quest.0000000003000011.title: "Storage Network"
+	quest.0000000003000012.quest_desc: [
+		"恭喜！你已成为存储大师！"
+		"你已掌握："
+		"- 精致背包的五级升级系统"
+		"- 精致存储的多层级容器升级"
+		"- 存储控制器与链接的网络架构"
+		"- 自动化仓库的构建方法"
+		"拥有下界合金背包和存储控制器，"
+		"你是这个服务器上最顶尖的"
+		"物品管理专家之一！"
+		"带着你的便携仓库和存储网络"
+		"去征服更伟大的目标！"
+	]
+	quest.0000000003000012.quest_subtitle: "The True 存储大师"
+	quest.0000000003000012.title: "存储大师 Graduation"
+	quest.0000000003000013.quest_subtitle: "Connect Your Network"
+	quest.0000000003000013.title: "Storage Link"
+	quest.0000000003000014.quest_desc: [
+		"恭喜！你已掌握本世界的存储之道。"
+		"领取完成存储大师章节的奖励。"
+	]
+	quest.0000000003000014.quest_subtitle: "完成 the 章节"
+	quest.0000000003000014.title: "存储大师 Graduation"
+	quest.0000000004000001.quest_desc: [
+		"Macaw 是一套模块化建造模组"
+		"提供窗户、门、栅栏、家具和桥梁。"
+		"本整合包安装的 Macaw 模组："
+		"- Windows - 窗户和百叶窗"
+		"- Doors - 多种门样式"
+		"- Fences - 栅栏和树篱"
+		"- Furniture - 室内家具"
+		"- Bridges - 桥梁建造"
+		"让我们从最基础的开始：窗户！"
+	]
+	quest.0000000004000001.quest_subtitle: "Macaw's Modular"
+	quest.0000000004000001.title: "建造 Basics"
+	quest.0000000004000002.quest_desc: [
+		"Macaw 的窗户模组提供多种窗户样式。"
+		"从橡木变体开始你的窗户之旅："
+		"- 橡木窗户 - 基础窗框"
+		"- 橡木百叶窗 - 可开合窗扇"
+		"- 橡木大窗 - 大型双开窗"
+		"不同木材有不同颜色和纹理，"
+		"适配各种建筑风格。"
+	]
+	quest.0000000004000002.quest_subtitle: "Macaw's Windows"
+	quest.0000000004000002.title: "Oak Windows"
+	quest.0000000004000003.quest_desc: [
+		"尝试不同木材风格的窗户！"
+		"桦木和云杉是最常见的变体。"
+		"不同木材适合不同建筑："
+		"- 桦木 - 明亮现代风格"
+		"- 云杉 - 经典温暖风格"
+	]
+	quest.0000000004000003.quest_subtitle: "Different 木头 Styles"
+	quest.0000000004000003.title: "Window Variants"
+	quest.0000000004000004.quest_desc: [
+		"Macaw 的门模组提供多样化的门样式，"
+		"远超原版的木门。"
+		"主要样式："
+		"- 现代门 - 简洁线条"
+		"- 谷仓门 - 乡村风格"
+		"- 经典门 - 传统设计"
+		"- 玻璃门 - 通透设计"
+	]
+	quest.0000000004000004.quest_subtitle: "Macaw's Doors"
+	quest.0000000004000004.title: "Elegant Doors"
+	quest.0000000004000005.quest_desc: [
+		"Macaw 的栅栏模组提供精致的边界设计，"
+		"远超原版栅栏。"
+		"栅栏样式："
+		"- 尖桩栅栏 - 经典美式风格"
+		"- 树篱 - 自然绿植"
+		"- 牧场栅栏 - 牧场风格"
+		"混搭不同材质创造独特边界！"
+	]
+	quest.0000000004000005.quest_subtitle: "Macaw's Fences"
+	quest.0000000004000005.title: "Fences and Hedges"
+	quest.0000000004000006.quest_desc: [
+		"Macaw 的家具模组提供完整的家具套装，"
+		"涵盖客厅、厨房、书房和卧室。"
+		"基础家具套装："
+		"- 椅子 + 书桌 - 书房套装"
+		"- 橱柜 + 柜台 - 厨房套装"
+		"- 书架 - 书房装饰"
+		"- 衣柜 - 卧室必备"
+	]
+	quest.0000000004000006.quest_subtitle: "Macaw's Furniture"
+	quest.0000000004000006.title: "Interior Furniture"
+	quest.0000000004000007.quest_desc: [
+		"继续扩展你的家具收藏！"
+		"- 茶几 - 客厅中心"
+		"- 抽屉柜 - 卧室收纳"
+		"- 双抽屉柜 - 厨房升级"
+	]
+	quest.0000000004000007.quest_subtitle: "更多 Furniture"
+	quest.0000000004000007.title: "Tables and Cabinets"
+	quest.0000000004000008.quest_desc: [
+		"Macaw 的桥梁模组让你建造美丽的桥梁！"
+		"桥梁类型："
+		"- 木桥 - 简单实用"
+		"- 绳桥 - 峡谷穿越"
+		"- 廊桥 - 带屋顶步道"
+		"- 石桥 - 坚固耐用"
+	]
+	quest.0000000004000008.quest_subtitle: "Macaw's Bridges"
+	quest.0000000004000008.title: "Bridge Engineering"
+	quest.0000000004000009.quest_desc: [
+		"为窗户添加装饰细节！"
+		"- 百叶窗板 - 可调节窗扇"
+		"- 窗帘杆 - 搭配窗帘使用"
+		"- 玻璃窗 - 增加自然采光"
+	]
+	quest.0000000004000009.quest_subtitle: "Shutters and Curtains"
+	quest.0000000004000009.title: "Window Decor"
+	quest.0000000004000010.quest_desc: [
+		"尝试不同木材类型的家具。"
+		"每种木材都有独特的纹理。"
+		"制作桦木和云杉家具"
+		"丰富你的建筑设计多样性。"
+	]
+	quest.0000000004000010.quest_subtitle: "Diverse Decoration"
+	quest.0000000004000010.title: "Furniture Styles"
+	quest.0000000004000011.quest_desc: [
+		"打造完整的建筑组合，"
+		"室内外装饰和谐统一。"
+		"提交更多高级家具作为你"
+		"设计能力的证明。"
+	]
+	quest.0000000004000011.quest_subtitle: "Outdoor Furniture"
+	quest.0000000004000011.title: "Garden Decor"
+	quest.0000000004000012.quest_desc: [
+		"整合所有 Macaw 元素"
+		"建造一个完整的建筑。"
+		"提交核心建筑材料作为掌握证明："
+		"窗户 + 门 + 家具 + 桥梁"
+	]
+	quest.0000000004000012.quest_subtitle: "Integrated 建造"
+	quest.0000000004000012.title: "建造 Integration"
+	quest.0000000004000013.quest_desc: [
+		"恭喜！你已成为 Macaw 建造大师！"
+		"你已经掌握："
+		"- 多种窗户类型和百叶窗"
+		"- 从现代到经典的门设计"
+		"- 栅栏和树篱组合"
+		"- 室内家具布置"
+		"- 桥梁建造技术"
+		"用这些技能创造"
+		"属于你自己的独特建筑杰作！"
+	]
+	quest.0000000004000013.quest_subtitle: "章节 4 完成"
+	quest.0000000004000013.title: "建造 Master Graduation"
+	quest.0000000005000001.quest_desc: [
+		"BYG（Oh The Biomes We've Gone）为 Minecraft 增添了超过 40 个新生物群系！"
+		"从樱花林到荒芜恶地，热带雨林到冻土苔原"
+		"每个生物群系都有独特的植物和建材资源"
+		"准备好你的指南针，整装出发"
+		"本章将带你穿越四大气候带"
+		"温带、热带、寒带、魔法 — 22 种木材等你收集！"
+	]
+	quest.0000000005000001.quest_subtitle: "New Era 探索"
+	quest.0000000005000001.title: "New Era 探索"
+	quest.0000000005000002.quest_desc: [
+		"BYG 新增了 22 种全新木材"
+		"远超原版木材种类，提供无限的建造可能"
+		"白杨木是 BYG 中最常见的木材"
+		"具有优雅的金黄色调和细腻纹理"
+		"非常适合古典风格建筑"
+		"收集白杨原木并合成白杨木板"
+		"作为你 BYG 木材之旅的第一步"
+	]
+	quest.0000000005000002.quest_subtitle: "BYG 木头 Guide"
+	quest.0000000005000002.title: "BYG 木头 Guide"
+	quest.0000000005000003.quest_desc: [
+		"BYG 世界拥有种类繁多的植物"
+		"每种植物都适应其原生生物群系"
+		"芦荟 — 生长于干旱温暖生物群系"
+		"紫菀花丛 — 温带草原的标志性花卉"
+		"这些植物不仅美观，也是食材"
+		"开启你的植物收集之旅！"
+	]
+	quest.0000000005000003.quest_subtitle: "BYG Flora Basics"
+	quest.0000000005000003.title: "BYG Flora Basics"
+	quest.0000000005000004.quest_desc: [
+		"BYG 不仅扩展了生物群系，还带来了独特的食物系统"
+		"使用生物群系植物制作美味佳肴"
+		"芦荟汁 — 清爽的沙漠饮品"
+		"蓝莓派 — 温带生物群系的甜蜜享受"
+		"收集足够的食材，品尝 BYG 的独特风味"
+		"美食是探索路上最好的慰藉"
+	]
+	quest.0000000005000004.quest_subtitle: "BYG Culinary 探索"
+	quest.0000000005000004.title: "BYG Culinary 探索"
+	quest.0000000005000005.quest_desc: [
+		"BYG 生物群系中蕴藏着丰富的矿产宝藏"
+		"稀有矿物和独特植物等待你的发现"
+		"绿宝石 — 热带生物群系的珍贵矿物"
+		"钻石 — 深藏于寒带生物群系之下"
+		"奥丁球茎 — 来自魔法生物群系的魔法植物"
+		"这三种资源分布在不同的气候带"
+		"准备好你的镐子，深入地下！"
+	]
+	quest.0000000005000005.quest_subtitle: "BYG Mineral Treasures"
+	quest.0000000005000005.title: "BYG Mineral Treasures"
+	quest.0000000005000006.quest_desc: [
+		"温带生物群系是 BYG 中最多姿多彩的区域"
+		"分明的季风气候孕育了多样的木材和植物"
+		"白杨林 — 金色树叶在微风中摇曳"
+		"枫木林 — 如画的红色秋叶"
+		"樱花林 — 粉色花瓣如雪般飘落"
+		"收集白杨木作为温带之旅的开端"
+		"温带还有更多木材等待发现"
+	]
+	quest.0000000005000006.quest_subtitle: "Temperate Biomes"
+	quest.0000000005000006.title: "Temperate Biomes"
+	quest.0000000005000007.quest_desc: [
+		"白杨木是 BYG 中最具代表性的木材"
+		"金色木纹，温润如玉"
+		"大量储备白杨原木和白杨木板作为建造储备"
+		"并收集白杨树苗进行人工造林"
+		"白杨木板是北欧风格建筑的理想材料"
+		"搭配深色木材营造惊艳的对比效果"
+		"满满一箱白杨木 — 你做到了吗？"
+	]
+	quest.0000000005000007.quest_subtitle: "Aspen Depth"
+	quest.0000000005000007.title: "Aspen Depth"
+	quest.0000000005000008.quest_desc: [
+		"枫木是温带生物群系的标志性木材"
+		"红棕色木材，带有独特的暖色调"
+		"秋天的枫木林最为壮观"
+		"整片森林染成火红色"
+		"收集枫木原木和枫木树苗"
+		"在你的基地周围种植一片枫树林"
+		"感受四季变换的自然之美"
+	]
+	quest.0000000005000008.quest_subtitle: "Maple Collection"
+	quest.0000000005000008.title: "Maple Collection"
+	quest.0000000005000009.quest_desc: [
+		"樱花木是 BYG 中最浪漫的木材"
+		"淡粉色木材，如盛开的樱花"
+		"樱花生物群系中飘落粉色花瓣粒子"
+		"是 BYG 世界中最美丽的生物群系之一"
+		"收集樱花原木和南洋杉树苗"
+		"南洋杉是一种古老的针叶树种"
+		"与樱花共生，营造独特的景观"
+	]
+	quest.0000000005000009.quest_subtitle: "Sakura Collection"
+	quest.0000000005000009.title: "Sakura Collection"
+	quest.0000000005000010.quest_desc: [
+		"松木生长在温带与寒带的交界处"
+		"深绿色针叶和粗壮树干极具特色"
+		"松木是小屋和度假村的绝佳材料"
+		"深色纹理带来稳重和自然感"
+		"收集松木原木和松木树苗"
+		"为温带建材库增添新品种"
+	]
+	quest.0000000005000010.quest_subtitle: "Pine Collection"
+	quest.0000000005000010.title: "Pine Collection"
+	quest.0000000005000011.quest_desc: [
+		"温带生物群系拥有最丰富的植物资源"
+		"从低矮草本到高大灌木，应有尽有"
+		"芦荟 — 温带干旱区的药用植物"
+		"高山风铃花 — 高山草甸的蓝色精灵"
+		"当归 — 湿润森林的芳香药草"
+		"这三种植物分布在不同的温带微气候中"
+		"找到它们需要走遍温带的每一个角落"
+	]
+	quest.0000000005000011.quest_subtitle: "Temperate Flora"
+	quest.0000000005000011.title: "Temperate Flora"
+	quest.0000000005000012.quest_desc: [
+		"温带植物不仅可以观赏"
+		"还能制作成风味独特的料理"
+		"芦荟汁 — 清凉爽口"
+		"青苹果派 — 酸甜可口"
+		"使用温带生物群系的产物制作这些美食"
+		"别忘了在旅途中犒劳自己"
+		"美食是冒险者最好的能量补给"
+	]
+	quest.0000000005000012.quest_subtitle: "Temperate Cuisine"
+	quest.0000000005000012.title: "Temperate Cuisine"
+	quest.0000000005000013.quest_desc: [
+		"你对枫木的追求不应止步于此"
+		"真正的建造大师需要大量储备"
+		"收集一整组枫木原木和大量树苗"
+		"这不仅是对耐心的考验"
+		"更是对温带生物群系深入探索的证明"
+		"枫木的红色纹理是高级建筑的灵魂"
+		"让它成为你建材收藏的核心材料"
+	]
+	quest.0000000005000013.quest_subtitle: "Maple Depth"
+	quest.0000000005000013.title: "Maple Depth"
+	quest.0000000005000014.quest_desc: [
+		"樱花的浪漫值得深度探索"
+		"大量储备樱花原木作为高级建材储备"
+		"并收集大量南洋杉树苗"
+		"在基地周围打造樱花大道"
+		"樱花木是建筑中的点睛之笔"
+		"粉色木材十分稀有，是奢华装饰的首选"
+	]
+	quest.0000000005000014.quest_subtitle: "Sakura Depth"
+	quest.0000000005000014.title: "Sakura Depth"
+	quest.0000000005000015.quest_desc: [
+		"白杨木是温带生物群系最通用的建筑材料"
+		"现在你需要工业级的储备"
+		"两组白杨原木，两组白杨木板"
+		"这需要砍伐一整片白杨林"
+		"充足的材料意味着你可以建造任何规模"
+		"温带风格的村庄、城堡或度假小屋"
+		"白杨木将是你最可靠的建筑材料"
+	]
+	quest.0000000005000015.quest_subtitle: "Aspen 建造 材料"
+	quest.0000000005000015.title: "Aspen 建造 材料"
+	quest.0000000005000016.quest_desc: [
+		"你已经走遍了温带生物群系的每一个角落"
+		"现在是展示真正实力的时候"
+		"收集温带三大木材：白杨、枫木、樱花"
+		"每种至少一整组"
+		"这需要穿越白杨林、枫木林和樱花林"
+		"证明你已完全征服温带生物群系"
+		"你是真正的温带群系大师！"
+	]
+	quest.0000000005000016.quest_subtitle: "Temperate Biome Master"
+	quest.0000000005000016.title: "Temperate Biome Master"
+	quest.0000000005000017.quest_desc: [
+		"这是温带生物群系的终极收集挑战"
+		"综合木材和植物的完整考验"
+		"芦荟 x32 + 风铃花 x16 + 当归 x16 + 白杨树苗 x16"
+		"涵盖温带生物群系所有标志性资源"
+		"从植物到木材，从食材到建材"
+		"温带生物群系的一切尽在你掌握"
+		"恭喜完成全部温带探索！"
+	]
+	quest.0000000005000017.quest_subtitle: "Temperate 完成 Collection"
+	quest.0000000005000017.title: "Temperate 完成 Collection"
+	quest.0000000005000018.quest_desc: [
+		"热带生物群系是 BYG 中最肥沃的区域"
+		"炎热多雨的气候孕育了茂密的热带雨林植被"
+		"棕榈 — 热带海滩的标志性树木"
+		"桃花心木 — 密林深处的珍贵硬木"
+		"蓝花楹 — 紫色花朵如梦似幻的树木"
+		"热带生物群系还提供多种食材"
+		"是冒险者最值得造访的区域"
+	]
+	quest.0000000005000018.quest_subtitle: "Tropical Biomes"
+	quest.0000000005000018.title: "Tropical Biomes"
+	quest.0000000005000019.quest_desc: [
+		"桃花心木是热带生物群系的珍贵木材"
+		"深棕色纹理，稳重高贵"
+		"现实中，桃花心木是高级家具的首选"
+		"在 BYG 中，它同样具有极高的建筑价值"
+		"收集桃花心木原木和树苗"
+		"为热带建材库增添核心树种"
+	]
+	quest.0000000005000019.quest_subtitle: "Mahogany Collection"
+	quest.0000000005000019.title: "Mahogany Collection"
+	quest.0000000005000020.quest_desc: [
+		"棕榈木是热带海岸线的标志"
+		"高大树干和扇形树冠极具热带风情"
+		"棕榈木是热带度假村的核心材料"
+		"搭配白杨木或樱花木营造独特视觉效果"
+		"大量收集棕榈原木和树苗"
+		"在基地中打造热带海滨绿洲"
+	]
+	quest.0000000005000020.quest_subtitle: "Palm Collection"
+	quest.0000000005000020.title: "Palm Collection"
+	quest.0000000005000021.quest_desc: [
+		"蓝花楹是热带生物群系中最美丽的树木"
+		"盛开的紫色花朵如雾般笼罩树冠"
+		"蓝花楹木材具有淡紫色纹理"
+		"是建筑中最优雅的装饰材料"
+		"收集蓝花楹原木和树苗"
+		"用这紫色梦境装点你的世界"
+	]
+	quest.0000000005000021.quest_subtitle: "Jacaranda Collection"
+	quest.0000000005000021.title: "Jacaranda Collection"
+	quest.0000000005000022.quest_desc: [
+		"铁木是热带生物群系中最坚硬的木材"
+		"深灰色纹理，坚如钢铁"
+		"传说铁木制作的工具比铁还坚韧"
+		"虽只是传说，但铁木的建筑价值毋庸置疑"
+		"收集铁木原木和树苗"
+		"这是热带深度探索的证明"
+	]
+	quest.0000000005000022.quest_subtitle: "Ironwood Collection"
+	quest.0000000005000022.title: "Ironwood Collection"
+	quest.0000000005000023.quest_desc: [
+		"热带植物生长异常旺盛"
+		"炎热潮湿的环境创造了完美的生长条件"
+		"苋菜 — 热带独有的紫红色植物"
+		"芦荟 — 热带干旱区的常客"
+		"紫菀花丛 — 热带稀树草原的紫色地毯"
+		"每一种植物都有独特的外观和用途"
+		"热带植物是你植物图鉴中不可或缺的一页"
+	]
+	quest.0000000005000023.quest_subtitle: "Tropical Flora"
+	quest.0000000005000023.title: "Tropical Flora"
+	quest.0000000005000024.quest_desc: [
+		"热带生物群系产出最甜美的食材"
+		"丰富的水果和植物提供无限的烹饪可能"
+		"蓝莓派 — 热带浆果的甜蜜馈赠"
+		"芦荟汁 — 清凉的沙漠饮品"
+		"热带美食是长途探索的能量来源"
+		"也是与朋友分享的最佳礼物"
+	]
+	quest.0000000005000024.quest_subtitle: "Tropical Cuisine"
+	quest.0000000005000024.title: "Tropical Cuisine"
+	quest.0000000005000025.quest_desc: [
+		"桃花心木的价值值得深度采集"
+		"作为热带生物群系最高贵的木材"
+		"它值得在你的仓库中占据一整排空间"
+		"收集一整组桃花心木原木"
+		"加上大量用于人工种植的树苗"
+		"优质木材是顶级建筑的基石"
+		"桃花心木将成为你建筑作品中的明星"
+	]
+	quest.0000000005000025.quest_subtitle: "Mahogany Depth"
+	quest.0000000005000025.title: "Mahogany Depth"
+	quest.0000000005000026.quest_desc: [
+		"蓝花楹的紫色魅力不可抗拒"
+		"现在是深度收集的时候"
+		"一整组蓝花楹原木和大量树苗"
+		"让你能够建造任何规模的紫色建筑"
+		"蓝花楹木材是热带建筑的点睛之笔"
+		"用这紫色浪漫点亮你的世界"
+	]
+	quest.0000000005000026.quest_subtitle: "Jacaranda Depth"
+	quest.0000000005000026.title: "Jacaranda Depth"
+	quest.0000000005000027.quest_desc: [
+		"铁木的坚韧值得你全力以赴"
+		"收集铁木原木和树苗"
+		"只有真正的热带硬木收藏家才能达到的储备量"
+		"铁木代表着力量与耐久"
+		"铁木建造的房屋将经受时间的考验"
+	]
+	quest.0000000005000027.quest_subtitle: "Ironwood Depth"
+	quest.0000000005000027.title: "Ironwood Depth"
+	quest.0000000005000028.quest_desc: [
+		"你已经掌握了热带生物群系的四大名木"
+		"现在是最终的综合性考验"
+		"桃花心木 x64 + 棕榈木 x64 + 蓝花楹 x64"
+		"三种热带木材，各一整组"
+		"这需要深入热带雨林腹地"
+		"砍伐数百棵珍贵的热带树木"
+		"你是真正的热带群系大师！"
+	]
+	quest.0000000005000028.quest_subtitle: "Tropical Biome Master"
+	quest.0000000005000028.title: "Tropical Biome Master"
+	quest.0000000005000029.quest_desc: [
+		"寒带生物群系被冰雪覆盖"
+		"耐寒的树木在这片冰封世界中生长"
+		"冷杉 — 寒带针叶林的君主"
+		"冬青 — 雪地中的翡翠奇迹"
+		"柏树 — 湿地与寒带交界处的哨兵"
+		"寒带木材以深色调为主"
+		"是冬季主题建造的完美选择"
+	]
+	quest.0000000005000029.quest_subtitle: "Cold Biomes"
+	quest.0000000005000029.title: "Cold Biomes"
+	quest.0000000005000030.quest_desc: [
+		"冷杉是寒带生物群系最重要的木材资源"
+		"深绿色针叶和笔直的树干极具辨识度"
+		"大量收集冷杉原木和树苗"
+		"冷杉木板是北欧小木屋的经典材料"
+		"寒带木材或许难以采集"
+		"但建筑回报绝对值得"
+	]
+	quest.0000000005000030.quest_subtitle: "Fir Depth"
+	quest.0000000005000030.title: "Fir Depth"
+	quest.0000000005000031.quest_desc: [
+		"冬青是寒带生物群系的特色木材"
+		"纯白色木材，如同凝结的冰雪"
+		"冬青树在冬季结出红色浆果"
+		"红白相间的树冠在雪地中格外醒目"
+		"收集冬青原木和树苗"
+		"冬青是白色建筑的绝佳材料"
+	]
+	quest.0000000005000031.quest_subtitle: "Holly Collection"
+	quest.0000000005000031.title: "Holly Collection"
+	quest.0000000005000032.quest_desc: [
+		"柏树生长在寒带与湿地的交界处"
+		"灰褐色木材，具有独特的适水纹理"
+		"现实中，柏树可以存活数千年"
+		"在 BYG 中，它承载着同样的历史厚重感"
+		"收集柏木原木和树苗"
+		"为寒带建材库增添这古老树种"
+	]
+	quest.0000000005000032.quest_subtitle: "Cypress Collection"
+	quest.0000000005000032.title: "Cypress Collection"
+	quest.0000000005000033.quest_desc: [
+		"即便在冰雪之中，生命依然绽放"
+		"寒带生物群系孕育了独特的耐寒植物"
+		"高山风铃花 — 雪线之上的绽放"
+		"当归 — 寒带森林的芳香植物"
+		"雪球 x32 — 寒冷气候的象征"
+		"这些植物证明了生命可以在最严酷的环境中生存"
+		"收集它们，作为对大自然的致敬"
+	]
+	quest.0000000005000033.quest_subtitle: "Cold Flora"
+	quest.0000000005000033.title: "Cold Flora"
+	quest.0000000005000034.quest_desc: [
+		"冬青的纯白值得深度追求"
+		"白色木材在 Minecraft 中极为罕见"
+		"大量收集冬青原木和树苗"
+		"白色建材将极大扩展你的建筑选择"
+		"冬青是冰雪宫殿和冬日仙境的核心理材"
+		"让纯白木材装点你的寒带建筑"
+	]
+	quest.0000000005000034.quest_subtitle: "Holly Depth"
+	quest.0000000005000034.title: "Holly Depth"
+	quest.0000000005000035.quest_desc: [
+		"冷杉是寒带生物群系最可靠的建筑材料"
+		"现在到了工业化采集的时候"
+		"两组冷杉原木，外加大量树苗"
+		"这需要砍伐一整座冷杉山林"
+		"冷杉的深沉色调与白雪形成惊艳对比"
+		"在寒带建造属于你的温馨小屋"
+	]
+	quest.0000000005000035.quest_subtitle: "Fir 建造 材料"
+	quest.0000000005000035.title: "Fir 建造 材料"
+	quest.0000000005000036.quest_desc: [
+		"冰封的寒带生物群系已被你完全征服"
+		"三大寒带木材支柱缺一不可"
+		"冷杉 x64 + 冬青 x64 + 柏木 x64"
+		"展示三种寒带木材的收集成果"
+		"从针叶林到冰原，湿地到雪山"
+		"你是真正的寒带群系大师！"
+		"冰雪也阻挡不了你的探索精神"
+	]
+	quest.0000000005000036.quest_subtitle: "Cold Biome Master"
+	quest.0000000005000036.title: "Cold Biome Master"
+	quest.0000000005000037.quest_desc: [
+		"魔法生物群系是 BYG 世界中最神秘的角落"
+		"魔法能量渗透在每一株植物、每一棵树木之中"
+		"蓝色附魔木 — 闪烁着魔法光芒"
+		"绿色附魔木 — 自然魔法的凝聚"
+		"灵木 — 灵性能量的载体"
+		"这些木材不仅外观独特"
+		"更蕴含着强大的魔法能量"
+		"踏入魔法生物群系，感受魔法的力量"
+	]
+	quest.0000000005000037.quest_subtitle: "Magical Biomes"
+	quest.0000000005000037.title: "Magical Biomes"
+	quest.0000000005000038.quest_desc: [
+		"附魔木材是魔法生物群系的核心资源"
+		"绿色附魔木 — 蕴含自然之力的附魔木材"
+		"乌木 — 神秘的硬木，漆黑如墨"
+		"这两种木材一明一暗，形成惊艳对比"
+		"是建造魔法塔和巫师学院的理想材料"
+		"收集它们，开启你的魔法建筑之旅"
+	]
+	quest.0000000005000038.quest_subtitle: "Enchanted 木头 Collection"
+	quest.0000000005000038.title: "Enchanted 木头 Collection"
+	quest.0000000005000039.quest_desc: [
+		"灵木与天穹木"
+		"是魔法生物群系中最不寻常的两种木材"
+		"灵木散发着幽灵般的蓝色光芒"
+		"天穹木带有天蓝色的纹理"
+		"这两种木材打破了传统木材的色彩界限"
+		"为建筑带来前所未有的视觉冲击"
+		"魔法生物群系的独特魅力"
+	]
+	quest.0000000005000039.quest_subtitle: "Spirit 木头 Collection"
+	quest.0000000005000039.title: "Spirit 木头 Collection"
+	quest.0000000005000040.quest_desc: [
+		"附魔树苗同样珍贵"
+		"树苗代表着生命和无限的未来可能"
+		"蓝色附魔树苗 — 闪烁魔法能量的蓝色嫩芽"
+		"绿色附魔树苗 — 散发自然之光的翡翠叶"
+		"乌木树苗 — 蕴含古老秘密的深色嫩芽"
+		"收集这些树苗，在基地种植魔法树木"
+		"让魔法的荫蔽守护你的家园"
+	]
+	quest.0000000005000040.quest_subtitle: "Enchanted Saplings"
+	quest.0000000005000040.title: "Enchanted Saplings"
+	quest.0000000005000041.quest_desc: [
+		"灵木和天穹木，两种超凡脱俗的木材"
+		"现在需要你的深度采集"
+		"灵木 x64 + 天穹木 x64 + 灵木树苗 x16"
+		"这些幽灵般的蓝色木材将彻底改变你的建筑语言"
+		"灵木在黑暗中散发微光"
+		"天穹木使建筑如漂浮云端"
+		"魔法生物群系的最终木材收集挑战"
+	]
+	quest.0000000005000041.quest_subtitle: "Spirit 木头 Depth"
+	quest.0000000005000041.title: "Spirit 木头 Depth"
+	quest.0000000005000042.quest_desc: [
+		"魔法生物群系的植物同样充满魔法气息"
+		"奥丁球茎 — 散发微光的魔法植物"
+		"紫菀花丛 x32 — 在魔法能量下异常茂盛"
+		"苋菜 x32 — 在魔法生物群系中呈现出更深的紫色"
+		"这些植物是酿造魔法药水的珍贵原料"
+		"也是魔法风格庭园的顶级装饰"
+	]
+	quest.0000000005000042.quest_subtitle: "Magical Flora"
+	quest.0000000005000042.title: "Magical Flora"
+	quest.0000000005000043.quest_desc: [
+		"附魔木材的深度收集将考验你的毅力"
+		"蓝色附魔木 x64 + 绿色附魔木 x64 + 乌木 x64"
+		"三种魔法木材，各一整组"
+		"蓝、绿、黑三种木材的完美组合"
+		"打造顶级魔法建筑的梦幻材料"
+		"魔法生物群系的稀有木材需要耐心寻找"
+		"但成就感无与伦比"
+	]
+	quest.0000000005000043.quest_subtitle: "Enchanted 木头 Depth"
+	quest.0000000005000043.title: "Enchanted 木头 Depth"
+	quest.0000000005000044.quest_desc: [
+		"魔法生物群系的终极考验来临"
+		"将所有魔法资源汇于一处"
+		"蓝色附魔木 x64 + 乌木 x64 + 灵木 x64 + 奥丁球茎 x16"
+		"木材与植物的完美融合"
+		"这需要涉足魔法生物群系的每一个角落"
+		"从附魔森林到灵木沼泽，附魔高地到暗影峡谷"
+		"你是真正的魔法群系大师！"
+	]
+	quest.0000000005000044.quest_subtitle: "Magical Biome Master"
+	quest.0000000005000044.title: "Magical Biome Master"
+	quest.0000000005000045.quest_desc: [
+		"你是一位真正的木材收藏家！"
+		"你已穿越四大气候带收集了无数木材"
+		"现在展示你对所有 BYG 木材种类的掌握"
+		"收集 10 种不同的树苗，每种至少一个："
+		"白杨、桃花心木、冷杉、蓝色附魔、棕榈"
+		"冬青、蓝花楹、枫木、樱花、乌木"
+		"从温带到热带，寒带到魔法"
+		"22 种 BYG 木材中，你已掌握 10 个核心树种"
+		"树苗是未来森林的种子，也是你探索的印记"
+	]
+	quest.0000000005000045.quest_subtitle: "木头 Collector"
+	quest.0000000005000045.title: "木头 Collector"
+	quest.0000000005000046.quest_desc: [
+		"热带四大名木的全套收集"
+		"每一根原木都代表着对密林深处的探索"
+		"桃花心木 x64 + 棕榈木 x64 + 蓝花楹 x64 + 铁木 x64"
+		"四种木材，各一整组"
+		"棕榈沙滩的热带风情，蓝花楹的紫色浪漫"
+		"桃花心木的高贵优雅，铁木的坚不可摧"
+		"热带生物群系的全部精华尽在你手"
+	]
+	quest.0000000005000046.quest_subtitle: "Tropical 木头 Set"
+	quest.0000000005000046.title: "Tropical 木头 Set"
+	quest.0000000005000047.quest_desc: [
+		"冰封世界的四大木材支柱"
+		"每一根都经受了风雪的考验"
+		"冷杉 x64 + 冬青 x64 + 柏木 x64 + 松木 x64"
+		"四种寒带木材，各一整组"
+		"冷杉的深沉、冬青的纯净、柏树的古老、松木的稳重"
+		"寒带生物群系的多样性远超你的想象"
+		"收集完成，寒带之旅圆满收官"
+	]
+	quest.0000000005000047.quest_subtitle: "Cold 木头 Set"
+	quest.0000000005000047.title: "Cold 木头 Set"
+	quest.0000000005000048.quest_desc: [
+		"彩虹桉是 BYG 中色彩最丰富的木材"
+		"树干呈现出彩虹般的多彩纹理"
+		"现实中，彩虹桉生长于热带地区"
+		"树皮剥落后露出绿、蓝、紫、橙、红等多种颜色"
+		"BYG 忠实地再现了这一自然奇观"
+		"收集彩虹桉原木和树苗"
+		"热带生物群系最珍贵的馈赠"
+	]
+	quest.0000000005000048.quest_subtitle: "Rainbow Eucalyptus"
+	quest.0000000005000048.title: "Rainbow Eucalyptus"
+	quest.0000000005000049.quest_desc: [
+		"红杉是 BYG 世界中的参天巨人"
+		"树木可达数十米高，树干极为粗壮"
+		"红杉林是 BYG 热带生物群系中最壮观的景象"
+		"穿行于巨杉之间，感受大自然的威严"
+		"收集红杉原木和树苗"
+		"红杉是巨型建筑的核心材料"
+		"也是你热带探索的重要里程碑"
+	]
+	quest.0000000005000049.quest_subtitle: "Redwood Giants"
+	quest.0000000005000049.title: "Redwood Giants"
+	quest.0000000005000050.quest_desc: [
+		"猴面包树是 BYG 中最独特的树木"
+		"巨大的树干和独特的造型极具辨识度"
+		"猴面包树在现实中被称为「生命之树」"
+		"在干旱的热带稀树草原中储存大量水分"
+		"收集猴面包树原木和树苗"
+		"22 种 BYG 木材中的稀有树种"
+		"为你的木材收藏图鉴增添浓墨重彩的一笔"
+	]
+	quest.0000000005000050.quest_subtitle: "All 木头 Master"
+	quest.0000000005000050.title: "All 木头 Master"
+	quest.0000000005000051.quest_desc: [
+		"四大气候带的植物汇聚于此"
+		"这是 BYG 的终极植物收集挑战"
+		"芦荟 x32 + 紫菀花丛 x32 + 风铃花 x32 + 苋菜 x32 + 当归 x32 + 奥丁球茎 x16"
+		"六种 BYG 标志性植物的完整收集"
+		"从温带芦荟到魔法奥丁球茎"
+		"你的足迹遍布 BYG 世界的每一个角落"
+		"植物的多样性见证着生态的繁荣"
+		"你是一位真正的 BYG 植物学家！"
+	]
+	quest.0000000005000051.quest_subtitle: "BYG 完成 Flora"
+	quest.0000000005000051.title: "BYG 完成 Flora"
+	quest.0000000005000052.quest_desc: [
+		"木材与植物的终极融合挑战"
+		"证明你已经踏遍 BYG 的每一种生物群系"
+		"白杨木 x64 + 桃花心木 x64 + 冷杉 x64"
+		"蓝色附魔木 x64 + 芦荟 x64 + 苋菜 x64"
+		"四大气候带，六种标志性资源"
+		"每一种材料都代表着一个探索故事"
+		"温带的优雅、热带的热情、寒带的坚韧、魔法的神秘"
+		"你是一位真正的群系收藏家！"
+	]
+	quest.0000000005000052.quest_subtitle: "Biome Collector"
+	quest.0000000005000052.title: "Biome Collector"
+	quest.0000000005000053.quest_desc: [
+		"最终的木材收集挑战 — 以建材之名"
+		"你需要的是工业级的材料储备"
+		"白杨木 x128 + 枫木 x128 + 白杨木板 x128 + 桃花心木 x128"
+		"四种木材各两组的恐怖储备"
+		"这需要砍伐超过一千棵树"
+		"对耐心、毅力和规划能力的终极考验"
+		"有了这些木材，你可以建造任何规模的城镇"
+		"你是一位真正的建材大师！"
+	]
+	quest.0000000005000053.quest_subtitle: "建造 材料 Master"
+	quest.0000000005000053.title: "建造 材料 Master"
+	quest.0000000005000054.quest_desc: [
+		"BYG 不仅是生物群系探索的圣地"
+		"也是美食爱好者的天堂"
+		"芦荟汁 x16 + 蓝莓派 x16 + 青苹果派 x16"
+		"紫菀奥丁汤 x16 + 芦荟 x64"
+		"五种 BYG 食物/食材的完整收集"
+		"从解渴饮品到甜美糕点"
+		"从异域浓汤到核心食材"
+		"你的厨房现在可以举办 BYG 主题宴会了！"
+		"你是一位真正的 BYG 烹饪大师"
+	]
+	quest.0000000005000054.quest_subtitle: "Culinary Master"
+	quest.0000000005000054.title: "Culinary Master"
+	quest.0000000005000055.quest_desc: [
+		"恭喜！你已经完全征服了 BYG 世界"
+		"从 22 种木材到所有群系植物，从异域美食到建材大师"
+		"这是 BYG 章节的最终毕业典礼"
+		"收集以下材料证明你的足迹遍布每一寸土地："
+		"草方块 x64 — 你走过了每一个 BYG 生物群系"
+		"泥土 x64 — 你挖掘过所有气候带的土壤"
+		"白杨原木 x64 — 你 BYG 木材之旅的起点与终点"
+		"桃花心木 x64 — 来自热带雨林的珍贵收藏"
+		"冷杉 x64 — 寒带征服的终极证明"
+		"芦荟 x64 — 所有气候带植物的集大成"
+		"Oh The Biomes We've Gone — 全部征服！"
+		"你是无可争议的 BYG 世界探索大师！"
+	]
+	quest.0000000005000055.quest_subtitle: "BYG世界 Graduation"
+	quest.0000000005000055.title: "BYG世界 Graduation"
+	quest.0000000005000056.quest_subtitle: "Ebony 木头"
+	quest.0000000005000056.title: "Ebony"
+	quest.0000000005000057.quest_subtitle: "Renewable Ebony"
+	quest.0000000005000057.title: "Ebony Sapling"
+	quest.0000000005000058.quest_desc: [
+		"收集一棵灵木树苗。"
+		"BYG 中最稀有的树苗之一。"
+	]
+	quest.0000000005000058.quest_subtitle: "Spirit Sapling"
+	quest.0000000005000058.title: "Spirit"
+	quest.0000000005000059.quest_desc: [
+		"恭喜！你已经探索了 BYG 的全部多样性。"
+		"领取你完成 BYG 生物群系与建造篇章的奖励。"
+	]
+	quest.0000000005000059.quest_subtitle: "完成 the 章节"
+	quest.0000000005000059.title: "BYG Graduation"
+	quest.0000000006000001.quest_desc: [
+		"欢迎来到 YUNG 的建筑探索章节！"
+		"YUNG 模组增强了原版建筑。"
+		"更好的矿井创造了复杂的废弃矿道网络。"
+		"更好地牢为地牢增添了新挑战。"
+		"YUNG 的扩展优化了地表建筑生成。"
+		"此模组不添加新物品。"
+		"所有任务通过提交原版物品完成。"
+		"你需要深入地下、探索地牢、征服废墟。"
+		"制作一把钻石镐，准备冒险吧！"
+	]
+	quest.0000000006000001.quest_subtitle: "YUNG's Underground"
+	quest.0000000006000001.title: "Underground 探索"
+	quest.0000000006000002.quest_desc: [
+		"YUNG 的更好的矿井重新设计了废弃矿井。"
+		"相比原版矿井，YUNG 版本具有："
+		"• 多层交叉隧道和复杂分支"
+		"• 悬空走道和木质支撑结构"
+		"• 贯穿其中的丰富矿脉"
+		"• 矿车系统和运输铁轨网络"
+		"收集以下物品证明你探索了矿井："
+		"• 16 铁轨 — 矿井中的运输轨道"
+		"• 32 橡木木板 — 矿井的支撑木材"
+		"• 8 蜘蛛网 — 矿井深处的蜘蛛丝"
+		"小心矿井中的洞穴蜘蛛！"
+	]
+	quest.0000000006000002.quest_subtitle: "Abandoned Mineshaft"
+	quest.0000000006000002.title: "Abandoned Mineshaft"
+	quest.0000000006000003.quest_desc: [
+		"YUNG 的矿井中充满了丰富的矿脉。"
+		"仔细搜索隧道墙壁上暴露的矿物。"
+		"不同的矿石资源分布在矿井的不同层次。"
+		"隧道交叉口往往是矿脉的富集区域。"
+		"收集以下常见矿井矿石："
+		"• 32 煤炭 — 基础燃料，随处可见"
+		"• 16 粗铁 — 最重要的过渡金属"
+		"• 8 粗金 — 稀有矿脉的珍贵产物"
+		"提示：带上多把镐子，矿脉很长！"
+	]
+	quest.0000000006000003.quest_subtitle: "Ore Veins"
+	quest.0000000006000003.title: "Ore Veins"
+	quest.0000000006000004.quest_desc: [
+		"YUNG 的矿井保留着完整的矿车运输系统。"
+		"在矿井深处你会发现："
+		"• 静静停在铁轨上的矿车"
+		"• 装载战利品的箱子矿车"
+		"• 多条铁轨交汇形成运输网络"
+		"收集以下物品证明矿车探索："
+		"• 4 矿车 — 矿井中的运输载具"
+		"• 2 箱子矿车 — 装载战利品的矿车"
+		"• 32 铁轨 — 完整铁轨网络材料"
+		"箱子矿车包含种类繁多的物品，"
+		"仔细搜索，不要错过任何东西！"
+	]
+	quest.0000000006000004.quest_subtitle: "Minecart Treasure"
+	quest.0000000006000004.title: "Minecart Treasures"
+	quest.0000000006000005.quest_desc: [
+		"YUNG 的更好地牢重新设计了地牢系统。"
+		"YUNG 地牢特点："
+		"• 比原版地牢更大更复杂"
+		"• 更多的房间和走廊连接"
+		"• 多种刷怪笼类型分布在不同区域"
+		"• 更多的宝箱但也更大的挑战"
+		"寻找地牢的第一步 — 收集苔石。"
+		"苔石是地牢的标志性方块，"
+		"通常出现在地牢墙壁和地板上。"
+		"提交 16 苔石证明你找到了地牢入口！"
+	]
+	quest.0000000006000005.quest_subtitle: "Dungeon 挑战"
+	quest.0000000006000005.title: "Dungeon 挑战"
+	quest.0000000006000006.quest_desc: [
+		"僵尸地牢是最常见的地牢类型。"
+		"僵尸刷怪笼通常位于地牢中央。"
+		"YUNG 地牢中的僵尸数量远超原版，"
+		"需要你面对一波又一波的僵尸攻击。"
+		"战斗策略："
+		"• 携带足够的武器和食物"
+		"• 优先在刷怪笼上放置火把减少生成"
+		"• 避免在近战中被包围"
+		"• 盾牌可以有效格挡僵尸伤害"
+		"击杀 10 只僵尸并收集 16 腐肉，"
+		"展示你在僵尸地牢的战果！"
+	]
+	quest.0000000006000006.quest_subtitle: "Zombie Dungeon"
+	quest.0000000006000006.title: "Zombie Dungeon"
+	quest.0000000006000007.quest_desc: [
+		"骷髅地牢是远程攻击生物的巢穴。"
+		"骷髅刷怪笼持续召唤弓箭手，"
+		"在 YUNG 复杂的走廊中尤其危险。"
+		"多个骷髅可以从不同角度射击。"
+		"战斗策略："
+		"• 持盾推进，有效格挡箭矢"
+		"• 快速拉近距离进行近战"
+		"• 利用拐角和柱子作为掩护"
+		"• 穿着带有弹射物保护的盔甲"
+		"击杀 10 只骷髅并收集 16 骨头！"
+	]
+	quest.0000000006000007.quest_subtitle: "Skeleton Dungeon"
+	quest.0000000006000007.title: "Skeleton Dungeon"
+	quest.0000000006000008.quest_desc: [
+		"蜘蛛地牢是虽小但危险的挑战。"
+		"蜘蛛可以通过 1 格宽的缝隙"
+		"并且能爬墙，让你无处可躲。"
+		"YUNG 地牢中蜘蛛数量较少但威胁更大。"
+		"战斗策略："
+		"• 不要被蜘蛛包围，持续后退"
+		"• 蜘蛛攻击速度快，注意格挡节奏"
+		"• 洞穴蜘蛛（蓝色）会施加中毒效果"
+		"• 牛奶可以治愈中毒状态"
+		"击杀 5 只蜘蛛并收集 16 线！"
+	]
+	quest.0000000006000008.quest_subtitle: "Spider Dungeon"
+	quest.0000000006000008.title: "Spider Dungeon"
+	quest.0000000006000009.quest_desc: [
+		"你已经征服了三种地牢，但真正的清剿者永不止步！"
+		"现在将所有地牢挑战合为一体："
+		"• 击杀 20 只僵尸 — 完成僵尸地牢清剿"
+		"• 击杀 15 只骷髅 — 骷髅地牢弓箭压制"
+		"• 击杀 10 只蜘蛛 — 蜘蛛地牢敏捷猎杀"
+		"• 收集 32 苔石 — 地牢建材证明"
+		"这是对地牢战斗能力的综合考验。"
+		"完成此任务证明你已成为真正的"
+		"地牢征服者！"
+		"YUNG 的地牢远未结束，"
+		"地表的古老废墟在等待着你……"
+	]
+	quest.0000000006000009.quest_subtitle: "Dungeon Sweeper"
+	quest.0000000006000009.title: "Dungeon Sweeper"
+	quest.0000000006000010.quest_desc: [
+		"YUNG 的扩展重新设计了地表建筑，如沙漠神殿。"
+		"与原版沙漠神殿不同，YUNG 版本具有："
+		"• 更复杂的内部迷宫和陷阱"
+		"• 更丰富的战利品宝箱"
+		"• 重新设计的外观和结构层次"
+		"• 各种机关和隐藏通道"
+		"首先收集沙漠神殿建筑材料："
+		"• 32 砂岩 — 沙漠神殿的主体方块"
+		"• 8 錾制砂岩 — 神殿的装饰雕刻"
+		"前往沙漠寻找这些古老的神殿！"
+	]
+	quest.0000000006000010.quest_subtitle: "Ruin Hunter"
+	quest.0000000006000010.title: "Relic Hunter"
+	quest.0000000006000011.quest_desc: [
+		"YUNG 重制的沙漠神殿 — 更多陷阱，更好的宝藏！"
+		"沙漠神殿的标志性特征："
+		"• 中央大厅下方的 TNT 陷阱室"
+		"• 四个角落隐藏的宝藏箱"
+		"• 錾制砂岩装饰的祭坛区域"
+		"• 可能生成多层地下室"
+		"YUNG 版本的改进："
+		"• 陷阱更复杂多样"
+		"• 战利品池大幅扩展"
+		"• 添加了更多可探索房间"
+		"• 金苹果出现率显著提高"
+		"提交以下物品证明你完整探索了沙漠神殿！"
+	]
+	quest.0000000006000011.quest_subtitle: "Desert Temple"
+	quest.0000000006000011.title: "Desert Temple"
+	quest.0000000006000012.quest_desc: [
+		"YUNG 重制的丛林神殿 — 藤蔓覆盖的古老谜题。"
+		"丛林神殿的独特机制："
+		"• 绊线钩陷阱保护宝藏"
+		"• 发射器与红石机关相连"
+		"• 多层建筑隐藏在密林之中"
+		"• 藤蔓覆盖的墙壁和走廊"
+		"YUNG 版本增强了神殿探索："
+		"• 更多陷阱机关和谜题室"
+		"• 改进的机关逻辑更加真实"
+		"• 可能通往隐藏地下室"
+		"收集丛林神殿的三种标志性物品！"
+	]
+	quest.0000000006000012.quest_subtitle: "Jungle Temple"
+	quest.0000000006000012.title: "Jungle Temple"
+	quest.0000000006000013.quest_desc: [
+		"YUNG 重制的女巫小屋 — 沼泽中的神秘居所。"
+		"女巫小屋的特点："
+		"• 沼泽生物群系中独特的木制小屋结构"
+		"• 内含女巫及其酿造设备"
+		"• 花盆中可能种植蘑菇"
+		"• 偶尔有黑猫在附近徘徊"
+		"YUNG 版本改进了小屋设计："
+		"• 更有层次感的小屋结构"
+		"• 增强了沼泽小屋的诡异氛围"
+		"• 小屋内部可能包含更多战利品"
+		"击杀 3 只女巫并收集她们的酿造材料！"
+	]
+	quest.0000000006000013.quest_subtitle: "Witch Hut"
+	quest.0000000006000013.title: "Witch Hut"
+	quest.0000000006000014.quest_desc: [
+		"YUNG 重制的海底神殿 — 深海中的宏伟守护者堡垒。"
+		"海底神殿结构特征："
+		"• 金字塔形的海晶石主体结构"
+		"• 内部充满迷宫般的走廊和房间"
+		"• 23 根巨大的海晶石柱环绕四周"
+		"• 顶部隐藏着 8 个金块"
+		"守卫者和远古守卫者："
+		"• 守卫者向入侵者发射激光束"
+		"• 远古守卫者是神殿的 Boss 级守卫者"
+		"• 两者都掉落海晶碎片和鱼"
+		"• 离开神殿范围后挖掘疲劳效果解除"
+		"击杀守卫者和远古守卫者，"
+		"证明你已经征服了深海！"
+	]
+	quest.0000000006000014.quest_subtitle: "Ocean Monument"
+	quest.0000000006000014.title: "Ocean Monument"
+	quest.0000000006000015.quest_desc: [
+		"你已经探索了全部四种 YUNG 重制的地表建筑！"
+		"回顾你的废墟探索之旅："
+		"• 沙漠神殿 — 金苹果与 TNT 的大厅"
+		"• 丛林神殿 — 绊线钩与藤蔓的迷宫"
+		"• 女巫小屋 — 药水与荧石的女巫巢穴"
+		"• 海底神殿 — 海晶石与守卫者的深渊"
+		"现在提交这四种建筑的象征性物品，"
+		"每种 4 个，证明你已走遍世界："
+		"• 4 TNT — 沙漠遗迹"
+		"• 4 绊线钩 — 丛林机关"
+		"• 4 荧石粉 — 女巫魔法"
+		"• 8 海晶碎片 — 深海废墟"
+		"地表已经臣服，是时候回到地下了！"
+	]
+	quest.0000000006000015.quest_subtitle: "Surface Ruin Master"
+	quest.0000000006000015.title: "Surface Master"
+	quest.0000000006000016.quest_desc: [
+		"虽然废墟已被控制，但地下仍隐藏着未知的挑战。"
+		"YUNG 的洞穴增强使地下更加危险："
+		"• 洞穴蜘蛛在废弃矿井深处成群出现"
+		"• 蜘蛛网密布的角落隐藏着宝藏"
+		"• 刷怪笼持续产生怪物"
+		"洞穴蜘蛛比普通蜘蛛更小，"
+		"呈蓝色，咬伤带毒。"
+		"它们通常出现在矿井中的蜘蛛刷怪笼附近。"
+		"击杀 5 只洞穴蜘蛛，"
+		"收集 16 蜘蛛网和 1 个刷怪笼，"
+		"证明你已经征服了最深的洞穴！"
+	]
+	quest.0000000006000016.quest_subtitle: "Cave Explorer"
+	quest.0000000006000016.title: "Cave Explorer"
+	quest.0000000006000017.quest_desc: [
+		"YUNG 的矿井深入世界的最底层。"
+		"沿着矿道深入，寻找最珍贵的矿物！"
+		"深层采矿目标："
+		"• 8 钻石 — 矿井中的顶级宝石"
+		"• 4 远古残骸 — 下界合金的唯一来源"
+		"• 64 粗铁 — 矿井中的海量金属资源"
+		"YUNG 矿井的深层区域矿石密度更高。"
+		"利用更好的矿井的矿道，这是"
+		"高效开采深层资源的最佳时机。"
+		"钻石在 Y=-54 附近最密集，"
+		"远古残骸生成于深层下界矿井层。"
+		"携带效率附魔的钻石镐以获得最佳效果！"
+	]
+	quest.0000000006000017.quest_subtitle: "Deep Miner"
+	quest.0000000006000017.title: "Deep Miner"
+	quest.0000000006000018.quest_desc: [
+		"🏆 YUNG 建筑探索章节 — 最终试炼！"
+		"你已经征服了 YUNG 重制世界的每一个角落："
+		"• 废弃矿井的复杂矿道和矿车宝藏"
+		"• 三种地牢的怪物军团和苔石密室"
+		"• 沙漠神殿和丛林神殿的古老机关"
+		"• 女巫小屋的神秘酿造和沼泽魔法"
+		"• 海底神殿的守卫者和深渊迷宫"
+		"• 洞穴蜘蛛的蜘蛛网巢穴"
+		"• 最深矿井中的钻石和远古残骸"
+		"现在提交四种建筑类型的最终证明："
+		"• 64 苔石 — 地牢征服的证明"
+		"• 64 砂岩 — 沙漠废墟的纪念"
+		"• 32 海晶碎片 — 深海征服的痕迹"
+		"• 64 铁轨 — 矿井探索的荣耀"
+		"你已经征服了 YUNG 的全部建筑世界！"
+		"地下、沙漠、丛林还是深海，"
+		"没有一个隐秘角落是你足迹未至之处。"
+		"你是真正的 YUNG 征服者！"
+	]
+	quest.0000000006000018.quest_subtitle: "YUNG's Conqueror"
+	quest.0000000006000018.title: "YUNG's Conqueror"
+	quest.0000000007000001.quest_desc: [
+		"欢迎来到维度之旅章节！探索Minecraft的所有维度："
+		"下界要塞、末地传送门、深暗之域，以及重制版结构。"
+		"为前路的挑战做好准备！"
+	]
+	quest.0000000007000001.quest_subtitle: "Enter the Unknown"
+	quest.0000000007000001.title: "Dimension 探索"
+	quest.0000000007000002.quest_desc: [
+		"YUNG's更好的下界要塞为下界要塞带来了全新面貌。"
+		"探索改造后的要塞，收集下界砖和烈焰棒，"
+		"证明你已征服这片火焰之地。"
+	]
+	quest.0000000007000002.quest_subtitle: "Conquer the Fortress"
+	quest.0000000007000002.title: "下界堡垒"
+	quest.0000000007000003.quest_desc: [
+		"在要塞中建造烈焰人农场，高效获取烈焰棒。"
+		"烈焰粉是酿造药水和制作末影之眼的必需品。"
+	]
+	quest.0000000007000003.quest_subtitle: "Harvest Blaze Rods"
+	quest.0000000007000003.title: "Blaze Farm"
+	quest.0000000007000004.quest_desc: [
+		"凋灵骷髅潜伏在下界要塞的黑暗角落。"
+		"击败它们收集凋灵骷髅头颅，这是召唤凋灵的必要材料。"
+	]
+	quest.0000000007000004.quest_subtitle: "Collect Skulls"
+	quest.0000000007000004.title: "Wither Skeleton"
+	quest.0000000007000005.quest_desc: [
+		"从下界要塞大量收集资源："
+		"下界砖用于建筑，地狱疣用于酿造，"
+		"灵魂沙用于召唤凋灵和制作灵魂火把。"
+	]
+	quest.0000000007000005.quest_subtitle: "Gather Nether 材料"
+	quest.0000000007000005.title: "Nether Brick Hoard"
+	quest.0000000007000006.quest_desc: [
+		"使用末影之眼追踪要塞位置。"
+		"YUNG's更好的要塞让要塞变得更宏伟，"
+		"拥有复杂走廊和隐藏房间。"
+		"跟随末影之眼找到传送门房间。"
+	]
+	quest.0000000007000006.quest_subtitle: "Locate the Portal"
+	quest.0000000007000006.title: "Stronghold Search"
+	quest.0000000007000007.quest_desc: [
+		"探索要塞的每一个角落。"
+		"小心蠹虫伏击——它们潜伏在石砖中。"
+		"收集末地石来证明你已抵达要塞深处。"
+	]
+	quest.0000000007000007.quest_subtitle: "Navigate the Labyrinth"
+	quest.0000000007000007.title: "Stronghold 探索"
+	quest.0000000007000008.quest_desc: [
+		"找到末地传送门框架，用末影之眼填满每个空框架。"
+		"共有12个框架；建议多准备一些末影之眼以防万一。"
+	]
+	quest.0000000007000008.quest_subtitle: "Activate the Gateway"
+	quest.0000000007000008.title: "Portal Activation"
+	quest.0000000007000009.quest_desc: [
+		"进入末地，迎战末影龙！"
+		"YUNG's更好的末地主岛让主岛更加壮观。"
+		"摧毁水晶，击败末影龙，获取龙首和龙蛋。"
+	]
+	quest.0000000007000009.quest_subtitle: "Slay the Dragon"
+	quest.0000000007000009.title: "End Battle"
+	quest.0000000007000010.quest_desc: [
+		"通过末地折跃门前往外围岛屿。"
+		"探索紫颂森林和末地城，收集紫颂果和紫珀块。"
+		"在末地城中寻找潜影贝，获取潜影壳。"
+	]
+	quest.0000000007000010.quest_subtitle: "Explore End Cities"
+	quest.0000000007000010.title: "End Outer Islands"
+	quest.0000000007000011.quest_desc: [
+		"Repurposed Structures添加了多种原版结构变体。"
+		"探索不同风格的村庄、哨站等。"
+		"收集这些结构的标志性物品。"
+	]
+	quest.0000000007000011.quest_subtitle: "Discover Modified Dungeons"
+	quest.0000000007000011.title: "结构复刻"
+	quest.0000000007000012.quest_desc: [
+		"Structory和Structurify生成新的建筑和废墟。"
+		"探索这些独特的结构；收集铁、灯笼和圆石。"
+	]
+	quest.0000000007000012.quest_subtitle: "Explore Ancient Remnants"
+	quest.0000000007000012.title: "Extra Structures"
+	quest.0000000007000013.quest_desc: [
+		"你的足迹遍布末地、重制结构和额外结构。"
+		"用收集的材料制作地图、指南针和望远镜。"
+		"成为真正的冒险家！"
+	]
+	quest.0000000007000013.quest_subtitle: "Explore All Structures"
+	quest.0000000007000013.title: "Structure Explorer"
+	quest.0000000007000014.quest_desc: [
+		"深暗之域潜伏在地下深处。"
+		"这里的幽匿方块能感知声音和振动。"
+		"收集幽匿方块来证明你已找到深暗之域。"
+	]
+	quest.0000000007000014.quest_subtitle: "Enter the Darkness"
+	quest.0000000007000014.title: "Deep Dark Entry"
+	quest.0000000007000015.quest_desc: [
+		"深入深暗之域获取幽匿材料。"
+		"幽匿催发体是深暗之域的核心。"
+		"当生物在附近死亡时，它将周围方块转化为幽匿方块。"
+	]
+	quest.0000000007000015.quest_subtitle: "Harness Sculk Power"
+	quest.0000000007000015.title: "Sculk Collection"
+	quest.0000000007000016.quest_desc: [
+		"⚠ 致命挑战！监守者是MC最强怪物之一，"
+		"生命值和近战伤害极高。"
+		"触发幽匿尖啸体三次即可召唤监守者。"
+		"强烈建议全套下界合金装备！"
+	]
+	quest.0000000007000016.quest_subtitle: "Deadly Encounter"
+	quest.0000000007000016.title: "Warden 挑战"
+	quest.0000000007000017.quest_desc: [
+		"Deeper Darker模组扩展了深暗之域内容，"
+		"新增了全新的Otherside维度。"
+		"从远古城市收集强化深板岩和回响碎片。"
+		"为前往Otherside的旅程做好准备。"
+	]
+	quest.0000000007000017.quest_subtitle: "The Deepest Depths"
+	quest.0000000007000017.title: "Otherside"
+	quest.0000000007000018.quest_desc: [
+		"进入Otherside，挑战更强大的深渊生物。"
+		"大量收集幽匿块、强化深板岩和回响碎片。"
+		"证明你已征服Otherside的一切。"
+	]
+	quest.0000000007000018.quest_subtitle: "A Mysterious Dimension"
+	quest.0000000007000018.title: "Void Master"
+	quest.0000000007000019.quest_desc: [
+		"你已征服下界、末地和深暗之域。"
+		"集齐下界之星、龙首和回响碎片，"
+		"象征你对所有维度的完全掌控。"
+	]
+	quest.0000000007000019.quest_subtitle: "Milestone Achievement"
+	quest.0000000007000019.title: "Dimensional Link"
+	quest.0000000007000020.quest_desc: [
+		"🎉 终极成就！你已征服MC所有维度！"
+		"制作下界合金块、信标和64个末影之眼。"
+		"宣告你是真正的维度征服者！"
+		"值得全服广播的壮举！"
+	]
+	quest.0000000007000020.quest_subtitle: "Master of All 维度冒险"
+	quest.0000000007000020.title: "Dimension Conqueror"
+	quest.0000000008000001.quest_desc: [
+		"欢迎来到机械动力的世界！"
+		"安山合金是机械动力中最基础的材料，"
+		"通过在工作台中将安山岩与铁锭（或锌锭）合成。"
+		"安山机壳是所有动能设备的框架基础。"
+		"准备好进入蒸汽与齿轮的时代了吗？"
+	]
+	quest.0000000008000001.quest_subtitle: "Mechanical Basics"
+	quest.0000000008000001.title: "Mechanical Basics"
+	quest.0000000008000002.quest_desc: [
+		"安山合金是机械动力的"
+		"铁"
+		"——几乎所有机械组件都依赖于它。"
+		"在工作台中将安山岩与铁锭（或锌锭）合成。"
+		"建议批量生产；后续将大量消耗。"
+	]
+	quest.0000000008000002.quest_subtitle: "Andesite Alloy"
+	quest.0000000008000002.title: "Andesite Alloy"
+	quest.0000000008000003.quest_desc: [
+		"安山机壳是动力系统的骨干，包裹传动轴并传递动能。"
+		"在工作台中将安山合金与原木合成安山机壳。"
+		"机壳可放置在传动轴上，赋予其方向性。"
+	]
+	quest.0000000008000003.quest_subtitle: "Casing 合成"
+	quest.0000000008000003.title: "Casing 合成"
+	quest.0000000008000004.quest_desc: [
+		"将安山合金合成为方块形态用于装饰或紧凑存储。"
+		"安山合金块也用于后续高级组件的配方。"
+	]
+	quest.0000000008000004.quest_subtitle: "Alloy Block"
+	quest.0000000008000004.title: "Alloy Block"
+	quest.0000000008000005.quest_desc: [
+		"水车是机械动力中最基础的应力来源。"
+		"将水车放置在流动的水中；水流推动水车产生动能。"
+		"通过传动轴将动力传输到其他组件。"
+		"水车提供温和稳定的应力输出，适合游戏早期使用。"
+	]
+	quest.0000000008000005.quest_subtitle: "Power Source"
+	quest.0000000008000005.title: "Power Source"
+	quest.0000000008000006.quest_desc: [
+		"大型水车是升级版——更大的尺寸，更强的应力输出。"
+		"由普通水车和原木合成。"
+		"对于需要更高应力的产线，这是可靠的中期动力选择。"
+	]
+	quest.0000000008000006.quest_subtitle: "Large Water Wheel"
+	quest.0000000008000006.title: "Large Water Wheel"
+	quest.0000000008000007.quest_desc: [
+		"传动轴是机械动力动力系统的"
+		"血管"
+		"，将应力从动力源传递到机器。"
+		"齿轮改变传动方向，是复杂动力网络的关键。"
+		"传动轴必须与动力源方向对齐；齿轮处理90度转弯。"
+	]
+	quest.0000000008000007.quest_subtitle: "Power Transmission"
+	quest.0000000008000007.title: "Power Transmission"
+	quest.0000000008000008.quest_desc: [
+		"变速箱是动力系统的中心枢纽，支持四个方向的传动轴。"
+		"大小齿轮组合可以改变转速比。"
+		"使用变速箱构建紧凑高效的动力网络。"
+	]
+	quest.0000000008000008.quest_subtitle: "Gearbox"
+	quest.0000000008000008.title: "Gearbox"
+	quest.0000000008000009.quest_desc: [
+		"变速器根据红石信号切换速度，实现动态控制。"
+		"离合器用于连接或断开动力传输。"
+		"这两种组件是实现自动化控制的关键。"
+	]
+	quest.0000000008000009.quest_subtitle: "Advanced Transmission"
+	quest.0000000008000009.title: "Advanced Transmission"
+	quest.0000000008000010.quest_desc: [
+		"转速控制器是用于精确RPM控制的终极传动组件。"
+		"可编程齿轮箱根据红石信号强度提供多级变速。"
+		"掌握速度控制，让生产线上每台机器以最高效率运行。"
+	]
+	quest.0000000008000010.quest_subtitle: "速度 Control"
+	quest.0000000008000010.title: "速度 Control"
+	quest.0000000008000011.quest_desc: [
+		"传送带是机械动力中物品运输的基础。"
+		"用传送带连接两个传动轴，构建物品运输线。"
+		"链式传送带可以垂直运输物品。"
+		"传送带自动拾取掉落物，按设定方向运输。"
+	]
+	quest.0000000008000011.quest_subtitle: "Belt Network"
+	quest.0000000008000011.title: "Belt Network"
+	quest.0000000008000012.quest_desc: [
+		"风车轴承是最强大的中期动力源之一。"
+		"将轴承放在旋转结构的中心，加上风帆框架以产生巨大应力。"
+		"风帆框架越多 = 风车输出应力越大。"
+		"风车是迈向全自动化的关键一步。"
+	]
+	quest.0000000008000012.quest_subtitle: "Windmill Upgrade"
+	quest.0000000008000012.title: "Windmill Upgrade"
+	quest.0000000008000013.quest_desc: [
+		"烈焰燃烧室是蒸汽引擎和鼓风机的核心热源。"
+		"空的燃烧室必须放入烈焰棒才能点燃。"
+		"为其添加燃料即可持续燃烧并产生高温。"
+		"超级加热状态（喂食烈焰蛋糕）大幅提升处理速度。"
+	]
+	quest.0000000008000013.quest_subtitle: "Blaze Burner"
+	quest.0000000008000013.title: "Blaze Burner"
+	quest.0000000008000014.quest_desc: [
+		"蒸汽引擎是机械动力中最强大的应力来源！"
+		"将蒸汽引擎放在流体储罐上，下方用烈焰燃烧室加热。"
+		"供应水和热量；引擎将产生巨大的应力（SU）。"
+		"满级蒸汽锅炉可以为整个工厂供电。"
+	]
+	quest.0000000008000014.quest_subtitle: "Steam Engine"
+	quest.0000000008000014.title: "Steam Engine"
+	quest.0000000008000015.quest_desc: [
+		"烈焰蛋糕是让烈焰燃烧室进入超级加热模式的终极燃料。"
+		"在超级加热模式下，鼓风机和搅拌器的处理速度大幅提升。"
+		"生产烈焰蛋糕需要完整的自动化装置。"
+		"这证明你已掌握高级动力技术。"
+	]
+	quest.0000000008000015.quest_subtitle: "Ultimate Power"
+	quest.0000000008000015.title: "Ultimate Power"
+	quest.0000000008000016.quest_desc: [
+		"磨石是机械动力最早的加工设备。"
+		"将磨石放在传动轴上，提供动力即可开始研磨。"
+		"小麦在磨石中研磨成面粉——食品加工的第一步。"
+		"磨石还可以粉碎矿石、骨块等多种材料。"
+	]
+	quest.0000000008000016.quest_subtitle: "Millstone Processing"
+	quest.0000000008000016.title: "Millstone Processing"
+	quest.0000000008000017.quest_desc: [
+		"使用搅拌器将面粉与水混合生产面团。"
+		"面团可在烟熏炉中用鼓风机气流烘烤成面包。"
+		"这是机械动力自动化食品生产线的起点。"
+	]
+	quest.0000000008000017.quest_subtitle: "Dough Making"
+	quest.0000000008000017.title: "Dough Making"
+	quest.0000000008000018.quest_desc: [
+		"鼓风机是机械动力的多功能加工设备。"
+		"气流穿过水/熔岩/火分别进行洗涤、熔炼或烟熏。"
+		"铁板通过鼓风机熔炼铁锭生产，用于各种机械组件。"
+		"鼓风机实现批量化加工，大幅提升效率。"
+	]
+	quest.0000000008000018.quest_subtitle: "Bulk Blasting"
+	quest.0000000008000018.title: "Bulk Blasting"
+	quest.0000000008000019.quest_desc: [
+		"动力辊压机将物品压制成板材或方块。"
+		"将铁锭放在传送带或置物台上，辊压生产铁板。"
+		"辊压机是板材生产的核心设备，也是精密构件的先决条件。"
+	]
+	quest.0000000008000019.quest_subtitle: "Mechanical 按下"
+	quest.0000000008000019.title: "Mechanical 按下"
+	quest.0000000008000020.quest_desc: [
+		"金板是高级机械组件的重要材料。"
+		"通过动力辊压机压制金锭获得金板。"
+		"金板用于精密构件、电子管等高级零件。"
+	]
+	quest.0000000008000020.quest_subtitle: "Golden Sheets"
+	quest.0000000008000020.title: "Golden Sheets"
+	quest.0000000008000021.quest_desc: [
+		"铜板用于铜机壳和流体管道。"
+		"锌锭是黄铜的关键原料——黄铜 = 铜 + 锌。"
+		"储备大量铜板和锌锭，为黄铜时代做好准备。"
+	]
+	quest.0000000008000021.quest_subtitle: "铜  Zinc"
+	quest.0000000008000021.title: "铜  Zinc"
+	quest.0000000008000022.quest_desc: [
+		"锌是机械动力新增的矿石，广泛分布在地下。"
+		"开采锌矿石获得粗锌，熔炼成锌锭。"
+		"锌锭是黄铜的必需品——没有锌就没有黄铜时代！"
+	]
+	quest.0000000008000022.quest_subtitle: "Zinc 挖掘"
+	quest.0000000008000022.title: "Zinc 挖掘"
+	quest.0000000008000023.quest_desc: [
+		"将锌锭合成为方块形态用于装饰或紧凑存储。"
+		"粗锌块是粗锌的压缩形态。"
+		"锌块也是不错的装饰建筑材料。"
+	]
+	quest.0000000008000023.quest_subtitle: "Zinc Blocks"
+	quest.0000000008000023.title: "Zinc Blocks"
+	quest.0000000008000024.quest_desc: [
+		"动力搅拌器是机械动力最核心的加工设备之一。"
+		"将搅拌器放在工作盆上方，提供动力来混合物品。"
+		"搅拌器是自动化合成安山合金和黄铜的方式。"
+		"掌握搅拌器即掌握了全自动化的关键。"
+	]
+	quest.0000000008000024.quest_subtitle: "Mechanical Mixer"
+	quest.0000000008000024.title: "Mechanical Mixer"
+	quest.0000000008000025.quest_desc: [
+		"黄铜是机械动力的高级材料，标志进入高级机械时代。"
+		"在搅拌器中（需加热）混合铜锭和锌锭生产黄铜锭。"
+		"黄铜是精密构件、黄铜机壳和高级物流组件的必需品。"
+		"大量储备黄铜——它是工厂帝国的基础。"
+	]
+	quest.0000000008000025.quest_subtitle: "Brass 烧炼"
+	quest.0000000008000025.title: "Brass 烧炼"
+	quest.0000000008000026.quest_desc: [
+		"黄铜机壳是高级机器的框架，比安山机壳更坚固精致。"
+		"在工作台中将黄铜锭与原木合成。"
+		"黄铜机壳用于漏斗、隧道和列车机壳。"
+	]
+	quest.0000000008000026.quest_subtitle: "Brass Casing"
+	quest.0000000008000026.title: "Brass Casing"
+	quest.0000000008000027.quest_desc: [
+		"黄铜漏斗是机械动力最强大的物流组件，支持过滤物品传输。"
+		"黄铜隧道分流物品流，按类别分配物品。"
+		"漏斗配合传送带可实现精确的输入/输出控制。"
+	]
+	quest.0000000008000027.quest_subtitle: "Brass Funnel"
+	quest.0000000008000027.title: "Brass Funnel"
+	quest.0000000008000028.quest_desc: [
+		"安山漏斗是基础早期游戏物流组件，类似于原版漏斗。"
+		"安山隧道用于简单的物品分流。"
+		"在黄铜时代之前，安山漏斗是自动化物流的主力。"
+	]
+	quest.0000000008000028.quest_subtitle: "Andesite Funnel"
+	quest.0000000008000028.title: "Andesite Funnel"
+	quest.0000000008000029.quest_desc: [
+		"精密构件是机械动力的终极制造材料。"
+		"在工作台（或自动合成器）上组装金板、变速箱、铁锭和大齿轮。"
+		"制作流程复杂，需要传送带按顺序将物品送到指定位置。"
+		"精密构件是解锁动力钻头、机械手等高级机器的关键。"
+	]
+	quest.0000000008000029.quest_subtitle: "Precision Mechanism"
+	quest.0000000008000029.title: "Precision Mechanism"
+	quest.0000000008000030.quest_desc: [
+		"动力钻头是机械动力的自动化采矿设备。"
+		"放置在运动结构（动力活塞或矿车装置）上，自动破坏方块。"
+		"配合动力轴承使用，实现大规模自动化采矿。"
+	]
+	quest.0000000008000030.quest_subtitle: "Mechanical Drill"
+	quest.0000000008000030.title: "Mechanical Drill"
+	quest.0000000008000031.quest_desc: [
+		"动力收割机自动收获成熟作物，实现全自动农业。"
+		"动力锯切割树木和处理木板——自动化林业的核心。"
+		"两者都可安装在运动结构上进行大规模作业。"
+	]
+	quest.0000000008000031.quest_subtitle: "Harvest  Saw"
+	quest.0000000008000031.title: "Harvest  Saw"
+	quest.0000000008000032.quest_desc: [
+		"动力犁自动耕地——配合收割机实现全自动农场。"
+		"动力滚压机碾压物品和方块，制作铁板或平整地面。"
+		"两者都是运动结构上的强力工具。"
+	]
+	quest.0000000008000032.quest_subtitle: "Plough  Roller"
+	quest.0000000008000032.title: "Plough  Roller"
+	quest.0000000008000033.quest_desc: [
+		"铜机壳用于流体管道、蒸汽引擎和其他流体相关设备。"
+		"在工作台中将铜板与原木合成。"
+		"铜机壳在流体系统中不可或缺。"
+	]
+	quest.0000000008000033.quest_subtitle: "铜 Casing"
+	quest.0000000008000033.title: "铜 Casing"
+	quest.0000000008000034.quest_desc: [
+		"溜槽是利用重力垂直运输物品的管道。"
+		"智能溜槽按条件过滤物品，类似黄铜漏斗的垂直版本。"
+		"溜槽 + 传送带 = 完整的三维物流网络。"
+	]
+	quest.0000000008000034.quest_subtitle: "Chute System"
+	quest.0000000008000034.title: "Chute System"
+	quest.0000000008000035.quest_desc: [
+		"部署器将其手持物品用于面前的方块或实体。"
+		"它可以右键交互、放置方块、使用工具——本质上是机械化的玩家右键。"
+		"配合传送带，部署器是精密构件自动化的核心。"
+	]
+	quest.0000000008000035.quest_subtitle: "Deployer"
+	quest.0000000008000035.title: "Deployer"
+	quest.0000000008000036.quest_desc: [
+		"机械手是机械动力的终极物流组件。"
+		"它可以从任意位置拾取物品并精确放置到目标位置。"
+		"设定输入和输出点；机械手自动处理物品传输。"
+		"复杂工厂产线中不可或缺的智能物流中心。"
+	]
+	quest.0000000008000036.quest_subtitle: "Mechanical Arm"
+	quest.0000000008000036.title: "Mechanical Arm"
+	quest.0000000008000037.quest_desc: [
+		"粉碎轮是核心矿石处理设备——一对粉碎轮碾压矿石提高产量。"
+		"粗铁粉碎成粉碎铁矿石，1:1熔炼为铁锭。"
+		"这是矿石倍增的关键技术。"
+	]
+	quest.0000000008000037.quest_subtitle: "Crushing Wheel"
+	quest.0000000008000037.title: "Crushing Wheel"
+	quest.0000000008000038.quest_desc: [
+		"验证粉碎轮对各种矿石的产量倍增效果。"
+		"粉碎金、铜和锌矿石，证明你的矿石处理产线已全面运行。"
+		"每种粉碎矿石1:1熔炼为对应的金属锭。"
+	]
+	quest.0000000008000038.quest_subtitle: "Ore Doubling"
+	quest.0000000008000038.title: "Ore Doubling"
+	quest.0000000008000039.quest_desc: [
+		"流体管道是机械动力的液体运输网络。"
+		"动力泵抽取和传输液体。"
+		"构建流体管道网络，将水、熔岩和其他液体运送到需要的地方。"
+	]
+	quest.0000000008000039.quest_subtitle: "Fluid System"
+	quest.0000000008000039.title: "Fluid System"
+	quest.0000000008000040.quest_desc: [
+		"软管滑轮可从无限水源或大型流体池中抽取液体。"
+		"注液器将液体注入工作盆，用于自动化流体混合。"
+		"流体阀门控制流体网络中的流量。"
+		"完整的流体系统让你的工厂实现全自动流体处理。"
+	]
+	quest.0000000008000040.quest_subtitle: "Hose  Spout"
+	quest.0000000008000040.title: "Hose  Spout"
+	quest.0000000008000041.quest_desc: [
+		"流体储罐是机械动力的液体存储容器。"
+		"多个储罐可堆叠连接形成大型储罐阵列。"
+		"蒸汽引擎必须放置在流体储罐上方才能运行。"
+		"储备足够的流体储罐，为蒸汽动力做好准备。"
+	]
+	quest.0000000008000041.quest_subtitle: "Fluid Tanks"
+	quest.0000000008000041.title: "Fluid Tanks"
+	quest.0000000008000042.quest_desc: [
+		"物品保险柜是机械动力的高容量存储容器。"
+		"单个保险柜存储大量物品；多个可堆叠使用。"
+		"配合便携存储接口，可实现跨维度物品传输！"
+	]
+	quest.0000000008000042.quest_subtitle: "物品 Vault"
+	quest.0000000008000042.title: "物品 Vault"
+	quest.0000000008000043.quest_desc: [
+		"便携存储接口允许运动结构（如矿车装置）与固定容器交换物品。"
+		"便携流体接口在运动结构和固定储罐之间交换流体。"
+		"这是自动化矿车装卸的核心技术。"
+	]
+	quest.0000000008000043.quest_subtitle: "Storage Interface"
+	quest.0000000008000043.title: "Storage Interface"
+	quest.0000000008000044.quest_desc: [
+		"动力活塞将附着的方块前后推动，实现直线运动。"
+		"粘性动力活塞可以推拉方块（类似粘性活塞）。"
+		"动力活塞是构建运动结构（钻头、收割机）的基础。"
+	]
+	quest.0000000008000044.quest_subtitle: "Mechanical Piston"
+	quest.0000000008000044.title: "Mechanical Piston"
+	quest.0000000008000045.quest_desc: [
+		"龙门传动杆是沿轨道移动结构的传动轴。"
+		"龙门滑架连接龙门传动杆并承载运动结构。"
+		"用于构建大型起重机、移动平台等工程设备。"
+	]
+	quest.0000000008000045.quest_subtitle: "Gantry Crane"
+	quest.0000000008000045.title: "Gantry Crane"
+	quest.0000000008000046.quest_desc: [
+		"结合机械手和部署器构建完整的自动化装配线。"
+		"机械手处理物品运输；部署器处理精确操作。"
+		"两者配合可自动化精密构件和黄铜等复杂配方。"
+		"这是你的工厂迈向全自动化的里程碑。"
+	]
+	quest.0000000008000046.quest_subtitle: "Automation Workshop"
+	quest.0000000008000046.title: "Automation Workshop"
+	quest.0000000008000047.quest_desc: [
+		"结合智能溜槽、黄铜漏斗和物品保险柜构建完整的自动分拣存储系统。"
+		"智能溜槽处理智能垂直物品运输。"
+		"黄铜漏斗处理精确的水平物品过滤。"
+		"物品保险柜提供海量存储容量。"
+		"掌握这三种组件，真正掌握机械动力的物流之道。"
+	]
+	quest.0000000008000047.quest_subtitle: "Logistics Master"
+	quest.0000000008000047.title: "Logistics Master"
+	quest.0000000008000048.quest_desc: [
+		"机械动力铁路系统是对原版铁轨的全面升级！"
+		"普通轨道铺设铁路；控制器轨道实现自动方向切换。"
+		"列车门和活板门让你的列车功能完备。"
+		"铁路连接工厂区域，实现长距离运输。"
+	]
+	quest.0000000008000048.quest_subtitle: "Railway System"
+	quest.0000000008000048.title: "Railway System"
+	quest.0000000008000049.quest_desc: [
+		"车站是列车的停靠和调度中心。"
+		"信号系统控制列车运行和停靠。"
+		"轨道观测器检测列车通行状态。"
+		"构建完整的铁路调度网络，实现多列车自动化。"
+	]
+	quest.0000000008000049.quest_subtitle: "Train Station"
+	quest.0000000008000049.title: "Train Station"
+	quest.0000000008000050.quest_desc: [
+		"蓝图系统让你保存、复制和建造复杂结构。"
+		"蓝图桌保存/编辑蓝图；蓝图与笔记录结构数据。"
+		"蓝图炮根据蓝图自动放置方块！"
+		"空白蓝图和蓝图是记录和存储结构数据的媒介。"
+		"掌握蓝图系统，大型工厂建造效率翻倍。"
+	]
+	quest.0000000008000050.quest_subtitle: "Schematic System"
+	quest.0000000008000050.title: "Schematic System"
+	quest.0000000008000051.quest_desc: [
+		"扳手旋转和拆卸机械动力组件（潜行+右键）。"
+		"工程师护目镜显示你所注视组件的应力值和RPM。"
+		"转速表测量传动轴转速。"
+		"应力表测量动力网络中的应力消耗和剩余容量。"
+		"这些工具是每位机械师的必备诊断设备。"
+	]
+	quest.0000000008000051.quest_subtitle: "Engineer 工具"
+	quest.0000000008000051.title: "Engineer 工具"
+	quest.0000000008000052.quest_desc: [
+		"黄铜手是机械动力的远程操作工具，用于远距离交互组件。"
+		"伸缩手扩展你的触及距离，方便操作大型机器。"
+		"工程师茶提供短暂的饱和效果——工厂工作的完美伴侣。"
+	]
+	quest.0000000008000052.quest_subtitle: "Brass 装备"
+	quest.0000000008000052.title: "Brass 装备"
+	quest.0000000008000053.quest_desc: [
+		"最终测试：证明你的工厂具备大规模生产能力。"
+		"批量生产黄铜锭和精密构件——高级自动化的标志。"
+		"储备安山机壳和黄铜机壳，随时应对任何项目。"
+		"通过此验证，真正赢得"
+		"工程师"
+		"的称号。"
+	]
+	quest.0000000008000053.quest_subtitle: "Factory Validation"
+	quest.0000000008000053.title: "Factory Validation"
+	quest.0000000008000054.quest_desc: [
+		"下界合金储气背囊是机械动力的顶级装备——储存压缩空气。"
+		"铜储气背囊是经济实惠的替代品。"
+		"储气背囊为潜水、鞘翅飞行和土豆炮提供压缩空气。"
+		"穿上它，成为工厂里最酷的工程师。"
+	]
+	quest.0000000008000054.quest_subtitle: "Ultimate 装备"
+	quest.0000000008000054.title: "Ultimate 装备"
+	quest.0000000008000055.quest_desc: [
+		"从水车到全自动化工厂，你已掌握机械动力的全部精髓。"
+		"批量生产黄铜块、精密构件、安山合金块和玫瑰石英块。"
+		"你是一位真正的大师工程师——世界资源尽在你掌握之中。"
+		"恭喜毕业！但这只是开始——你接下来会创造怎样的奇迹？"
+	]
+	quest.0000000008000055.quest_subtitle: "Graduation: Master Engineer"
+	quest.0000000008000055.title: "Graduation: Master Engineer"
+	quest.0000000009000001.quest_desc: [
+		"铁魔法"
+		"is the core magic mod in this pack"
+		"providing a complete magic system with six schools"
+		"Arcane Ingots are the foundation of all magic"
+		"Collect Arcane Debris and Arcane Essence"
+		"Smelt them in a furnace into Arcane Ingots"
+		"From this moment on, step into the world of magic!"
+	]
+	quest.0000000009000001.quest_subtitle: "Intro to Irons Spellbooks"
+	quest.0000000009000001.title: "Age of Magic"
+	quest.0000000009000002.quest_desc: [
+		"Arcane Debris is the most basic magical ore in ISB"
+		"buried deep underground in ore veins"
+		"Appears as a light blue crystalline ore"
+		"挖掘 it drops Arcane Debris directly"
+		"Together with Arcane Essence"
+		"it is the key ingredient for forging Arcane Ingots"
+		"Mine plenty to stockpile resources for your magical journey!"
+	]
+	quest.0000000009000002.quest_subtitle: "Basic Magic Ore"
+	quest.0000000009000002.title: "Arcane Debris"
+	quest.0000000009000003.quest_desc: [
+		"Arcane Essence is concentrated magical energy"
+		"refined further from Arcane Debris"
+		"Extremely versatile uses:"
+		"• 合成 Arcane Ingots"
+		"• Making Arcane Runes"
+		"• Base material for various magical items"
+		"Recommended to stockpile heavily"
+		"High-level magical items demand vast quantities!"
+	]
+	quest.0000000009000003.quest_subtitle: "Magical Energy Crystal"
+	quest.0000000009000003.title: "Arcane Essence"
+	quest.0000000009000004.quest_desc: [
+		"Arcane Ingots are the core material for all magical equipment"
+		"from spellcasting items to armor, everything needs them"
+		"Combine Arcane Debris and Arcane Essence"
+		"in a furnace to smelt Arcane Ingots"
+		"Early game: aim to stockpile at least one stack"
+		"to build a solid resource foundation for"
+		"future spell books and equipment forging"
+	]
+	quest.0000000009000004.quest_subtitle: "Magical Metal Industrialization"
+	quest.0000000009000004.title: "Arcane Ingot Production"
+	quest.0000000009000005.quest_desc: [
+		"The Arcane 铁砧 is ISBs most essential work block"
+		"几乎 all advanced magical equipment must be forged on it"
+		"Main functions:"
+		"• Craft advanced spell books"
+		"• Upgrade and enhance spell books"
+		"• Forge staves and magical weapons"
+		"• Craft affinity rings"
+		"Place it in your base"
+		"and unlock the infinite possibilities of magical forging!"
+	]
+	quest.0000000009000005.quest_subtitle: "法术 Forging Core"
+	quest.0000000009000005.title: "Arcane 铁砧"
+	quest.0000000009000006.quest_desc: [
+		"The Alchemist 炼药锅 is ISBs new brewing apparatus"
+		"更多 flexible and efficient than the traditional 酿造台"
+		"功能  advantages:"
+		"• No 烈焰粉 fuel needed"
+		"• Mix multiple magical ingredients simultaneously"
+		"• Produce special magical potions"
+		"• Supports exclusive recipe reactions"
+		"Drop ingredients directly into the cauldron"
+		"and wait for the reaction to complete to obtain potions!"
+	]
+	quest.0000000009000006.quest_subtitle: "Magical Potion 酿造"
+	quest.0000000009000006.title: "Alchemist 炼药锅"
+	quest.0000000009000007.quest_desc: [
+		"The 铁 法术 书 is your first step into the world of magic"
+		"Place the spell book in your offhand slot"
+		"右键点击 with a wand or empty hand in your main hand to cast"
+		"右键点击 打开 the spell book GUI"
+		"Drag spell scrolls into slots 佩戴 spells"
+		"Once you equip a spell book"
+		"the gates to all six magical schools will open for you!"
+	]
+	quest.0000000009000007.quest_subtitle: "Entry to Magic"
+	quest.0000000009000007.title: "铁 法术 书"
+	quest.0000000009000008.quest_desc: [
+		"Arcane Runes are the core material for all spell books"
+		"and the foundation of all school runes"
+		"Blank Runes are the base plates for inscribing school runes"
+		"Perform rune inscription on the Arcane 铁砧"
+		"All six school spell books"
+		"require large quantities of Arcane Runes as a base"
+		"Prepare your runes and get ready to explore all magical schools!"
+	]
+	quest.0000000009000008.quest_subtitle: "School 法术 书 Core"
+	quest.0000000009000008.title: "Arcane Runes"
+	quest.0000000009000009.quest_desc: [
+		"Ink is an important material for spell book inscription"
+		"used to engrave spells onto spell books"
+		"Ink tier determines the spell level that can be inscribed"
+		"Common Ink — Basic spells"
+		"Uncommon Ink — Advanced spells"
+		"Higher-tier inks can be synthesized in the Alchemist 炼药锅"
+		"Collecting basic inks is the priority for Phase One"
+	]
+	quest.0000000009000009.quest_subtitle: "法术 Inscription Ink"
+	quest.0000000009000009.title: "Basic Inks"
+	quest.0000000009000010.quest_desc: [
+		"Arcane Recycling is an important magical technique"
+		"that can dismantle unwanted spell scrolls"
+		"Using Arcane Recycling"
+		"revert discarded scrolls back into base magical materials"
+		"achieving sustainable recycling of magical resources"
+		"这是 an essential frugality technique for any mage"
+		"Maximize your material utilization efficiency!"
+	]
+	quest.0000000009000010.quest_subtitle: "Dismantling  Reusing Spells"
+	quest.0000000009000010.title: "Scroll Recycling"
+	quest.0000000009000011.quest_desc: [
+		"Ancient Knowledge Fragments contain lost magical wisdom"
+		"and are key items for enhancing spell abilities"
+		"They can be found in chests throughout the world"
+		"or by searching magical ruins"
+		"Collect enough Ancient Knowledge"
+		"解锁 higher-tier magical abilities"
+		"and advance further along the path of magical cultivation"
+	]
+	quest.0000000009000011.quest_subtitle: "Lost Magical Fragments"
+	quest.0000000009000011.title: "Ancient Knowledge"
+	quest.0000000009000012.quest_desc: [
+		"Advanced inks let you inscribe more powerful spells"
+		"gradually unlocking powerful skills across all schools"
+		"Rare Ink — Mid-tier spell inscription"
+		"Epic Ink — High-tier spell inscription"
+		"In the Alchemist 炼药锅"
+		"synthesize lower-tier inks into higher-tier ones step by step"
+		"Progress layer by layer 解锁 the deeper power of magic!"
+	]
+	quest.0000000009000012.quest_subtitle: "Advanced 法术 Inscription"
+	quest.0000000009000012.title: "Advanced Inks"
+	quest.0000000009000013.quest_desc: [
+		"Legendary Ink is the highest-tier inscription material"
+		"used to engrave legendary-tier spells"
+		"This ink contains immense magical energy"
+		"allowing your spell book to unleash its true power"
+		"只有 the most elite mages"
+		"are worthy of using Legendary Ink to inscribe ultimate spells!"
+	]
+	quest.0000000009000013.quest_subtitle: "Ultimate 法术 Engraving"
+	quest.0000000009000013.title: "Legendary Ink"
+	quest.0000000009000014.quest_desc: [
+		"Protection Runes and Cooldown Runes are important auxiliary runes"
+		"providing extra traits to magical equipment and spell books"
+		"Protection Rune — Inscribed on armor"
+		"grants magical damage reduction"
+		"Cooldown Rune — Inscribed on spell books"
+		"shortens spell cooldown times"
+		"Balance offense and defense to stand undefeated!"
+	]
+	quest.0000000009000014.quest_subtitle: "Defensive Rune Inscription"
+	quest.0000000009000014.title: "Protection Secrets"
+	quest.0000000009000015.quest_desc: [
+		"Fire School — The power of flames, explosions, and destruction"
+		"The Blaze 法术 书 is the Fire Schools exclusive spell book"
+		"focused on high fire damage output"
+		"Fire school signature spells:"
+		"• Fireball — Launches a burning fireball"
+		"• Blaze Storm — Area persistent burning"
+		"• Fire Wave — Fan-shaped flame blast"
+		"Master the flames and incinerate all enemies!"
+	]
+	quest.0000000009000015.quest_subtitle: "Fire, Explosions  Destruction"
+	quest.0000000009000015.title: "Fire School"
+	quest.0000000009000016.quest_desc: [
+		"Fire Runes contain the energy of flames"
+		"and are the core material for Fire School spell books"
+		"On the Arcane 铁砧"
+		"inscribe Blank Runes with fire-related materials"
+		"to obtain Fire Runes"
+		"A sufficient stockpile of Fire Runes"
+		"is the prerequisite for in-depth fire magic study"
+	]
+	quest.0000000009000016.quest_subtitle: "Fire School Inscription"
+	quest.0000000009000016.title: "Fire Runes"
+	quest.0000000009000017.quest_desc: [
+		"The Fire Affinity Ring is an important accessory for fire mages"
+		"Wearing it resonates with the power of fire"
+		"Effects:"
+		"• 降低 fire spell mana cost"
+		"• 增加 fire spell damage output"
+		"Followers of the flame"
+		"wear this scorching power upon your finger!"
+	]
+	quest.0000000009000017.quest_subtitle: "Proof of Fire Affinity"
+	quest.0000000009000017.title: "Fire Affinity Ring"
+	quest.0000000009000018.quest_desc: [
+		"Infernal Sorcerer 护甲 and Paladin 护甲"
+		"are the battle gear for Fire School mages"
+		"Infernal Sorcerer 胸甲 — Focused on fire damage bonus"
+		"Paladin 胸甲 — Focused on fire spell defense"
+		"Choose based on your combat style"
+		"and pick the right fire armor for you!"
+	]
+	quest.0000000009000018.quest_subtitle: "Fire School Battle Robes"
+	quest.0000000009000018.title: "Infernal 护甲"
+	quest.0000000009000019.quest_desc: [
+		"The Pyrium Staff is the Fire Schools exclusive weapon"
+		"forged from nether materials and Arcane Ingots"
+		"Wielding the Pyrium Staff"
+		"greatly amplifies the power of fire spells"
+		"Turning every fireball you cast"
+		"into a meteor of destruction!"
+	]
+	quest.0000000009000019.quest_subtitle: "Fire Mages Staff"
+	quest.0000000009000019.title: "Fire 武器"
+	quest.0000000009000020.quest_desc: [
+		"Ice School — The art of freezing, slowing, and controlling"
+		"The Ice 法术 书 is the Ice Schools exclusive spell book"
+		"specializing in battlefield control and restricting enemy movement"
+		"Ice school signature spells:"
+		"• Ice Shard — Fan-shaped ice spike scatter"
+		"• Frost Nova — Area frost explosion"
+		"• Ice Wall — Creates an ice wall barrier"
+		"Freeze everything and dominate the battlefield!"
+	]
+	quest.0000000009000020.quest_subtitle: "Freeze, Slow  Control"
+	quest.0000000009000020.title: "Ice School"
+	quest.0000000009000021.quest_desc: [
+		"Ice Runes contain the energy of frost"
+		"and are the core material for Ice School spell books"
+		"On the Arcane 铁砧"
+		"inscribe Blank Runes with frost-related materials"
+		"to obtain Ice Runes"
+		"每个 Ice Rune"
+		"radiates bone-chilling cold"
+	]
+	quest.0000000009000021.quest_subtitle: "Frost School Inscription"
+	quest.0000000009000021.title: "Ice Runes"
+	quest.0000000009000022.quest_desc: [
+		"The Frost Affinity Ring is an important accessory for ice mages"
+		"Wearing it resonates with the power of ice and snow"
+		"Effects:"
+		"• 降低 ice spell mana cost"
+		"• Enhances slow and freeze effects"
+		"Masters of frost"
+		"wear this wintry power upon your finger!"
+	]
+	quest.0000000009000022.quest_subtitle: "Proof of Frost Affinity"
+	quest.0000000009000022.title: "Ice Affinity Ring"
+	quest.0000000009000023.quest_desc: [
+		"Cryomancer 护甲 is the Ice Schools full combat set"
+		"including 头盔, 胸甲, 护腿, and 靴子"
+		"Full set bonuses:"
+		"• Greatly increases ice spell damage"
+		"• 增加 frost resistance"
+		"• Immunity to freeze effects"
+		"Collect all four pieces"
+		"and become the immortal Frost King!"
+	]
+	quest.0000000009000023.quest_subtitle: "Ice School Full Set"
+	quest.0000000009000023.title: "Cryomancer 护甲"
+	quest.0000000009000024.quest_desc: [
+		"The Ice Staff is the Ice Schools exclusive weapon"
+		"forged from ice crystal materials and Arcane Ingots"
+		"Wielding the Ice Staff"
+		"grants bonus effects to all ice spells"
+		"Swing it to summon winter blizzards"
+		"and freeze enemies in eternal ice!"
+	]
+	quest.0000000009000024.quest_subtitle: "Frost Mages Staff"
+	quest.0000000009000024.title: "Ice 武器"
+	quest.0000000009000025.quest_desc: [
+		"Lightning School — The embodiment of lightning, chaining, and speed"
+		"The 铜 法术 书 is the Lightning Schools exclusive spell book"
+		"known for high speed and chain attacks"
+		"Lightning school signature spells:"
+		"• Lightning Bolt — Single-target piercing shock"
+		"• 锁链 Lightning — Bouncing chain attack"
+		"• Thunder Strike — Summons a lightning strike from above"
+		"Command the storm and crush enemies with overwhelming force!"
+	]
+	quest.0000000009000025.quest_subtitle: "Lightning, 锁链  速度"
+	quest.0000000009000025.title: "Lightning School"
+	quest.0000000009000026.quest_desc: [
+		"Lightning Runes contain the energy of lightning"
+		"and are the core material for Lightning School spell books"
+		"On the Arcane 铁砧"
+		"inscribe Blank Runes with lightning-related materials"
+		"to obtain Lightning Runes"
+		"每个 rune crackles and sparks"
+		"radiating a dazzling glow!"
+	]
+	quest.0000000009000026.quest_subtitle: "Lightning School Inscription"
+	quest.0000000009000026.title: "Lightning Runes"
+	quest.0000000009000027.quest_desc: [
+		"The Lightning Affinity Ring is an important accessory for lightning mages"
+		"Wearing it resonates with the power of lightning"
+		"Effects:"
+		"• 降低 lightning spell mana cost"
+		"• 增加 lightning spell chain range"
+		"Masters of thunder"
+		"wear this electrifying power upon your finger!"
+	]
+	quest.0000000009000027.quest_subtitle: "Proof of Lightning Affinity"
+	quest.0000000009000027.title: "Lightning Affinity Ring"
+	quest.0000000009000028.quest_desc: [
+		"Electromancer 护甲 is the Lightning Schools full combat set"
+		"including 头盔, 胸甲, 护腿, and 靴子"
+		"Full set bonuses:"
+		"• Greatly increases lightning spell damage"
+		"• 增加 lightning resistance"
+		"• 增加 movement speed"
+		"Collect all four pieces"
+		"and become the eye of the storm — unstoppable!"
+	]
+	quest.0000000009000028.quest_subtitle: "Lightning School Full Set"
+	quest.0000000009000028.title: "Electromancer 护甲"
+	quest.0000000009000029.quest_desc: [
+		"The Graybeard Staff is the Lightning Schools exclusive weapon"
+		"forged from thunder materials and Arcane Ingots"
+		"Wielding the Graybeard Staff"
+		"lightning spells gain devastating amplification"
+		"Swing it to call down thunder from the heavens"
+		"and make enemies feel the fear of divine punishment!"
+	]
+	quest.0000000009000029.quest_subtitle: "Thunder Mages Staff"
+	quest.0000000009000029.title: "Lightning 武器"
+	quest.0000000009000030.quest_desc: [
+		"Holy School — The blessing of healing, purity, and protection"
+		"The Evoker 法术 书 is the Holy Schools exclusive spell book"
+		"focused on healing, buffs, and protection"
+		"Holy school signature spells:"
+		"• Heal — 恢复 health"
+		"• Cleanse — Removes negative effects"
+		"• Holy 盾牌 — 伤害-absorbing barrier"
+		"• Mass Heal — Area healing aura"
+		"Protected by holy light, shining the dawn of hope!"
+	]
+	quest.0000000009000030.quest_subtitle: "Healing, Purity  Protection"
+	quest.0000000009000030.title: "Holy School"
+	quest.0000000009000031.quest_desc: [
+		"Holy Runes contain sacred energy"
+		"and are the core material for Holy School spell books"
+		"On the Arcane 铁砧"
+		"inscribe Blank Runes with holy-related materials"
+		"to obtain Holy Runes"
+		"These runes emit a warm golden glow"
+		"as if conveying heavenly blessings"
+	]
+	quest.0000000009000031.quest_subtitle: "Holy School Inscription"
+	quest.0000000009000031.title: "Holy Runes"
+	quest.0000000009000032.quest_desc: [
+		"The Holy Affinity Ring is an important accessory for holy mages"
+		"Wearing it resonates with the power of the divine"
+		"Effects:"
+		"• 降低 holy spell mana cost"
+		"• Enhances healing effects and shield values"
+		"Followers of the holy light"
+		"wear this blessed power upon your finger!"
+	]
+	quest.0000000009000032.quest_subtitle: "Proof of Holy Affinity"
+	quest.0000000009000032.title: "Holy Affinity Ring"
+	quest.0000000009000033.quest_desc: [
+		"Archevoker 护甲 is the Holy Schools full combat set"
+		"including 头盔, 胸甲, 护腿, and 靴子"
+		"Full set bonuses:"
+		"• Greatly increases holy spell healing"
+		"• 增加 maximum health"
+		"• Auto slow health regeneration"
+		"Collect all four pieces"
+		"and become a walking holy totem!"
+	]
+	quest.0000000009000033.quest_subtitle: "Holy School Full Set"
+	quest.0000000009000033.title: "Archevoker 护甲"
+	quest.0000000009000034.quest_desc: [
+		"The Amethyst Rapier is the Holy Schools exclusive weapon"
+		"forged from amethyst and Arcane Ingots"
+		"Wielding the Amethyst Rapier"
+		"perfectly combines holy spells with melee attacks"
+		"Swing your blade in the name of the divine"
+		"vanquish evil and defend justice!"
+	]
+	quest.0000000009000034.quest_subtitle: "Holy Mages Rapier"
+	quest.0000000009000034.title: "Holy 武器"
+	quest.0000000009000035.quest_desc: [
+		"Blood School — The dark art of life drain, curses, and sacrifice"
+		"The Dragonskin 法术 书 is the Blood Schools exclusive spell book"
+		"specializing in life drain and curses"
+		"Blood school signature spells:"
+		"• Life Drain — Drains target life"
+		"• Blood Curse — Weakens enemy attributes"
+		"• Blood Burst — Area bloody explosion"
+		"• Blood 盾牌 — Consumes blood for a barrier"
+		"Blood for blood — the way to survive in darkness!"
+	]
+	quest.0000000009000035.quest_subtitle: "Life Drain, Curse  Sacrifice"
+	quest.0000000009000035.title: "Blood School"
+	quest.0000000009000036.quest_desc: [
+		"Blood Runes contain the energy of life"
+		"and are the core material for Blood School spell books"
+		"On the Arcane 铁砧"
+		"inscribe Blank Runes with blood-related materials"
+		"to obtain Blood Runes"
+		"These runes gleam with a dark crimson sheen"
+		"as if whispering forbidden secrets"
+	]
+	quest.0000000009000036.quest_subtitle: "Blood School Inscription"
+	quest.0000000009000036.title: "Blood Runes"
+	quest.0000000009000037.quest_desc: [
+		"The Blood Affinity Ring is an important accessory for blood mages"
+		"Wearing it resonates with the power of blood"
+		"Effects:"
+		"• 降低 blood spell mana cost"
+		"• Enhances life drain healing ratio"
+		"Masters of blood"
+		"wear this dark crimson power upon your finger!"
+	]
+	quest.0000000009000037.quest_subtitle: "Proof of Blood Affinity"
+	quest.0000000009000037.title: "Blood Affinity Ring"
+	quest.0000000009000038.quest_desc: [
+		"Cultist 护甲 is the Blood Schools full combat set"
+		"including 头盔, 胸甲, 护腿, and 靴子"
+		"Full set bonuses:"
+		"• Greatly increases life drain effect"
+		"• Killing enemies restores health"
+		"• 增加 blood spell damage"
+		"Collect all four pieces"
+		"nourish your own power with the blood of enemies!"
+	]
+	quest.0000000009000038.quest_subtitle: "Blood School Full Set"
+	quest.0000000009000038.title: "Cultist 护甲"
+	quest.0000000009000039.quest_desc: [
+		"The Blood Staff is the Blood Schools exclusive weapon"
+		"forged from blood materials and Arcane Ingots"
+		"Wielding the Blood Staff"
+		"each spell hit drains life from the target"
+		"With the scepter of blood in hand"
+		"the life of your enemies is your fuel!"
+	]
+	quest.0000000009000039.quest_subtitle: "Blood Mages Staff"
+	quest.0000000009000039.title: "Blood 武器"
+	quest.0000000009000040.quest_desc: [
+		"Nature School — The harmony of thorns, poison, and summons"
+		"The Druidic 法术 书 is the Nature Schools exclusive spell book"
+		"connected to natures power, summoning flora to aid you"
+		"Nature school signature spells:"
+		"• Thorns — 伤害 reflection aura"
+		"• Poison Ivy — Entangles and poisons enemies"
+		"• Natures Boon — Slow persistent regeneration"
+		"• Summon Wolves — Calls wolves to fight alongside you"
+		"Listen to nature — every plant is your power!"
+	]
+	quest.0000000009000040.quest_subtitle: "Thorns, Poison  Summons"
+	quest.0000000009000040.title: "Nature School"
+	quest.0000000009000041.quest_desc: [
+		"Nature Runes contain the energy of the earth"
+		"and are the core material for Nature School spell books"
+		"On the Arcane 铁砧"
+		"inscribe Blank Runes with nature-related materials"
+		"to obtain Nature Runes"
+		"These runes radiate emerald-green vitality"
+		"as if 你可以 hear the forest breathing"
+	]
+	quest.0000000009000041.quest_subtitle: "Nature School Inscription"
+	quest.0000000009000041.title: "Nature Runes"
+	quest.0000000009000042.quest_desc: [
+		"The Nature Affinity Ring is an important accessory for nature mages"
+		"Wearing it resonates with the power of nature"
+		"Effects:"
+		"• 降低 nature spell mana cost"
+		"• Extends summoned creature duration"
+		"Guardians of nature"
+		"wear this forests power upon your finger!"
+	]
+	quest.0000000009000042.quest_subtitle: "Proof of Nature Affinity"
+	quest.0000000009000042.title: "Nature Affinity Ring"
+	quest.0000000009000043.quest_desc: [
+		"Plagued 护甲 is the Nature Schools combat set"
+		"including 头盔, 胸甲, and 靴子"
+		"Set bonuses:"
+		"• Melee attacks inflict poison"
+		"• 增加 poison spell damage"
+		"• 降低 nature spell cost"
+		"Put on Plagued 护甲"
+		"and make toxins your sharpest weapon!"
+	]
+	quest.0000000009000043.quest_subtitle: "Nature School Battle Set"
+	quest.0000000009000043.title: "Plagued 护甲"
+	quest.0000000009000044.quest_desc: [
+		"The Decrepit Scythe is the Nature Schools basic weapon"
+		"forged from natural materials and Arcane Ingots"
+		"Wielding the Decrepit Scythe"
+		"the powers of death and life intertwine on its blade"
+		"Swing the scythe to reap everything"
+		"at the cost of death, awaken new life!"
+	]
+	quest.0000000009000044.quest_subtitle: "Nature Mages Scythe"
+	quest.0000000009000044.title: "Nature 武器"
+	quest.0000000009000045.quest_desc: [
+		"Collect all six school spell books"
+		"proving 你已经 mastered all magical schools"
+		"Submit the following six spell books:"
+		"• Blaze 法术 书 — Fire School"
+		"• Ice 法术 书 — Ice School"
+		"• 铜 法术 书 — Lightning School"
+		"• Evoker 法术 书 — Holy School"
+		"• Dragonskin 法术 书 — Blood School"
+		"• Druidic 法术 书 — Nature School"
+		"只有 those who have mastered all schools"
+		"are worthy of forging even more powerful advanced spell books!"
+	]
+	quest.0000000009000045.quest_subtitle: "Master of Six Schools"
+	quest.0000000009000045.title: "School Master"
+	quest.0000000009000046.quest_desc: [
+		"The 金 法术 书 is an upgraded version of the 铁 法术 书"
+		"featuring 8 spell slots"
+		"2 more slots than the 铁 法术 书"
+		"allowing more spell combinations to be equipped"
+		"Craft on the Arcane 铁砧"
+		"requires 金 Ingots and Arcane Runes"
+		"更多 slots mean more spell choices"
+		"flexibly switch to handle any situation in combat!"
+	]
+	quest.0000000009000046.quest_subtitle: "8 法术 栏位"
+	quest.0000000009000046.title: "金 法术 书"
+	quest.0000000009000047.quest_desc: [
+		"法术 栏位 Upgrade items increase spell book slot count"
+		"allowing your spell book to hold more spells"
+		"每个 use of an upgrade"
+		"adds extra slots to your spell book"
+		"Ample slots let 你已经"
+		"more tactical options in combat"
+	]
+	quest.0000000009000047.quest_subtitle: "Expand 法术 Capacity"
+	quest.0000000009000047.title: "法术 栏位 Upgrade"
+	quest.0000000009000048.quest_desc: [
+		"The 钻石 法术 书 is the pinnacle of mid-tier spell books"
+		"featuring 10 spell slots"
+		"enabling simultaneous use of multiple school spells"
+		"for cross-school combos"
+		"Craft on the Arcane 铁砧"
+		"requires Diamonds and a 金 法术 书 as the base"
+		"10 slots truly make you"
+		"a battlemage versed in many schools!"
+	]
+	quest.0000000009000048.quest_subtitle: "10 法术 栏位"
+	quest.0000000009000048.title: "钻石 法术 书"
+	quest.0000000009000049.quest_desc: [
+		"The 下界合金 法术 书 is the apex of standard spell books"
+		"featuring 12 spell slots"
+		"Among non-legendary spell books"
+		"it has the most slots and largest mana capacity"
+		"Craft on the Arcane 铁砧"
+		"requires 下界合金 Ingots and a 钻石 法术 书"
+		"12 slots let you freely"
+		"wield the full power of all six schools!"
+	]
+	quest.0000000009000049.quest_subtitle: "12 法术 栏位"
+	quest.0000000009000049.title: "下界合金 法术 书"
+	quest.0000000009000050.quest_desc: [
+		"下界合金 Mage 护甲 is ISBs strongest magical armor set"
+		"including 头盔, 胸甲, 护腿, and 靴子"
+		"Full set bonuses:"
+		"• Greatly increases all school spell damage"
+		"• Extremely high magic resistance"
+		"• 增加 max mana and regeneration speed"
+		"Put on this legendary set"
+		"and 你是 a walking magical fortress!"
+	]
+	quest.0000000009000050.quest_subtitle: "Ultimate Magic Combat Set"
+	quest.0000000009000050.title: "下界合金 Mage 护甲"
+	quest.0000000009000051.quest_desc: [
+		"The Necronomicon is ISBs most powerful legendary spell book"
+		"containing ancient and forbidden magical knowledge"
+		"这是 the ultimate tome hidden behind all schools"
+		"with mana capacity far exceeding standard spell books"
+		"需要 extremely rare materials 合成"
+		"including Nether Stars, Dragons Breath, and other legendary components"
+		"Legend says only the most powerful mages"
+		"can control the power of the Necronomicon"
+		"Now, this power belongs to you!"
+	]
+	quest.0000000009000051.quest_subtitle: "Legendary Forbidden Tome"
+	quest.0000000009000051.title: "Necronomicon"
+	quest.0000000009000052.quest_desc: [
+		"Collect the three rare school affinity rings"
+		"to fully experience all known magical schools"
+		"• Ender Affinity Ring — Space  Teleportation"
+		"• Evoker Affinity Ring — Summons  Commands"
+		"• Cultist Ring — Forbidden  Curses"
+		"These rare rings expand"
+		"the magical domains beyond the six primary schools"
+	]
+	quest.0000000009000052.quest_subtitle: "Three Arcane Affinity Rings"
+	quest.0000000009000052.title: "Rare Rings"
+	quest.0000000009000053.quest_desc: [
+		"Cinderous Soul Runes are special soul-based runes"
+		"containing soul energy tempered by flames"
+		"These runes are used to inscribe"
+		"the most forbidden and powerful spells"
+		"Souls are the ultimate fuel for magic"
+		"at the cost of souls, gain supreme power!"
+	]
+	quest.0000000009000053.quest_subtitle: "Cinderous Soul Power"
+	quest.0000000009000053.title: "Soul Runes"
+	quest.0000000009000054.quest_desc: [
+		"The Auto-loading 弩 is a special ranged weapon in ISB"
+		"cleverly combining magic and machinery"
+		"功能:"
+		"• Auto-loading — no manual cocking needed"
+		"• Can fire magical arrows"
+		"• Compatible with various enchantment enhancements"
+		"A perfect fusion of technology and magic"
+		"silently harvesting enemies from afar!"
+	]
+	quest.0000000009000054.quest_subtitle: "Auto-loading 弩"
+	quest.0000000009000054.title: "弩 Mage"
+	quest.0000000009000055.quest_desc: [
+		"Ender Runes and Evocation Runes are advanced school runes"
+		"representing the magical powers of space and summoning"
+		"Ender Rune — Spatial teleportation and blink spells"
+		"Evocation Rune — Summoning and command spells"
+		"Master these high-tier runes"
+		"and the boundaries of space, time, and life will blur for you!"
+	]
+	quest.0000000009000055.quest_subtitle: "Space  Evocation Inscription"
+	quest.0000000009000055.title: "Ender Runes"
+	quest.0000000009000056.quest_desc: [
+		"A true mage is not merely one who casts spells"
+		"but one who deeply understands magical materials"
+		"Collect large quantities of basic magical materials:"
+		"• Arcane Ingots x64 — Foundation of magical metal"
+		"• Arcane Runes x64 — 法术 book core"
+		"• Arcane Essence x64 — Source of magical energy"
+		"With ample magical material reserves"
+		"你可以 freely forge and experiment with magic"
+	]
+	quest.0000000009000056.quest_subtitle: "Magic Material Master"
+	quest.0000000009000056.title: "法术 Mastery"
+	quest.0000000009000057.quest_desc: [
+		"Collect and mass-produce affinity rings"
+		"to become a true accessory expert"
+		"需要 submissions:"
+		"• Basic Affinity Rings x8"
+		"• Six school affinity rings x2 each"
+		"Rings are a mages most important accessories"
+		"Mix different rings for magical enhancement combos!"
+	]
+	quest.0000000009000057.quest_subtitle: "Full Affinity Ring Collection"
+	quest.0000000009000057.title: "Accessory Expert"
+	quest.0000000009000058.quest_desc: [
+		"Proof of pushing your magical path to its peak"
+		"Showcase your most precious magical collection"
+		"Collection requirements:"
+		"• Necronomicon — Proof of Legend"
+		"• 下界合金 法术 书 — Proof of Peak"
+		"• Legendary Ink x4 — Ultimate inscription ink"
+		"• Arcane Ingots x64 — Proof of boundless resources"
+		"All of this gathered in one place"
+		"你是 a true legendary collector!"
+	]
+	quest.0000000009000058.quest_subtitle: "Ultimate Magic Collector"
+	quest.0000000009000058.title: "Legendary Collection"
+	quest.0000000009000059.quest_desc: [
+		"Runes are the bridge connecting school powers to spell books"
+		"Collect large quantities of all six school runes"
+		"Submit 32 of each school rune:"
+		"• Fire Runes — Power of Flame"
+		"• Ice Runes — Power of Frost"
+		"• Lightning Runes — Power of Lightning"
+		"• Holy Runes — Power of the Divine"
+		"• Blood Runes — Power of Life"
+		"• Nature Runes — Power of the Earth"
+		"With runes in hand, all magic is yours to command!"
+	]
+	quest.0000000009000059.quest_subtitle: "Six Schools Rune Mastery"
+	quest.0000000009000059.title: "Rune Master"
+	quest.0000000009000060.quest_desc: [
+		"恭喜! You have become a Magic Conqueror!"
+		"You have mastered:"
+		"• Arcane Basics — From debris to Arcane Ingots"
+		"• Arcane 铁砧  Alchemist 炼药锅 — Magical Workshop"
+		"• Six Schools — Fire/Ice/Lightning/Holy/Blood/Nature"
+		"• School Books — All six school spell books"
+		"• 法术 书 Upgrades — 金 > 钻石 > 下界合金"
+		"• Necronomicon — Legendary forbidden spell tome"
+		"• Full 护甲 Sets — Six school exclusive battle armor"
+		"• Full Ring Collection — Magical accessory master"
+		"• Full Rune Mastery — All six school runes"
+		"• Material Master — Vast magical resource reserves"
+		"From Arcane Apprentice to Magic Conqueror"
+		"You are AKINOs most powerful Magic Conqueror!"
+	]
+	quest.0000000009000060.quest_subtitle: "ISB 章节 Final Completion"
+	quest.0000000009000060.title: "Graduation: Magic Conqueror"
+	quest.0000000010000001.quest_desc: [
+		"Gather glowstone in the dark depths of the Nether"
+		"Build a portal to the 天境 using glowstone"
+		"Within the radiance, the world above the clouds awaits you"
+		"步骤 through this gate and begin your 天境 journey"
+	]
+	quest.0000000010000001.quest_subtitle: "Sky Gate"
+	quest.0000000010000001.title: "Sky Gate"
+	quest.0000000010000002.quest_desc: [
+		"Cross the glowstone portal to enter the 天境"
+		"Collect 天境 Grass as your foothold"
+		"Observe the unique terrain and creatures around you"
+		"Above the sky, anything is possible"
+	]
+	quest.0000000010000002.quest_subtitle: "Enter the 天境"
+	quest.0000000010000002.title: "Enter the 天境"
+	quest.0000000010000003.quest_desc: [
+		"The 天境 has different survival rules than the overworld"
+		"Collect 天境 Dirt and 天境 Grass as basics"
+		"Learn the 天境's unique fall mechanics"
+		"Stand firm on your feet to travel further"
+	]
+	quest.0000000010000003.quest_subtitle: "天境 生存"
+	quest.0000000010000003.title: "天境 生存"
+	quest.0000000010000004.quest_desc: [
+		"The 天境's most basic wood — Skyroot"
+		"Chop Skyroot Logs and collect saplings"
+		"Skyroot wood is the starting point of 天境 survival"
+		"All construction begins with this log"
+	]
+	quest.0000000010000004.quest_subtitle: "Skyroot Logs"
+	quest.0000000010000004.title: "Skyroot Logs"
+	quest.0000000010000005.quest_desc: [
+		"Craft basic tools using Skyroot wood"
+		"Your most reliable companion in the early 天境"
+		"镐, axe, shovel, sword — a complete set"
+		"Well-equipped, ready to travel in all directions"
+	]
+	quest.0000000010000005.quest_subtitle: "Skyroot 工具"
+	quest.0000000010000005.title: "Skyroot 工具"
+	quest.0000000010000006.quest_desc: [
+		"Process Skyroot logs into building materials"
+		"木板, stairs, slabs — all available"
+		"Build your first base in the 天境"
+		"Skyroot builds are beautiful and practical"
+	]
+	quest.0000000010000006.quest_subtitle: "Skyroot 建造"
+	quest.0000000010000006.title: "Skyroot 建造"
+	quest.0000000010000007.quest_desc: [
+		"Add doors and fences to your 天境 home"
+		"Doors for protection, fences for Moa ranching"
+		"The complete Skyroot home series"
+		"Safety first — build your 天境 cottage"
+	]
+	quest.0000000010000007.quest_subtitle: "Skyroot Doors"
+	quest.0000000010000007.title: "Skyroot Doors"
+	quest.0000000010000008.quest_desc: [
+		"Sail across 天境 lakes and cloud tops"
+		"Skyroot Boat and 箱子 Boat"
+		"Light and durable, essential for floating island exploration"
+		"Ride the wind and waves across 天境 waters"
+	]
+	quest.0000000010000008.title: "Skyroot Boat"
+	quest.0000000010000009.quest_desc: [
+		"Skyroot 桶, the 天境's unique container"
+		"Used to carry water and transport aquatic creatures"
+		"Can also collect the 天境's unique poison"
+		"A small bucket with great utility"
+	]
+	quest.0000000010000009.title: "Skyroot 桶"
+	quest.0000000010000010.quest_desc: [
+		"Settling in the 天境? Of course 你需要 a bed"
+		"Skyroot Bed and Bookshelf accompany your nights"
+		"Setting a spawn point in the 天境 is crucial"
+		"Rest well and prepare for greater challenges"
+	]
+	quest.0000000010000010.title: "Skyroot Bed"
+	quest.0000000010000011.quest_desc: [
+		"The 天境's unique aercloud blocks"
+		"Cold aerclouds slow you down, golden aerclouds speed you up"
+		"Blue aerclouds let you bounce — each with its own use"
+		"Collect all three aerclouds and master 天境 mobility"
+	]
+	quest.0000000010000011.quest_subtitle: "Aerclouds"
+	quest.0000000010000011.title: "Aerclouds"
+	quest.0000000010000012.quest_desc: [
+		"The 天境's most abundant stone — Holystone"
+		"Ancient stones scattered across 天境 island massifs"
+		"A more durable material than Skyroot"
+		"Holystone — opens the second phase of the 天境"
+	]
+	quest.0000000010000012.quest_subtitle: "Holystone Era"
+	quest.0000000010000012.title: "Holystone Era"
+	quest.0000000010000013.quest_desc: [
+		"Process Holystone into refined building blocks"
+		"Holystone Bricks, Holystone Brick Stairs, and Slabs"
+		"The perfect material for second-phase 天境 building"
+		"Construct a Holystone castle atop the clouds"
+	]
+	quest.0000000010000013.quest_subtitle: "Holystone 建造"
+	quest.0000000010000013.title: "Holystone 建造"
+	quest.0000000010000014.quest_desc: [
+		"Collect more Holystone building blocks"
+		"Holystone Stairs, Slabs, and Walls"
+		"Perfect your 天境 architectural style"
+		"每个 brick and tile carries Holystone's elegance"
+	]
+	quest.0000000010000014.quest_subtitle: "Holystone Set"
+	quest.0000000010000014.title: "Holystone Set"
+	quest.0000000010000015.quest_desc: [
+		"Mossy Holystone weathered by ages"
+		"Mossy Holystone and Mossy Holystone Stairs — ancient and natural"
+		"Find them in the ancient 天境 ruins"
+		"每个 mossy stone tells a story of the distant past"
+	]
+	quest.0000000010000015.quest_subtitle: "Mossy Holystone"
+	quest.0000000010000015.title: "Mossy Holystone"
+	quest.0000000010000016.quest_desc: [
+		"The 天境's unique magical ore — Ambrosium"
+		"Mine the ore to obtain Ambrosium Shards"
+		"Use shards 合成 Ambrosium Torches"
+		"The 天境's most basic energy source"
+	]
+	quest.0000000010000016.title: "Ambrosium Ore"
+	quest.0000000010000017.quest_desc: [
+		"最 important mid-game mineral — Zanite"
+		"Zanite ore spreads throughout the 天境 underground"
+		"Zanite gets stronger the more you use it — a unique trait"
+		"The hallmark of advancing to the mid-tier 天境"
+	]
+	quest.0000000010000017.quest_subtitle: "Zanite Era"
+	quest.0000000010000017.title: "Zanite Era"
+	quest.0000000010000018.quest_desc: [
+		"Forge powerful tools with Zanite"
+		"Zanite tools get faster as durability decreases"
+		"Unique trait makes combat and gathering more exciting"
+		"Zanite in hand, the world is yours"
+	]
+	quest.0000000010000018.quest_subtitle: "Zanite 工具"
+	quest.0000000010000018.title: "Zanite 工具"
+	quest.0000000010000019.quest_desc: [
+		"Craft Zanite Blocks from Zanite gemstones"
+		"Store your Zanite wealth"
+		"Zanite Blocks can be used for decoration or beacon bases"
+		"Stack them high to display your power"
+	]
+	quest.0000000010000019.title: "Zanite Block"
+	quest.0000000010000020.quest_desc: [
+		"Craft exquisite accessories with Zanite"
+		"Zanite Ring and Pendant provide unique buffs"
+		"The accessory system is a unique 天境 feature"
+		"Wear them and feel the power of Zanite"
+	]
+	quest.0000000010000020.quest_subtitle: "Zanite Accessories"
+	quest.0000000010000020.title: "Zanite Accessories"
+	quest.0000000010000021.quest_desc: [
+		"The 天境's unique delicious food"
+		"Blue Berries restore stamina, Enchanted Berries provide special effects"
+		"White Apples are the 天境's most precious fruit"
+		"Food accompanies the journey, energy replenished"
+	]
+	quest.0000000010000021.quest_subtitle: "天境 Food"
+	quest.0000000010000021.title: "天境 Food"
+	quest.0000000010000022.quest_desc: [
+		"Special sweets obtained from the 天境"
+		"Candy Canes and Gingerbread Men — cute and delicious"
+		"Special holiday-themed treats"
+		"Sweet in the mouth, warm in the heart"
+	]
+	quest.0000000010000022.quest_subtitle: "天境 Sweets"
+	quest.0000000010000022.title: "天境 Sweets"
+	quest.0000000010000023.quest_desc: [
+		"击败 the 天境's unique Swet slimes"
+		"Collect Swet Balls and Gummy Swets"
+		"Blue Gummy and Golden Gummy — each with their own use"
+		"Soft and sticky, but very useful"
+	]
+	quest.0000000010000023.quest_subtitle: "Swet  Gummy"
+	quest.0000000010000023.title: "Swet  Gummy"
+	quest.0000000010000024.quest_desc: [
+		"The 天境's most precious ore — Gravitite"
+		"Gravitite ore hides deep within the 天境 underground"
+		"A Zanite pickaxe is required to mine it"
+		"The power of levitation, beyond ordinary physics"
+	]
+	quest.0000000010000024.title: "Gravitite Ore"
+	quest.0000000010000025.quest_desc: [
+		"Forge top-tier tools with Gravitite"
+		"Gravitite tools can make blocks float in the air"
+		"右键点击 to levitate blocks in mid-air"
+		"Master gravity, reshape the 天境"
+	]
+	quest.0000000010000025.quest_subtitle: "Gravitite 工具"
+	quest.0000000010000025.title: "Gravitite 工具"
+	quest.0000000010000026.quest_desc: [
+		"Infuse Gravitite with stronger magical energy"
+		"Enchanted Gravitite is the 天境's ultimate material"
+		"Used 合成 various ultimate equipment"
+		"The perfect union of magic and gravity"
+	]
+	quest.0000000010000026.title: "Enchanted Gravitite"
+	quest.0000000010000027.quest_desc: [
+		"The 天境's three elemental weapons"
+		"Flaming 剑 burns all, Holy 剑 banishes evil"
+		"Lightning 剑 strikes enemies to summon lightning"
+		"Elemental power gathered at blade's edge"
+	]
+	quest.0000000010000027.quest_subtitle: "Special 武器"
+	quest.0000000010000027.title: "Special 武器"
+	quest.0000000010000028.quest_desc: [
+		"A collection of the 天境's rare weapons"
+		"Vampire Blade drains life to restore health"
+		"Pig Slayer — wield against the denizens of the Nether"
+		"每个 weapon has its own legendary tale"
+	]
+	quest.0000000010000028.quest_subtitle: "Advanced 武器"
+	quest.0000000010000028.title: "Advanced 武器"
+	quest.0000000010000029.quest_desc: [
+		"The essence of 天境 ranged weapons"
+		"Cloud Staff summons cloud blocks to walk on"
+		"Nature Staff heals oneself"
+		"Phoenix Bow shoots unquenchable arrows"
+	]
+	quest.0000000010000029.quest_subtitle: "Staves  Bow"
+	quest.0000000010000029.title: "Staves  Bow"
+	quest.0000000010000030.quest_desc: [
+		"The 天境's most legendary divine weapons"
+		"Hammer of Jeb — crushes enemies with the power of Notch"
+		"Valkyrie Lance — the signature weapon of the Valkyrie Queen"
+		"Obtain them and write your own legend"
+	]
+	quest.0000000010000030.quest_subtitle: "Legendary 武器"
+	quest.0000000010000030.title: "Legendary 武器"
+	quest.0000000010000031.quest_desc: [
+		"The great gates of 天境 dungeons open before you"
+		"Collect the Bronze, Silver, and 金 keys"
+		"每个 key corresponds to a different dungeon challenge"
+		"Three dungeons, three bosses, awaiting your challenge"
+	]
+	quest.0000000010000031.quest_subtitle: "Dungeon Entrance"
+	quest.0000000010000031.title: "Dungeon Entrance"
+	quest.0000000010000032.quest_desc: [
+		"挑战 the Slider Boss of the Bronze Dungeon"
+		"A giant sliding automaton guards the treasure"
+		"Collect the Bronze Key and open the treasure chest"
+		"The first test of wisdom and courage"
+	]
+	quest.0000000010000032.quest_subtitle: "Bronze Dungeon"
+	quest.0000000010000032.title: "Bronze Dungeon"
+	quest.0000000010000033.quest_desc: [
+		"挑战 the Valkyrie Queen of the Silver Dungeon"
+		"The valiant Valkyries guard the sacred temple"
+		"击败 her to obtain the Valkyrie Lance"
+		"The ultimate test of combat skill"
+	]
+	quest.0000000010000033.quest_subtitle: "Silver Dungeon"
+	quest.0000000010000033.title: "Silver Dungeon"
+	quest.0000000010000034.quest_desc: [
+		"挑战 the Sun God of the 金 Dungeon"
+		"The blazing spirit guards the golden temple"
+		"Find the Sun Altar and face the fury of the sun"
+		"The hardest fight among the three bosses"
+	]
+	quest.0000000010000034.quest_subtitle: "金 Dungeon"
+	quest.0000000010000034.title: "金 Dungeon"
+	quest.0000000010000035.quest_desc: [
+		"Collect the precious loot from all three dungeon bosses"
+		"Victory Medals witness your triumph"
+		"Presents and Enchanted Gravitite carried home in triumph"
+		"All three bosses have bowed to your might"
+	]
+	quest.0000000010000035.title: "Boss Loot"
+	quest.0000000010000036.quest_desc: [
+		"The 天境's unique flying mount — Moa"
+		"Collect Blue, White, and Black Moa Eggs"
+		"每个 Moa color has different abilities"
+		"Tame a Moa and soar through 天境 skies"
+	]
+	quest.0000000010000036.quest_subtitle: "Moa Hatching"
+	quest.0000000010000036.title: "Moa Hatching"
+	quest.0000000010000037.quest_desc: [
+		"Craft an Incubator to hatch Moa eggs"
+		"Golden Amber is the fuel for the Incubator"
+		"Wait patiently, new life is about to be born"
+		"Baby Moa, the 天境's most loyal companion"
+	]
+	quest.0000000010000037.title: "Incubator"
+	quest.0000000010000038.quest_desc: [
+		"Free-falling in the 天境 requires a parachute"
+		"Golden Parachute and Cold Parachute"
+		"Pair with Golden Feathers for slow falling"
+		"Land safely, fearless of the heights"
+	]
+	quest.0000000010000038.quest_subtitle: "Parachute 装备"
+	quest.0000000010000038.title: "Parachute 装备"
+	quest.0000000010000039.quest_desc: [
+		"The 天境's traditional ranged weapon — Darts"
+		"Golden Darts, Poison Darts, Enchanted Darts"
+		"Three dart shooters, each with their own strengths"
+		"每个 shot hits home, piercing from a hundred paces"
+	]
+	quest.0000000010000039.quest_subtitle: "Dart Set"
+	quest.0000000010000039.title: "Dart Set"
+	quest.0000000010000040.quest_desc: [
+		"The 天境's accessory system is rich and varied"
+		"Golden Ring, 铁 Ring, Ice Ring"
+		"Pendants also come in 铁 and Ice varieties"
+		"完成 accessories — like a tiger with wings"
+	]
+	quest.0000000010000040.quest_subtitle: "Accessory Collection"
+	quest.0000000010000040.title: "Accessory Collection"
+	quest.0000000010000041.quest_desc: [
+		"天境 capes are both cosmetic and functional"
+		"Agility Cape boosts movement speed"
+		"Swet Cape and Valkyrie Cape each have their own traits"
+		"Capes flowing — the 天境 is yours to soar"
+	]
+	quest.0000000010000041.quest_subtitle: "Cape Collection"
+	quest.0000000010000041.title: "Cape Collection"
+	quest.0000000010000042.quest_desc: [
+		"The 天境's unique special defensive equipment"
+		"盾牌 of Repulsion repels all who dare attack"
+		"Invisibility Cloak lets you move unseen in darkness"
+		"Regeneration 石头 and Healing 石头 keep you completely safe"
+	]
+	quest.0000000010000042.quest_subtitle: "Special 装备"
+	quest.0000000010000042.title: "Special 装备"
+	quest.0000000010000043.quest_desc: [
+		"Collect Life Shards to increase your maximum health"
+		"铁 Bubble provides underwater breathing"
+		"Search the depths of the 天境 for these rare items"
+		"Life force is the foundation of 天境 exploration"
+	]
+	quest.0000000010000043.quest_subtitle: "Life Shard"
+	quest.0000000010000043.title: "Life Shard"
+	quest.0000000010000044.quest_desc: [
+		"Collect all the 天境 music discs"
+		"Six discs recording the tales of the 天境"
+		"From 天境 Tune to Slider's Wrath"
+		"Music is the chanting of the 天境's soul"
+	]
+	quest.0000000010000044.quest_subtitle: "Music Discs"
+	quest.0000000010000044.title: "Music Discs"
+	quest.0000000010000045.quest_desc: [
+		"The 天境's rarest tree — Golden Oak"
+		"Collect Golden Oak Logs and saplings"
+		"Golden Oaks only grow on special 天境 floating islands"
+		"Golden leaves shimmering with radiance"
+	]
+	quest.0000000010000045.title: "Golden Oak"
+	quest.0000000010000046.quest_desc: [
+		"The 天境's beautiful crystal leaves"
+		"Crystal Leaves and Crystal Fruit Leaves"
+		"They grow in the mystical corners of the 天境"
+		"Crystal clear, breathtakingly beautiful"
+	]
+	quest.0000000010000046.title: "Crystal Leaves"
+	quest.0000000010000047.quest_desc: [
+		"The 天境's unique quicksoil and glass"
+		"Quicksoil makes those walking on it slide faster"
+		"Quicksoil Glass is a transparent speed floor"
+		"速度 and passion — race freely through the 天境"
+	]
+	quest.0000000010000047.quest_subtitle: "Quicksoil Glass"
+	quest.0000000010000047.title: "Quicksoil Glass"
+	quest.0000000010000048.quest_desc: [
+		"The ultimate proof of an 天境 Master"
+		"Gather massive quantities of rare 天境 resources"
+		"Gravitite Ore, Zanite, 天境 Grass, Presents"
+		"You are now truly an 天境 Master-grade figure"
+	]
+	quest.0000000010000048.quest_subtitle: "天境 Master"
+	quest.0000000010000048.title: "天境 Master"
+	quest.0000000010000049.quest_desc: [
+		"The ultimate goal of an 天境 Collector"
+		"Collect massive quantities of 天境 delicacies and goods"
+		"Blue Berries, Candy Canes, Gingerbread Men, Aechor Petals"
+		"每个 collected item is a precious memory of the 天境"
+	]
+	quest.0000000010000049.title: "天境 Collector"
+	quest.0000000010000050.quest_desc: [
+		"The final graduation mission of the 天境 journey"
+		"From the Sky Gate to the three dungeons"
+		"You have conquered the entire world above the clouds"
+		"天境 Overlord — the title speaks for itself"
+		"Thank you for your perseverance and courage"
+	]
+	quest.0000000010000050.title: "天境 Conqueror"
+	quest.0000000011000001.quest_desc: [
+		"欢迎来到 the Ultimate Boss Hunting chapter!"
+		"This chapter challenges the strongest bosses in this modpack."
+		"ISB Magic Bosses:"
+		"- Tyros - The Flame Demon King"
+		"- Dead King - Lord of the Undead"
+		"Boss工厂 (BFB):"
+		"- Sandworm - Desert Behemoth"
+		"- Yeti - Tundra Predator"
+		"- Great Dragon - Sky Overlord"
+		"- Knight - Castle Guardian"
+		"- Kraken - Deep Sea Terror"
+		"All quests require submitting boss drop trophies as proof."
+		"No cheating - only victory earns the spoils!"
+		"Prepare 32 Arcane Ingots and embark on your hunt!"
+	]
+	quest.0000000011000001.quest_subtitle: "ISB Magic Boss Hunt"
+	quest.0000000011000001.title: "Magic Hunt"
+	quest.0000000011000002.quest_desc: [
+		"Tyros - The Flame Demon King"
+		"Demon lord who commands hellfire."
+		"Boss traits:"
+		"- Immune to fire and lava damage"
+		"- Launches fireball barrages"
+		"- Summons Blaze minions to assist"
+		"- Extremely high HP; full enchanted gear recommended"
+		"Battle preparations:"
+		"- Fire 抗性 potion (ESSENTIAL!)"
+		"- Ranged weapons for aerial combat"
+		"- Fully enchanted 下界合金 gear"
+		"Trophy proof: 烈焰棒 x32 + 岩浆膏 x8"
+		"Prove 你已经 defeated the Flame Demon King!"
+	]
+	quest.0000000011000002.quest_subtitle: "Tyros the Flame Demon"
+	quest.0000000011000002.title: "Tyros Battle"
+	quest.0000000011000003.quest_desc: [
+		"Dead King - Lord of the Undead"
+		"The terrifying monarch who rules the realm of the dead."
+		"Boss traits:"
+		"- Summons undead legions to assist"
+		"- Wither aura continuously corrodes life"
+		"- Wither Skeleton royal guard protection"
+		"- Shadow magic area attacks"
+		"Battle preparations:"
+		"- Smite-enchanted weapons"
+		"- Plenty of milk to clear wither effects"
+		"- Golden apples for health regeneration"
+		"Trophy proof: Wither Skeleton Skull x3 + 骨头 Block x8"
+		"Prove 你已经 defeated the Lord of the Undead!"
+	]
+	quest.0000000011000003.quest_subtitle: "Dead King, Lord of Undead"
+	quest.0000000011000003.title: "Dead King Battle"
+	quest.0000000011000004.quest_desc: [
+		"After defeating Tyros and the Dead King,"
+		"你已经 earned the right to wield high-level magic."
+		"The Necronomicon is the most powerful shadow spellbook,"
+		"containing the ultimate power of the undead realm."
+		"只有 a mage who has conquered both flame and undeath"
+		"is worthy of mastering this tome."
+		"Submit the Necronomicon as proof of the dual-king conquest!"
+	]
+	quest.0000000011000004.quest_subtitle: "击败 both Kings for the Necronomicon"
+	quest.0000000011000004.title: "Necronomicon"
+	quest.0000000011000005.quest_desc: [
+		"You have defeated all ISB Magic bosses!"
+		"Achievement summary:"
+		"- Tyros - Flame Demon King (done)"
+		"- Dead King - Lord of the Undead (done)"
+		"- Necronomicon - Ultimate 法术 (done)"
+		"Now submit the final trophies"
+		"to prove 你已经 conquered the ISB Magic chapter!"
+		"需要: Nether Star x2 + Arcane Ingot x64"
+	]
+	quest.0000000011000005.quest_subtitle: "ISB Boss 完成 Hunt"
+	quest.0000000011000005.title: "Magic Boss Hunter"
+	quest.0000000011000006.quest_desc: [
+		"Boss工厂 (BFB)"
+		"are the second boss challenge group in this pack."
+		"Five bosses are scattered across the world:"
+		"- Sandworm - Deep in the desert"
+		"- Yeti - Snow-covered tundra"
+		"- Great Dragon - Towering mountain peaks"
+		"- Knight - Ancient castle ruins"
+		"- Kraken - Deep ocean caves"
+		"每个 boss has unique trophies."
+		"击败 them all to complete the ultimate conquest!"
+		"Ready your strongest gear!"
+		"Submit: 下界合金 剑 x1 + 不死图腾 x1"
+	]
+	quest.0000000011000006.quest_subtitle: "Boss工厂"
+	quest.0000000011000006.title: "Ultimate 挑战"
+	quest.0000000011000007.quest_desc: [
+		"Sandworm - A giant worm lurking beneath the desert."
+		"Boss traits:"
+		"- Lurks in sand, ambushes unexpectedly"
+		"- Burrows underground, hard to lock onto"
+		"- Swallows players for massive damage"
+		"- Summons zombies to assist"
+		"Combat tips:"
+		"- Fight on solid blocks (harder for the worm to burrow)"
+		"- Suppress with ranged bow attacks"
+		"- Watch for ground vibration warnings"
+		"Trophy proof: Sand x64 + Sandstone x64 + Rotten Flesh x32"
+	]
+	quest.0000000011000007.quest_subtitle: "Desert Behemoth"
+	quest.0000000011000007.title: "Sandworm"
+	quest.0000000011000008.quest_desc: [
+		"Yeti - The apex predator of the frozen tundra."
+		"Boss traits:"
+		"- Ice breath freezes players"
+		"- Frigid aura continuously slows"
+		"- Bite attacks deal piercing damage"
+		"- Summons ice shard area attacks"
+		"Battle preparations:"
+		"- 皮革 armor for cold protection"
+		"- 抗性 potions"
+		"- Keep moving to dodge ice shards"
+		"Trophy proof: Snow Block x32 + Packed Ice x32 + 骨头 x32"
+	]
+	quest.0000000011000008.quest_subtitle: "Tundra Predator"
+	quest.0000000011000008.title: "Yeti"
+	quest.0000000011000009.quest_desc: [
+		"Great Dragon - Sky overlord atop towering peaks."
+		"Boss traits:"
+		"- Agile and flexible flight patterns"
+		"- Dragon breath covers large areas"
+		"- Dive-bomb strikes are instantly lethal"
+		"- Dragon roar knocks back players"
+		"Battle preparations:"
+		"- 鞘翅 + Fireworks for aerial pursuit"
+		"- Powerful bow for ranged damage"
+		"- Dragon''s Breath potions as counters"
+		"- Burst melee when grounded"
+		"Trophy proof: Dragon''s Breath x8 + 龙头 x1 + 黑曜石 x64"
+	]
+	quest.0000000011000009.quest_subtitle: "Sky Overlord"
+	quest.0000000011000009.title: "Great Dragon"
+	quest.0000000011000010.quest_desc: [
+		"Knight - The immortal guardian of ancient castles."
+		"Boss traits:"
+		"- Heavy armor with extreme damage reduction"
+		"- 盾牌 blocks frontal attacks"
+		"- Charging impacts deal massive damage"
+		"- Summons 铁 Golem legions"
+		"Combat tips:"
+		"- Flank attack (knight''s shield makes front invulnerable)"
+		"- Axe to break shield (armor-piercing effect)"
+		"- Prioritize clearing 铁 Golem minions"
+		"Trophy proof: 下界合金 Ingot x4 + 盾牌 x4 + 铁 Block x16"
+	]
+	quest.0000000011000010.quest_subtitle: "Castle Guardian"
+	quest.0000000011000010.title: "Knight"
+	quest.0000000011000011.quest_desc: [
+		"Kraken - The terrifying leviathan of the deep ocean caves."
+		"Boss traits:"
+		"- Moves extremely fast underwater, relentless pursuit"
+		"- Tentacle attacks deal area damage"
+		"- Ink clouds blind players"
+		"- Whirlpool vortex drags players into the depths"
+		"Battle preparations:"
+		"- Depth Strider III enchanted boots"
+		"- Water Breathing + Night Vision potions"
+		"- 三叉戟 (Impaling V) for ranged advantage"
+		"- Turtle Shell helmet for extended underwater time"
+		"Trophy proof: Heart of the Sea x2 + Prismarine Shard x64 + Nautilus Shell x4"
+	]
+	quest.0000000011000011.quest_subtitle: "Deep Sea Terror"
+	quest.0000000011000011.title: "Kraken"
+	quest.0000000011000012.quest_desc: [
+		"You have defeated all 5 BFB bosses!"
+		"Hunt checklist:"
+		"- Sandworm - Desert Behemoth (done)"
+		"- Yeti - Tundra Predator (done)"
+		"- Great Dragon - Sky Overlord (done)"
+		"- Knight - Castle Guardian (done)"
+		"- Kraken - Deep Sea Terror (done)"
+		"All five bosses conquered!"
+		"Submit combined trophies as proof of victory."
+		"需要: Nether Star x5 + Dragon''s Breath x16 + Sand x64 + Snow Block x64 + Heart of the Sea x4"
+	]
+	quest.0000000011000012.quest_subtitle: "BFB 完成 Hunt"
+	quest.0000000011000012.title: "BFB Hunter"
+	quest.0000000011000013.quest_desc: [
+		"You have conquered all bosses in this modpack!"
+		"ISB Magic Boss record:"
+		"- Tyros - Flame Demon King (done)"
+		"- Dead King - Lord of the Undead (done)"
+		"- Necronomicon - Ultimate 法术 (done)"
+		"BFB Boss record:"
+		"- Sandworm + Yeti + Dragon + Knight + Kraken (done)"
+		"You are a true Boss Hunter!"
+		"Submit final proof:"
+		"Nether Star x8 + 龙头 x1 + 下界合金 Block x1"
+	]
+	quest.0000000011000013.quest_subtitle: "ISB + BFB 完成 Conquest"
+	quest.0000000011000013.title: "Boss Conqueror"
+	quest.0000000011000014.quest_desc: [
+		"恭喜! Boss Hunter Graduation!"
+		"You have defeated all ultimate bosses in this modpack."
+		"From the Flame Demon King''s inferno to the deep sea leviathan''s abyss,"
+		"from the desert worm''s sandstorms to the sky dragon''s firmament."
+		"You are fearless and unstoppable!"
+		"Your name shall be etched in the server''s history."
+		"You are a true Boss Hunter without equal!"
+		"Submit the final graduation proof:"
+		"Nether Star x10 + 信标 x1 + 龙头 x1"
+	]
+	quest.0000000011000014.quest_subtitle: "Ultimate Hunt 完成"
+	quest.0000000011000014.title: "Boss Hunter Graduation"
+	quest.0000000012000001.quest_desc: [
+		"欢迎来到 the RPG Progression and Maid System!"
+		"The 东方小女仆 mod adds"
+		"adorable maid companions to your adventure."
+		"Use cake to tame or summon maids."
+		"They will accompany you exploring the world, fighting enemies,"
+		"and can even manage farms and items for you."
+		"Prepare a cake and begin"
+		"your maid companion journey!"
+	]
+	quest.0000000012000001.quest_subtitle: "Maid Companion System"
+	quest.0000000012000001.title: "冒险 Companion"
+	quest.0000000012000002.quest_desc: [
+		"Maids are your most loyal adventure companions."
+		"How to obtain a maid:"
+		"- 右键点击 a maid with cake to tame her"
+		"- Tamed maids will follow you"
+		"- 右键点击 打开 the maid GUI for management"
+		"Maids spawn naturally in the world."
+		"Explore different biomes 找到"
+		"your perfect maid companion!"
+		"Submit 4 cakes as taming proof."
+	]
+	quest.0000000012000002.quest_subtitle: "Taming Your Maid"
+	quest.0000000012000002.title: "Maid Contract"
+	quest.0000000012000003.quest_desc: [
+		"Your maid can equip weapons and armor!"
+		"Open the maid GUI and place in equipment slots:"
+		"- 钻石 剑: 提升 maid''s melee attack power"
+		"- 钻石 胸甲: Enhances maid''s defense"
+		"- Bow: 授予 maid ranged attack capability"
+		"A well-equipped maid is your"
+		"reliable assistant in battle, especially against tough enemies."
+		"Prepare all three equipment items"
+		"to outfit your maid with a full combat set!"
+	]
+	quest.0000000012000003.quest_subtitle: "Maid 装备"
+	quest.0000000012000003.title: "Maid 装备"
+	quest.0000000012000004.quest_desc: [
+		"技能树 provides"
+		"a powerful skill tree system!"
+		"按下 K 打开 the skill tree interface."
+		"等级 up to earn skill points,"
+		"and invest points in the skill tree for passive bonuses:"
+		"- Combat Skills: Increase attack damage and speed"
+		"- 挖掘 Skills: Increase mining speed and fortune"
+		"- 生存 Skills: Increase health and armor"
+		"- Agility Skills: Increase movement speed and dodge"
+		"Bottles o'' 附魔 and enchanted books symbolize"
+		"your initial investment in the skill system."
+	]
+	quest.0000000012000004.quest_subtitle: "技能树 Introduction"
+	quest.0000000012000004.title: "技能 Tree"
+	quest.0000000012000005.quest_desc: [
+		"技能属性 and Curios"
+		"provide an equipment attribute bonus system for your character."
+		"Curio slots:"
+		"- Ring slot: Wear rings for attribute bonuses"
+		"- Necklace slot: Wear necklaces for special effects"
+		"- Belt slot: Wear belts for enhanced defense"
+		"- 也: bracelets, charms, and many more slots"
+		"Golden apples symbolize attribute enhancement."
+		"金 nuggets symbolize Curio accessories."
+		"Get ready to explore the world of attribute gear!"
+	]
+	quest.0000000012000005.quest_subtitle: "技能属性  Curios"
+	quest.0000000012000005.title: "属性 装备"
+	quest.0000000012000006.quest_desc: [
+		"It''s time to hone your combat skills!"
+		"Through the skill tree''s combat branch,"
+		"your character''s strength is improving."
+		"Now test your training in real combat!"
+		"击杀 targets:"
+		"- Skeletons x20: Practice ranged defense"
+		"- Zombies x20: Practice melee blocking"
+		"- Spiders x10: Practice agile positioning"
+		"Bring your maid to fight alongside you."
+		"Accumulate real combat experience and march toward combat mastery!"
+	]
+	quest.0000000012000006.quest_subtitle: "Combat Training"
+	quest.0000000012000006.title: "Combat Training"
+	quest.0000000012000007.quest_desc: [
+		"Maids are your most loyal combat partners."
+		"With a well-equipped maid by your side,"
+		"sweep through the nightly monster hordes together!"
+		"Collect these trophies as combat proof:"
+		"- Rotten Flesh x64: Proof of the zombie army"
+		"- Bones x64: Proof of the skeleton archers"
+		"- 线 x32: Proof of the spider nests"
+		"Fight alongside your maid, amass troves of loot,"
+		"and prove your unbeatable combat synergy!"
+	]
+	quest.0000000012000007.quest_subtitle: "Maid Combat"
+	quest.0000000012000007.title: "Maid Combat"
+	quest.0000000012000008.quest_desc: [
+		"You have completed skill training and combat testing."
+		"Now it''s time to prove your full RPG mastery!"
+		"Submit these items as master-level proof:"
+		"- 附魔金苹果: Ultimate combat recovery"
+		"- 不死图腾: Last resort for desperate survival"
+		"- 下界合金 Ingot x4: Symbol of top-tier equipment"
+		"这是 the milestone node for the first half of this chapter."
+		"Completing this quest proves 你已经 mastered RPG core gameplay."
+		"Continue downward to explore shrine and fairy secrets!"
+	]
+	quest.0000000012000008.quest_subtitle: "RPG 完成 Mastery"
+	quest.0000000012000008.title: "Full Power"
+	quest.0000000012000009.quest_desc: [
+		"In the 东方小女仆 mod,"
+		"shrines are important structures that provide P-Points (spirit power)."
+		"Use lanterns and glowstone to illuminate the shrine."
+		"The shrine''s gohei will provide you and your maid"
+		"with P-Point balance for special abilities."
+		"Collect these shrine lighting materials:"
+		"- 荧石 x32: Main shrine light source"
+		"- Lanterns x16: Decorative shrine lamps"
+		"- Amethyst Shards x16: Spirit power medium"
+		"Light up the shrine and unlock the spirit power system!"
+	]
+	quest.0000000012000009.quest_subtitle: "Shrine P-Power"
+	quest.0000000012000009.title: "Shrine Power"
+	quest.0000000012000010.quest_desc: [
+		"Wild fairy maids are scattered throughout the world."
+		"They are a special variant type of maid."
+		"Fairy maids have unique appearances and abilities."
+		"Use cake to tame them and expand your maid squad!"
+		"Taming supplies needed:"
+		"- Emeralds x16: Fairy maid trading currency"
+		"- Cakes x8: For taming multiple fairy maids"
+		"- Golden Carrots x16: Fairy maids'' favorite food"
+		"Explore different biomes"
+		"to discover and tame rare fairy maids!"
+	]
+	quest.0000000012000010.quest_subtitle: "Fairy Maids"
+	quest.0000000012000010.title: "Fairy Maids"
+	quest.0000000012000011.quest_desc: [
+		"这是 the ultimate test of the RPG progression system!"
+		"You have completed:"
+		"[+] 技能 tree training and combat practice"
+		"[+] 属性 gear and Curio accessories"
+		"[+] Maid taming, equipping, and combat synergy"
+		"[+] Shrine spirit power and fairy maid exploration"
+		"Now submit the final proof:"
+		"- Cakes x16: Logistics for your maid legion"
+		"- Enchanted Golden Apples x4: Ultimate combat reserves"
+		"- Nether Stars x4: Symbol of master-level power"
+		"恭喜! You are an AKINO RPG Master!"
+		"Next, welcome the final graduation ceremony!"
+	]
+	quest.0000000012000011.quest_subtitle: "Maid  RPG Grandmaster"
+	quest.0000000012000011.title: "Master of Companions"
+	quest.0000000012000012.quest_desc: [
+		"恭喜! You have reached the final graduation ceremony!"
+		"Review your AKINO adventure journey:"
+		"- 原版生存基础 - Starting MC life from scratch"
+		"- Cooking and Cuisine - Enjoy the fruits of harvest"
+		"- Storage Management - Build your item kingdom"
+		"- Macaw''s 建造 - Craft your dream home"
+		"- BYG Rich World - Explore 40+ biome wonders"
+		"- YUNG Dungeons - Conquer new structure challenges"
+		"- Dimension Travel - Nether, End, 天境, 深暗之域"
+		"- 机械动力 - Steampunk automation"
+		"- 铁''s Spells - Master the six schools of magic"
+		"- Boss Hunting - 击败 all legendary foes"
+		"- RPG Progression - Skills, Attributes, Maid Mastery"
+		"Submit the final graduation offerings:"
+		"- Nether Star x8 - Witness to complete power"
+		"- 龙头 - Ultimate conquest of the 末影龙"
+		"- 信标 - Light at the top of the world"
+		"- 蛋糕 - A memento returning to where it all began"
+		"You are a true AKINO Master!"
+	]
+	quest.0000000012000012.quest_subtitle: "AKINO Graduation Ceremony"
+	quest.0000000012000012.title: "AKINO Graduation"
+	quest.00FA24BFFBD39B2D.quest_desc: [
+		"击败 Shulkers in End Cities to"
+		"collect shulker shells. Two shells"
+		"craft a shulker box which stores"
+		"items even when broken. Portable"
+		"storage for your adventures."
+	]
+	quest.00FA24BFFBD39B2D.title: "Shulker Shell"
+	quest.03CFC47D75623D5C.quest_desc: [
+		"Craft a brewing stand with a blaze"
+		"rod and cobblestone. 酿造 stands"
+		"create potions using water bottles"
+		"nether wart and various ingredients."
+	]
+	quest.03CFC47D75623D5C.title: "酿造台"
+	quest.056088BF4F56866E.quest_desc: [
+		"Mine redstone ore deep underground"
+		"using an iron pickaxe or better."
+		"红石 is the core component for"
+		"contraptions automation and circuits."
+	]
+	quest.056088BF4F56866E.title: "红石 Dust"
+	quest.06BBD2FAF873BD70.quest_desc: [
+		"Craft the mighty diamond pickaxe using"
+		"diamonds and sticks. 钻石 tools have"
+		"the highest durability and can mine"
+		"obsidian for accessing the Nether."
+	]
+	quest.06BBD2FAF873BD70.title: "钻石 镐"
+	quest.0909F835E2FB137A.quest_desc: [
+		"Collect diamonds from deep underground."
+		"Two diamonds plus obsidian and a book"
+		"craft the enchanting table. Save some"
+		"for tools armor and jukeboxes."
+	]
+	quest.0909F835E2FB137A.title: "钻石"
+	quest.0AA29F4ECB8E4C91.quest_desc: [
+		"Begin your 原版生存 journey."
+		"Master tools farming redstone enchanting"
+		"brewing and exploration. Five branches"
+		"await your progress through Minecraft."
+	]
+	quest.0AA29F4ECB8E4C91.title: "Vanilla Journey"
+	quest.0C3851E13BD87FE7.quest_desc: [
+		"Craft a furnace with 8 cobblestone."
+		"Furnaces smelt ores into ingots and"
+		"cook raw food. Use coal charcoal or"
+		"wood as fuel to power your furnace."
+	]
+	quest.0C3851E13BD87FE7.title: "熔炉"
+	quest.0E7C0A6ADC9B45F3.quest_desc: [
+		"Find melon and pumpkin seeds in"
+		"dungeons mineshafts or villages."
+		"Melons restore hunger while pumpkins"
+		"can be carved or used 制作 golems."
+	]
+	quest.0E7C0A6ADC9B45F3.title: "Melon  Pumpkin"
+	quest.108F8962EE32DC2E.quest_desc: [
+		"JEI (仅仅 足够 物品) shows all recipes."
+		"按下 R on an item 查看 its recipe or"
+		"U 查看 what it can be used for."
+		"Search items on the right side of your inventory."
+	]
+	quest.108F8962EE32DC2E.title: "JEI配方查询"
+	quest.1655335413FB1714.quest_desc: [
+		"Biomes We've Gone adds over 80 new biomes"
+		"with unique trees plants and terrain."
+		"Explore diverse landscapes from lush"
+		"tropics to frozen wastelands."
+	]
+	quest.1655335413FB1714.title: "Biomes  建造"
+	quest.180492980DB17A32.quest_desc: [
+		"The FTB 任务 书 is your guide through"
+		"the modpack. Open it with the hotkey or"
+		"the book icon in your inventory."
+		"Quests help you learn mods step by step."
+	]
+	quest.180492980DB17A32.title: "任务书指南"
+	quest.1A3F5B8C6AED8BA1.quest_desc: [
+		"Upgrade a dropper with a bow 合成"
+		"a dispenser. Dispensers can shoot"
+		"arrows place water or lava and use"
+		"other items with special behaviors."
+	]
+	quest.1A3F5B8C6AED8BA1.title: "Dispenser"
+	quest.1B13FE0613AB1936.quest_desc: [
+		"Enter the Nether and defeat Blazes"
+		"in Nether Fortresses. Blaze rods are"
+		"essential for brewing stands and for"
+		"crafting Eyes of Ender."
+	]
+	quest.1B13FE0613AB1936.title: "烈焰棒"
+	quest.1D6B52B45262B3E6.quest_desc: [
+		"Craft your first pickaxe using planks"
+		"and sticks. Wooden tools are the"
+		"foundation of all tool progression."
+		"Use it to mine stone and upgrade."
+	]
+	quest.1D6B52B45262B3E6.title: "Wooden 镐"
+	quest.1DC504A8DD3E340D.quest_desc: [
+		"Craft bookshelves with books and wood"
+		"planks. Place 15 bookshelves around"
+		"your enchanting table 解锁 level"
+		"30 enchantments for maximum power."
+	]
+	quest.1DC504A8DD3E340D.title: "Bookshelf"
+	quest.20CCEC345A7C854B.quest_desc: [
+		"Upgrade to a blast furnace using iron"
+		"ingots a furnace and smooth stone."
+		"Blast furnaces smelt ores twice as"
+		"fast as a regular furnace."
+	]
+	quest.20CCEC345A7C854B.title: "高炉"
+	quest.2160D71A7E80C5FA.quest_desc: [
+		"Craft an observer with cobblestone"
+		"redstone dust and nether quartz."
+		"Observers detect block updates and"
+		"emit a redstone pulse in response."
+	]
+	quest.2160D71A7E80C5FA.title: "Observer"
+	quest.227795C4B58DD1A0.quest_desc: [
+		"Breed chickens with seeds for eggs"
+		"and meat. Shear or breed sheep with"
+		"wheat for wool. Wool is essential"
+		"for beds and decorative blocks."
+	]
+	quest.227795C4B58DD1A0.title: "Chicken  Sheep Farm"
+	quest.2379CC05C6EA7358.quest_desc: [
+		"完成 this quest 解锁 all content"
+		"chapters. 每个 chapter focuses on a"
+		"specific aspect of the modpack."
+		"祝你好运 on your adventure!"
+	]
+	quest.2379CC05C6EA7358.title: "解锁全部章节"
+	quest.2757288AA4ACA157.quest_desc: [
+		"Face powerful bosses and enhance your"
+		"combat abilities. 铁魔法 adds"
+		"boss fights while improved combat mechanics"
+		"make battles more engaging and rewarding."
+	]
+	quest.2757288AA4ACA157.title: "Combat  Bosses"
+	quest.2871A402DDA75DFE.quest_desc: [
+		"Craft a hopper with iron ingots and"
+		"a chest. Hoppers move items between"
+		"containers and can collect dropped"
+		"items on the ground automatically."
+	]
+	quest.2871A402DDA75DFE.title: "Hopper"
+	quest.290B326B898FDFC2.quest_desc: [
+		"Find beetroot seeds in villages or"
+		"dungeon chests. Beetroots can be"
+		"crafted into beetroot soup for a"
+		"hearty meal restoring 6 hunger."
+	]
+	quest.290B326B898FDFC2.title: "甜菜根"
+	quest.2A77A8B819B0A58D.quest_desc: [
+		"传送石碑 let you teleport between locations."
+		"Find them in villages or craft your own."
+		"右键点击 a Waystone to activate it then"
+		"warp between any activated 传送石碑."
+	]
+	quest.2A77A8B819B0A58D.title: "传送石碑"
+	quest.2C67A0D81F3382F5.quest_desc: [
+		"Craft a dropper with cobblestone and"
+		"redstone dust. Droppers eject items"
+		"from their inventory when powered."
+		"Essential for item transport systems."
+	]
+	quest.2C67A0D81F3382F5.title: "Dropper"
+	quest.2F2BCA80BADED045.quest_desc: [
+		"Mine gold ore found deep underground"
+		"or in badlands biomes. 金 ingots are"
+		"used for powered rails golden apples"
+		"and bartering with Piglins."
+	]
+	quest.2F2BCA80BADED045.title: "金 挖掘"
+	quest.3053761AB671D65F.quest_desc: [
+		"Brew a potion by placing water bottles"
+		"in a brewing stand adding nether wart"
+		"and then a secondary ingredient like"
+		"sugar blaze powder or golden carrots."
+	]
+	quest.3053761AB671D65F.title: "水瓶 Potion"
+	quest.3693B876119DEE82.quest_desc: [
+		"Craft Eyes of Ender with ender pearls"
+		"and blaze powder. Throw them to locate"
+		"the Stronghold. Fill the End Portal"
+		"frame with 12 Eyes of Ender."
+	]
+	quest.3693B876119DEE82.title: "Eye of Ender"
+	quest.3B692852CBD08203.quest_desc: [
+		"Craft bread from 3 wheat in a row."
+		"面包 is an excellent early-game food"
+		"restoring 5 hunger points. Ideal for"
+		"long mining trips and exploration."
+	]
+	quest.3B692852CBD08203.title: "面包"
+	quest.3D947BE2838F0FFD.quest_desc: [
+		"Combine a piston with a slimeball"
+		"dropped by slimes. Sticky pistons"
+		"can both push and pull blocks"
+		"enabling advanced contraptions."
+	]
+	quest.3D947BE2838F0FFD.title: "Sticky Piston"
+	quest.4084C0C650D6D286.quest_desc: [
+		"机械动力 is a mechanical engineering mod."
+		"Build contraptions with gears belts and"
+		"shafts. Automate resource processing"
+		"with mechanical power instead of redstone."
+	]
+	quest.4084C0C650D6D286.title: "机械动力"
+	quest.45CB29779F19E294.quest_desc: [
+		"欢迎来到 AKINO's 生存 Optimization!"
+		"This modpack combines over 200 mods"
+		"for an enhanced Minecraft experience."
+		"完成 this tutorial 解锁 all chapters."
+	]
+	quest.45CB29779F19E294.title: "欢迎来到 AKINO"
+	quest.477E5422BB62324B.quest_desc: [
+		"Craft an enchanting table with obsidian"
+		"diamonds and a book. 附魔 adds"
+		"powerful abilities to your tools and"
+		"armor. Surround with bookshelves for"
+		"higher-level enchantments."
+	]
+	quest.477E5422BB62324B.title: "附魔台"
+	quest.487D033753B53CA8.quest_desc: [
+		"Mine coal ore found in stone layers."
+		"煤炭 is the most common fuel source"
+		"used in furnaces for smelting ores"
+		"and cooking your first food."
+	]
+	quest.487D033753B53CA8.title: "煤炭 挖掘"
+	quest.48EB23F3A8E0E619.quest_desc: [
+		"Summon and defeat the Wither to obtain"
+		"a Nether Star for a beacon. Craft a"
+		"conduit with nautilus shells and a"
+		"heart of the sea. These end-game blocks"
+		"grant powerful area buffs."
+	]
+	quest.48EB23F3A8E0E619.title: "信标  Conduit"
+	quest.4A13EF2048CCBC9D.quest_desc: [
+		"The 天境 is a heavenly dimension in the"
+		"sky. Build a 荧石 Portal with water"
+		"to enter this paradise dimension filled"
+		"with flying islands and unique mobs."
+	]
+	quest.4A13EF2048CCBC9D.title: "天境"
+	quest.4A8AA81E4CC7E6FB.quest_desc: [
+		"铁魔法 adds a complete magic system."
+		"Craft spell books find scrolls and learn"
+		"powerful spells. Use mana to cast healing"
+		"damage and utility spells in combat."
+	]
+	quest.4A8AA81E4CC7E6FB.title: "铁魔法"
+	quest.4C6497DFF66336B6.quest_desc: [
+		"Craft detector rails with iron ingots"
+		"stone pressure plates and redstone."
+		"Detector rails emit a redstone signal"
+		"when a minecart passes over them."
+	]
+	quest.4C6497DFF66336B6.title: "Detector Rail"
+	quest.4D8D44EF7B17B929.quest_desc: [
+		"Xaero小地图 and World Map help you"
+		"navigate the world. Set waypoints see"
+		"terrain around you and never get lost"
+		"on your adventures."
+	]
+	quest.4D8D44EF7B17B929.title: "Xaero's Maps"
+	quest.4E63603D557A8E50.quest_desc: [
+		"Jade shows information about the block or"
+		"entity 你是 looking at. See block names"
+		"mod sources and more at the top of your"
+		"screen without opening any interface."
+	]
+	quest.4E63603D557A8E50.title: "Jade HUD"
+	quest.51124642104D6F70.quest_desc: [
+		"Collect Dragon's Breath using a glass"
+		"bottle during the 末影龙 fight."
+		"Dragon's Breath is used to brew"
+		"lingering potions."
+	]
+	quest.51124642104D6F70.title: "Dragon's Breath"
+	quest.5144ECF156FE8973.quest_desc: [
+		"恭喜! You have mastered"
+		"every branch of 原版生存."
+		"You have conquered tools farming"
+		"redstone enchanting and exploration."
+		"Your name echoes across the server!"
+	]
+	quest.5144ECF156FE8973.title: "Vanilla Grandmaster"
+	quest.5683D9B30B01B931.quest_desc: [
+		"高级背包 add portable storage."
+		"Craft a backpack and upgrade it with various"
+		"tiers and modules like crafting tables"
+		"smelting and magnet upgrades. 按下 B 打开."
+	]
+	quest.5683D9B30B01B931.title: "高级背包"
+	quest.57253D0D9A020F39.quest_desc: [
+		"Craft a boat with wood planks. Boats"
+		"let you travel across oceans and rivers"
+		"quickly. They can carry two passengers"
+		"and are immune to fall damage."
+	]
+	quest.57253D0D9A020F39.title: "Boat"
+	quest.577D321D24D51E1C.quest_desc: [
+		"Craft a compass with iron ingots and"
+		"redstone dust. The compass always"
+		"points to your world spawn point."
+		"Essential for navigation."
+	]
+	quest.577D321D24D51E1C.title: "指南针"
+	quest.585719C49104B22A.quest_desc: [
+		"Forge an iron pickaxe with iron ingots"
+		"and sticks. 铁 tools mine faster and"
+		"can harvest diamond ore and gold ore."
+		"A major step in your progression."
+	]
+	quest.585719C49104B22A.title: "铁 镐"
+	quest.5A29E29D84EC1BB2.quest_desc: [
+		"Breed cows with wheat and pigs with"
+		"carrots. Cows provide beef and leather"
+		"while pigs give porkchops. A steady"
+		"food supply is vital for survival."
+	]
+	quest.5A29E29D84EC1BB2.title: "Cow  Pig Farm"
+	quest.5AFF77883C0E8075.quest_desc: [
+		"Find carrots in village farms or as"
+		"a rare zombie drop. Carrots are easy"
+		"to farm and restore 3 hunger points."
+		"也 used to breed pigs and rabbits."
+	]
+	quest.5AFF77883C0E8075.title: "胡萝卜"
+	quest.5DDDD609E80C8E62.quest_desc: [
+		"击败 Endermen in the Overworld or"
+		"the Nether to collect ender pearls."
+		"Throw an ender pearl to teleport to"
+		"where it lands at the cost of health."
+	]
+	quest.5DDDD609E80C8E62.title: "Ender Pearl"
+	quest.5F0F0C58411C27DF.quest_desc: [
+		"Craft rails with iron ingots and a"
+		"stick. Rails guide minecarts along"
+		"a path. Combine with powered rails"
+		"to build full railway systems."
+	]
+	quest.5F0F0C58411C27DF.title: "Rails"
+	quest.5F69490589CD056D.quest_desc: [
+		"Upgrade to a stone pickaxe using"
+		"cobblestone and sticks. 石头 tools"
+		"mine faster and can harvest iron ore"
+		"which wooden tools cannot."
+	]
+	quest.5F69490589CD056D.title: "石头 镐"
+	quest.6082FF105C97DFC7.quest_desc: [
+		"Mine iron ore found underground."
+		"Smelt raw iron in a furnace 获取"
+		"iron ingots. 铁 is essential for"
+		"tools armor and mechanical crafting."
+	]
+	quest.6082FF105C97DFC7.title: "铁 挖掘"
+	quest.6659973960B4E6B2.quest_desc: [
+		"Craft a minecart with iron ingots."
+		"Minecarts ride on rails for fast"
+		"transportation. Add a chest furnace"
+		"or hopper for specialized minecarts."
+	]
+	quest.6659973960B4E6B2.title: "Minecart"
+	quest.6667B5A27F9DE92E.quest_desc: [
+		"欢迎来到 AKINO 生存 Optimization modpack!"
+		"功能:"
+		"• 铁魔法 — 魔法六学派"
+		"• 机械动力 — Steampunk Automation"
+		"• BYG Oh The Biomes — 40+ Biomes to Explore"
+		"• YUNG'sOverhauled Structures — New Dungeon 经验值"
+		"• 天境 + 深暗之域 Depths"
+		"• 东方小女仆 — Maid Companion Adventures"
+		"This chapter is a tutorial overview. 完成 all quests 解锁 every chapter!"
+	]
+	quest.6667B5A27F9DE92E.quest_subtitle: "Modpack Overview"
+	quest.6667B5A27F9DE92E.title: "欢迎来到 AKINO"
+	quest.66972350E70080C5.quest_desc: [
+		"Craft a repeater with redstone torches"
+		"redstone dust and stone. Repeaters"
+		"extend and delay redstone signals"
+		"up to 4 ticks of delay."
+	]
+	quest.66972350E70080C5.title: "红石 Repeater"
+	quest.6717E1912A4A900C.quest_desc: [
+		"The 深暗之域 mod expands the Deep Dark"
+		"dimension below the Ancient Cities."
+		"Discover Sculk-infested caves and face"
+		"the dangers lurking in the depths."
+	]
+	quest.6717E1912A4A900C.title: "深暗之域"
+	quest.676273237277BC75.quest_desc: [
+		"Craft a fishing rod with sticks and"
+		"string from spiders. Fish in any body"
+		"of water to catch raw fish which can"
+		"be cooked for better hunger restoration."
+	]
+	quest.676273237277BC75.title: "钓鱼竿"
+	quest.6797570FAA857C5F.quest_desc: [
+		"Craft an anvil with iron blocks and"
+		"iron ingots. Anvils combine enchanted"
+		"items and repair tools. 经验值"
+		"bottles can be found or traded."
+	]
+	quest.6797570FAA857C5F.title: "铁砧  Exp Bottle"
+	quest.68C1B60CBC5F072F.quest_desc: [
+		"Find elytra in End Ships floating"
+		"near End Cities. 鞘翅 let you glide"
+		"through the air. Boost with fireworks"
+		"for powered flight across the world."
+	]
+	quest.68C1B60CBC5F072F.title: "鞘翅"
+	quest.6CC5DE67AEB158EC.quest_desc: [
+		"Mine diamond ore near bedrock levels."
+		"Diamonds are the most valuable ore"
+		"used for top-tier tools armor and"
+		"an enchanting table."
+	]
+	quest.6CC5DE67AEB158EC.title: "钻石 挖掘"
+	quest.71EDDB11F73F7C4C.quest_desc: [
+		"Craft an empty map with paper and a"
+		"compass. Maps record the terrain as"
+		"you explore. Expand them with more"
+		"paper at a cartography table."
+	]
+	quest.71EDDB11F73F7C4C.title: "地图"
+	quest.74058C637502CD90.quest_desc: [
+		"Craft a piston with wood planks"
+		"cobblestone redstone dust and an"
+		"iron ingot. Pistons push blocks"
+		"when powered by redstone."
+	]
+	quest.74058C637502CD90.title: "Piston"
+	quest.74B6BC1EA60CF143.quest_desc: [
+		"恭喜! You have learned about"
+		"the major mods in this modpack. You are"
+		"now ready to dive deeper into each"
+		"chapter and master every mod."
+	]
+	quest.74B6BC1EA60CF143.title: "教程完成"
+	quest.74B9B00986CD9B18.quest_desc: [
+		"Find potatoes in village farms or as"
+		"a rare zombie drop. Potatoes can be"
+		"cooked into baked potatoes for better"
+		"hunger restoration."
+	]
+	quest.74B9B00986CD9B18.title: "土豆"
+	quest.7646A4EF95218159.quest_desc: [
+		"Collect wheat seeds by breaking tall"
+		"grass. Plant seeds on farmland near"
+		"water to grow wheat. 小麦 is the"
+		"staple crop for bread and breeding."
+	]
+	quest.7646A4EF95218159.title: "小麦 种子"
+	quest.77AAF938A932FE52.quest_desc: [
+		"Craft a spyglass with copper ingots"
+		"and an amethyst shard. Use it to zoom"
+		"in and scout distant terrain or"
+		"locate structures from afar."
+	]
+	quest.77AAF938A932FE52.title: "Spyglass"
+	quest.7998017F967B10D9.quest_desc: [
+		"Brew a lingering potion by adding"
+		"Dragon's Breath to a splash potion."
+		"Lingering potions create a cloud that"
+		"applies effects to entities inside."
+	]
+	quest.7998017F967B10D9.title: "Lingering Potion"
+	quest.79C171814B1BE5D1.quest_desc: [
+		"Find nether wart growing in Nether"
+		"Fortresses. Nether wart is the base"
+		"ingredient for all potions. Farm it"
+		"on soul sand for a steady supply."
+	]
+	quest.79C171814B1BE5D1.title: "下界疣"
+	quest.7A895FDC11FD4B86.quest_desc: [
+		"Craft powered rails with gold ingots"
+		"redstone dust and sticks. Powered"
+		"rails propel minecarts when given"
+		"a redstone signal."
+	]
+	quest.7A895FDC11FD4B86.title: "Powered Rail"
+	quest.7B364D96652201C0.quest_desc: [
+		"Upgrade your diamond pickaxe with a"
+		"netherite ingot at a smithing table."
+		"下界合金 tools are lava-proof and"
+		"have the highest stats in the game."
+	]
+	quest.7B364D96652201C0.title: "下界合金 镐"
+	quest.7E36D8AFE64BAC31.quest_desc: [
+		"Mine obsidian with a diamond pickaxe"
+		"or find it where water meets lava."
+		"黑曜石 is needed for Nether portals"
+		"enchanting tables and ender chests."
+	]
+	quest.7E36D8AFE64BAC31.title: "黑曜石"
+	quest.7FCE371458E53CDC.quest_desc: [
+		"Cook raw cod or salmon in a furnace"
+		"or smoker. Cooked fish is an excellent"
+		"food source that restores 5 hunger"
+		"points without needing farmland."
+	]
+	quest.7FCE371458E53CDC.title: "Cooked Fish"
+	task.000000000000001A.title: "Begin 新手教程"
+	task.000000000000002A.title: "Understand 任务 书"
+	task.000000000000003A.title: "Master JEI"
+	task.000000000000004A.title: "Understand Jade"
+	task.000000000000005A.title: "Understand Map System"
+	task.000000000000006A.title: "Understand Sorting"
+	task.000000000000007A.title: "Understand Curios"
+	task.000000000000008A.title: "Understand Skills"
+	task.000000000000009A.title: "Understand 传送石碑"
+	task.000000000000010A.title: "Understand Tree Chopping"
+	task.000000000000011A.title: "Understand Shortcuts"
+	task.000000000000012A.title: "Understand Trade Refresh"
+	task.000000000000013A.title: "Understand F7 Overlay"
+	task.000000000000014A.title: "Understand 死亡墓碑"
+	task.000000000000015A.title: "新手教程 Graduate"
+	task.000000003000001A.title: "Collect 4 Chests"
+	task.000000003000002A.title: "Obtain a Basic Backpack"
+	task.000000003000003A.title: "Upgrade to 铁 Backpack"
+	task.000000003000004A.title: "Upgrade to 金 Backpack"
+	task.000000003000005A.title: "Upgrade to 钻石 Backpack"
+	task.000000003000006A.title: "Upgrade to 下界合金 Backpack"
+	task.000000003000007A.title: "Craft 2 Storage Barrels"
+	task.000000003000008A.title: "铁 Block x1"
+	task.000000003000008B.title: "金 Block x1"
+	task.000000003000008C.title: "钻石 Block x1"
+	task.000000003000008D.title: "下界合金 Block x1"
+	task.000000003000009A.title: "Craft Storage Controller"
+	task.000000003000010A.title: "Craft 4 Storage Links"
+	task.000000003000011A.title: "Chests x16"
+	task.000000003000011B.title: "Barrels x4"
+	task.000000003000012A.title: "下界合金升级"
+	task.000000003000012B.title: "Storage Controller"
+	task.000000006000001A.title: "钻石 镐"
+	task.000000006000002A.title: "Rails"
+	task.000000006000002B.title: "Oak 木板"
+	task.000000006000002C.title: "Cobwebs"
+	task.000000006000003A.title: "煤炭"
+	task.000000006000003B.title: "Raw 铁"
+	task.000000006000003C.title: "Raw 金"
+	task.000000006000004A.title: "Minecart"
+	task.000000006000004B.title: "箱子 Minecart"
+	task.000000006000004C.title: "Rails"
+	task.000000006000005A.title: "Mossy 圆石"
+	task.000000006000006A.title: "击杀 Zombies"
+	task.000000006000006B.title: "Rotten Flesh"
+	task.000000006000007A.title: "击杀 Skeletons"
+	task.000000006000007B.title: "Bones"
+	task.000000006000008A.title: "击杀 Spiders"
+	task.000000006000008B.title: "线"
+	task.000000006000009A.title: "击杀 Zombies"
+	task.000000006000009B.title: "击杀 Skeletons"
+	task.000000006000009C.title: "击杀 Spiders"
+	task.000000006000009D.title: "Mossy 圆石"
+	task.000000006000010A.title: "Sandstone"
+	task.000000006000010B.title: "Chiseled Sandstone"
+	task.000000006000011A.title: "TNT"
+	task.000000006000011B.title: "金苹果"
+	task.000000006000011C.title: "Sandstone"
+	task.000000006000012A.title: "Tripwire Hook"
+	task.000000006000012B.title: "Jungle Log"
+	task.000000006000012C.title: "Vines"
+	task.000000006000013A.title: "击杀 Witches"
+	task.000000006000013B.title: "荧石 Dust"
+	task.000000006000013C.title: "玻璃瓶"
+	task.000000006000014A.title: "击杀 Guardians"
+	task.000000006000014B.title: "击杀 Elder Guardian"
+	task.000000006000014C.title: "Prismarine Shard"
+	task.000000006000015A.title: "TNT"
+	task.000000006000015B.title: "Tripwire Hook"
+	task.000000006000015C.title: "荧石 Dust"
+	task.000000006000015D.title: "Prismarine Shard"
+	task.000000006000016A.title: "击杀 Cave Spiders"
+	task.000000006000016B.title: "Cobwebs"
+	task.000000006000016C.title: "Spawner"
+	task.000000006000017A.title: "Diamonds"
+	task.000000006000017B.title: "远古残骸"
+	task.000000006000017C.title: "Raw 铁"
+	task.000000006000018A.title: "Mossy 圆石"
+	task.000000006000018B.title: "Sandstone"
+	task.000000006000018C.title: "Prismarine Shard"
+	task.000000006000018D.title: "Rails"
+	task.07FC06D4236DCBB9.title: "不死图腾"
+	task.0AEB5320A117CDFA.title: "Click to complete"
+	task.0C7541211E71F240.title: "钻石 剑"
+	task.0CC9A762DC7F3BBF.title: "附魔金苹果"
+	task.0D8ED4AE9C9F0F2D.title: "Lanterns"
+	task.101BEAFFCA97B86F.title: "Emeralds"
+	task.11195A3BDA866099.title: "弓"
+	task.119A73D13670E77D.title: "击杀 Skeletons"
+	task.1366F21DCD15E672.title: "Nether Star"
+	task.137EF47C156B310A.title: "荧石"
+	task.14D8EABC3397CC32.title: "蛋糕 (Taming Proof)"
+	task.1775CDC2B01021FB.title: "金苹果 (属性 Boost)"
+	task.189D51ECB58562D3.title: "附魔书 (技能 Knowledge)"
+	task.1AFFC8C6A514A5D5.title: "线"
+	task.1B5181D65FFC16F4.title: "Click to complete"
+	task.24D4ECA903EC6B73.title: "Click to complete"
+	task.262638BB5FBB9055.title: "Click to complete"
+	task.2CC422479FBD1BC8.title: "Click to complete"
+	task.3612E83E51601FA4.title: "钻石 胸甲"
+	task.3963F499E7B8B42A.title: "蛋糕"
+	task.3CAA3EB905E1DA7D.title: "击杀 Spiders"
+	task.4145CAD61F29C169.title: "Bottle o' 附魔 (技能 XP)"
+	task.41B142BB0C0BE877.title: "附魔金苹果"
+	task.425C8AC0686F090B.title: "Click to complete"
+	task.43855ABFF61814C0.title: "Click to complete"
+	task.472A44BB24721E2B.title: "Amethyst Shard"
+	task.485BBC0AF6372DFF.title: "Click to complete"
+	task.4984AAD62E948E4B.title: "蛋糕"
+	task.4C1768634A3AE1B9.title: "击杀 Zombies"
+	task.4FE71D527F3A4497.title: "蛋糕"
+	task.50B6078983E53E9C.title: "Bones"
+	task.5AE8FA8B2966F45D.title: "下界合金 Ingot"
+	task.5D71F06182D82958.title: "Click to complete"
+	task.688563727B046DC5.title: "Click to complete"
+	task.6BB3CD422F38F22A.title: "Click to complete"
+	task.7132CEC955A63221.title: "Click to complete"
+	task.73A8A00A479A70CD.title: "Click to complete"
+	task.74D92DDAD3507362.title: "金 Nugget (Curio Symbol)"
+	task.7515B3337D5EC661.title: "Nether Star"
+	task.77098E809F827D89.title: "Click to complete"
+	task.778218D54C2B559D.title: "Rotten Flesh"
+	task.79B49B8BC49969B5.title: "Golden Carrots"
+	task.7A38B23CE84443D4.title: "信标"
+	task.7DB8226E0904E675.title: "Click to complete"
+	task.7E1D6A71E1C27AEA.title: "蛋糕 (Key to Taming Maids)"
+	task.7E86E7D47CC5742A.title: "龙头"
+}

@@ -1,0 +1,3917 @@
+{
+	"combat_root_a": {
+		"title": {
+			"translate": "combat_root_a_title"
+		},
+		"description": {
+			"translate": "combat_root_a_description"
+		},
+		"extra_description": {
+			"translate": "combat_root_a_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_sword"
+			}
+		},
+		"cost": 1,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 1,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.03,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+	"combat_root_b": {
+		"title": {
+			"translate": "combat_root_b_title"
+		},
+		"description": {
+			"translate": "combat_root_b_description"
+		},
+		"extra_description": {
+			"translate": "combat_root_b_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "shield"
+			}
+		},
+		"cost": 1,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.005,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+	"combat_a1": {
+		"title": {
+			"translate": "combat_a1_title"
+		},
+		"description": {
+			"translate": "combat_a1_description"
+		},
+		"extra_description": {
+			"translate": "combat_a1_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_sword"
+			}
+		},
+		"cost": 1,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+	"combat_a2": {
+		"title": {
+			"translate": "combat_a2_title"
+		},
+		"description": {
+			"translate": "combat_a2_description"
+		},
+		"extra_description": {
+			"translate": "combat_a2_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_sword"
+			}
+		},
+		"cost": 2,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.08,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"required_spent_points": 8
+	},
+	"combat_a3": {
+		"title": {
+			"translate": "combat_a3_title"
+		},
+		"description": {
+			"translate": "combat_a3_description"
+		},
+		"extra_description": {
+			"translate": "combat_a3_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_sword"
+			}
+		},
+		"cost": 3,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.12,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"required_spent_points": 20
+	},
+	"combat_a4": {
+		"title": {
+			"translate": "combat_a4_title"
+		},
+		"description": {
+			"translate": "combat_a4_description"
+		},
+		"extra_description": {
+			"translate": "combat_a4_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "diamond_sword"
+			}
+		},
+		"cost": 4,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.15,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.15,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.knockback",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 35
+	},
+	"combat_a5": {
+		"title": {
+			"translate": "combat_a5_title"
+		},
+		"description": {
+			"translate": "combat_a5_description"
+		},
+		"extra_description": {
+			"translate": "combat_a5_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "diamond_sword"
+			}
+		},
+		"cost": 5,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.2,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.2,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:strength",
+					"type": "GRANT",
+					"amplifier": 0,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 55
+	},
+	"combat_a6": {
+		"title": {
+			"translate": "combat_a6_title"
+		},
+		"description": {
+			"translate": "combat_a6_description"
+		},
+		"extra_description": {
+			"translate": "combat_a6_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "diamond_sword"
+			}
+		},
+		"cost": 6,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.25,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.25,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:strength",
+					"type": "GRANT",
+					"amplifier": 1,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 75
+	},
+	"combat_a7": {
+		"title": {
+			"translate": "combat_a7_title"
+		},
+		"description": {
+			"translate": "combat_a7_description"
+		},
+		"extra_description": {
+			"translate": "combat_a7_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "netherite_sword"
+			}
+		},
+		"cost": 7,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.28,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.28,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"required_spent_points": 95
+	},
+	"combat_a8": {
+		"title": {
+			"translate": "combat_a8_title"
+		},
+		"description": {
+			"translate": "combat_a8_description"
+		},
+		"extra_description": {
+			"translate": "combat_a8_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "netherite_sword"
+			}
+		},
+		"cost": 8,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.32,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.3,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.knockback",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 115
+	},
+	"combat_a9": {
+		"title": {
+			"translate": "combat_a9_title"
+		},
+		"description": {
+			"translate": "combat_a9_description"
+		},
+		"extra_description": {
+			"translate": "combat_a9_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "netherite_sword"
+			}
+		},
+		"cost": 10,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.35,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.32,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"required_spent_points": 135
+	},
+	"combat_a10": {
+		"title": {
+			"translate": "combat_a10_title"
+		},
+		"description": {
+			"translate": "combat_a10_description"
+		},
+		"extra_description": {
+			"translate": "combat_a10_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "netherite_sword"
+			}
+		},
+		"cost": 12,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.38,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.35,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:strength",
+					"type": "GRANT",
+					"amplifier": 2,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 155
+	},
+	"combat_a11": {
+		"title": {
+			"translate": "combat_a11_title"
+		},
+		"description": {
+			"translate": "combat_a11_description"
+		},
+		"extra_description": {
+			"translate": "combat_a11_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "netherite_sword"
+			}
+		},
+		"cost": 14,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.42,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.38,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:player.entity_interaction_range",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 175
+	},
+	"combat_a12": {
+		"title": {
+			"translate": "combat_a12_title"
+		},
+		"description": {
+			"translate": "combat_a12_description"
+		},
+		"extra_description": {
+			"translate": "combat_a12_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "netherite_sword"
+			}
+		},
+		"cost": 16,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.5,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.4,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 6,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:strength",
+					"type": "GRANT",
+					"amplifier": 3,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 195
+	},
+	"combat_b1": {
+		"title": {
+			"translate": "combat_b1_title"
+		},
+		"description": {
+			"translate": "combat_b1_description"
+		},
+		"extra_description": {
+			"translate": "combat_b1_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "spectral_arrow"
+			}
+		},
+		"cost": 1,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.03,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:player.entity_interaction_range",
+					"value": 0.5,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"combat_b2": {
+		"title": {
+			"translate": "combat_b2_title"
+		},
+		"description": {
+			"translate": "combat_b2_description"
+		},
+		"extra_description": {
+			"translate": "combat_b2_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "spectral_arrow"
+			}
+		},
+		"cost": 2,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:player.entity_interaction_range",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 8
+	},
+	"combat_b3": {
+		"title": {
+			"translate": "combat_b3_title"
+		},
+		"description": {
+			"translate": "combat_b3_description"
+		},
+		"extra_description": {
+			"translate": "combat_b3_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "spectral_arrow"
+			}
+		},
+		"cost": 3,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.08,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:player.entity_interaction_range",
+					"value": 1.5,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"required_spent_points": 20
+	},
+	"combat_b4": {
+		"title": {
+			"translate": "combat_b4_title"
+		},
+		"description": {
+			"translate": "combat_b4_description"
+		},
+		"extra_description": {
+			"translate": "combat_b4_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "spectral_arrow"
+			}
+		},
+		"cost": 4,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:player.entity_interaction_range",
+					"value": 2,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"required_spent_points": 35
+	},
+	"combat_b5": {
+		"title": {
+			"translate": "combat_b5_title"
+		},
+		"description": {
+			"translate": "combat_b5_description"
+		},
+		"extra_description": {
+			"translate": "combat_b5_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "spectral_arrow"
+			}
+		},
+		"cost": 5,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.15,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:player.entity_interaction_range",
+					"value": 2.5,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.15,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"required_spent_points": 55
+	},
+	"combat_b6": {
+		"title": {
+			"translate": "combat_b6_title"
+		},
+		"description": {
+			"translate": "combat_b6_description"
+		},
+		"extra_description": {
+			"translate": "combat_b6_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "spectral_arrow"
+			}
+		},
+		"cost": 6,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.2,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:player.entity_interaction_range",
+					"value": 3,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.2,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"required_spent_points": 75
+	},
+	"combat_b7": {
+		"title": {
+			"translate": "combat_b7_title"
+		},
+		"description": {
+			"translate": "combat_b7_description"
+		},
+		"extra_description": {
+			"translate": "combat_b7_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "spectral_arrow"
+			}
+		},
+		"cost": 7,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.22,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:player.entity_interaction_range",
+					"value": 3.5,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.22,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"required_spent_points": 95
+	},
+	"combat_b8": {
+		"title": {
+			"translate": "combat_b8_title"
+		},
+		"description": {
+			"translate": "combat_b8_description"
+		},
+		"extra_description": {
+			"translate": "combat_b8_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "spectral_arrow"
+			}
+		},
+		"cost": 8,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.25,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:player.entity_interaction_range",
+					"value": 4,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.25,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 115
+	},
+	"combat_b9": {
+		"title": {
+			"translate": "combat_b9_title"
+		},
+		"description": {
+			"translate": "combat_b9_description"
+		},
+		"extra_description": {
+			"translate": "combat_b9_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "spectral_arrow"
+			}
+		},
+		"cost": 10,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.28,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:player.entity_interaction_range",
+					"value": 4.5,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.28,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"required_spent_points": 135
+	},
+	"combat_b10": {
+		"title": {
+			"translate": "combat_b10_title"
+		},
+		"description": {
+			"translate": "combat_b10_description"
+		},
+		"extra_description": {
+			"translate": "combat_b10_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "spectral_arrow"
+			}
+		},
+		"cost": 12,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.3,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:player.entity_interaction_range",
+					"value": 5,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.3,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"required_spent_points": 155
+	},
+	"combat_b11": {
+		"title": {
+			"translate": "combat_b11_title"
+		},
+		"description": {
+			"translate": "combat_b11_description"
+		},
+		"extra_description": {
+			"translate": "combat_b11_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "spectral_arrow"
+			}
+		},
+		"cost": 14,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.35,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:player.entity_interaction_range",
+					"value": 5.5,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.35,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"required_spent_points": 175
+	},
+	"combat_b12": {
+		"title": {
+			"translate": "combat_b12_title"
+		},
+		"description": {
+			"translate": "combat_b12_description"
+		},
+		"extra_description": {
+			"translate": "combat_b12_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "spectral_arrow"
+			}
+		},
+		"cost": 16,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.4,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:player.entity_interaction_range",
+					"value": 6,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.4,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 4,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"required_spent_points": 195
+	},
+	"combat_c1": {
+		"title": {
+			"translate": "combat_c1_title"
+		},
+		"description": {
+			"translate": "combat_c1_description"
+		},
+		"extra_description": {
+			"translate": "combat_c1_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_chestplate"
+			}
+		},
+		"cost": 1,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"combat_c2": {
+		"title": {
+			"translate": "combat_c2_title"
+		},
+		"description": {
+			"translate": "combat_c2_description"
+		},
+		"extra_description": {
+			"translate": "combat_c2_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_chestplate"
+			}
+		},
+		"cost": 2,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor",
+					"value": 1,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor_toughness",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 8
+	},
+	"combat_c3": {
+		"title": {
+			"translate": "combat_c3_title"
+		},
+		"description": {
+			"translate": "combat_c3_description"
+		},
+		"extra_description": {
+			"translate": "combat_c3_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_chestplate"
+			}
+		},
+		"cost": 3,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 3,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor",
+					"value": 2,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor_toughness",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 20
+	},
+	"combat_c4": {
+		"title": {
+			"translate": "combat_c4_title"
+		},
+		"description": {
+			"translate": "combat_c4_description"
+		},
+		"extra_description": {
+			"translate": "combat_c4_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "diamond_chestplate"
+			}
+		},
+		"cost": 4,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 4,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor",
+					"value": 2,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor_toughness",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 35
+	},
+	"combat_c5": {
+		"title": {
+			"translate": "combat_c5_title"
+		},
+		"description": {
+			"translate": "combat_c5_description"
+		},
+		"extra_description": {
+			"translate": "combat_c5_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "diamond_chestplate"
+			}
+		},
+		"cost": 5,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 5,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor",
+					"value": 3,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor_toughness",
+					"value": 2,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.knockback_resistance",
+					"value": 0.25,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 55
+	},
+	"combat_c6": {
+		"title": {
+			"translate": "combat_c6_title"
+		},
+		"description": {
+			"translate": "combat_c6_description"
+		},
+		"extra_description": {
+			"translate": "combat_c6_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "diamond_chestplate"
+			}
+		},
+		"cost": 6,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 6,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor",
+					"value": 3,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor_toughness",
+					"value": 2,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.knockback_resistance",
+					"value": 0.25,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 75
+	},
+	"combat_c7": {
+		"title": {
+			"translate": "combat_c7_title"
+		},
+		"description": {
+			"translate": "combat_c7_description"
+		},
+		"extra_description": {
+			"translate": "combat_c7_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "netherite_chestplate"
+			}
+		},
+		"cost": 7,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 6,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor",
+					"value": 4,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor_toughness",
+					"value": 2,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.knockback_resistance",
+					"value": 0.25,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 95
+	},
+	"combat_c8": {
+		"title": {
+			"translate": "combat_c8_title"
+		},
+		"description": {
+			"translate": "combat_c8_description"
+		},
+		"extra_description": {
+			"translate": "combat_c8_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "netherite_chestplate"
+			}
+		},
+		"cost": 8,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 7,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor",
+					"value": 4,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor_toughness",
+					"value": 3,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.knockback_resistance",
+					"value": 0.25,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 115
+	},
+	"combat_c9": {
+		"title": {
+			"translate": "combat_c9_title"
+		},
+		"description": {
+			"translate": "combat_c9_description"
+		},
+		"extra_description": {
+			"translate": "combat_c9_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "netherite_chestplate"
+			}
+		},
+		"cost": 10,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 7,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor",
+					"value": 5,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor_toughness",
+					"value": 3,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.knockback_resistance",
+					"value": 0.25,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 135
+	},
+	"combat_c10": {
+		"title": {
+			"translate": "combat_c10_title"
+		},
+		"description": {
+			"translate": "combat_c10_description"
+		},
+		"extra_description": {
+			"translate": "combat_c10_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "netherite_chestplate"
+			}
+		},
+		"cost": 12,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 8,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor",
+					"value": 5,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor_toughness",
+					"value": 3,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.knockback_resistance",
+					"value": 0.25,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:absorption",
+					"type": "GRANT",
+					"amplifier": 0,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 155
+	},
+	"combat_c11": {
+		"title": {
+			"translate": "combat_c11_title"
+		},
+		"description": {
+			"translate": "combat_c11_description"
+		},
+		"extra_description": {
+			"translate": "combat_c11_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "netherite_chestplate"
+			}
+		},
+		"cost": 14,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 8,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor",
+					"value": 6,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor_toughness",
+					"value": 4,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.knockback_resistance",
+					"value": 0.25,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 175
+	},
+	"combat_c12": {
+		"title": {
+			"translate": "combat_c12_title"
+		},
+		"description": {
+			"translate": "combat_c12_description"
+		},
+		"extra_description": {
+			"translate": "combat_c12_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "netherite_chestplate"
+			}
+		},
+		"cost": 16,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 10,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor",
+					"value": 6,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor_toughness",
+					"value": 4,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.knockback_resistance",
+					"value": 0.25,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:absorption",
+					"type": "GRANT",
+					"amplifier": 1,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 195
+	},
+	"combat_d1": {
+		"title": {
+			"translate": "combat_d1_title"
+		},
+		"description": {
+			"translate": "combat_d1_description"
+		},
+		"extra_description": {
+			"translate": "combat_d1_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "resistance"
+			}
+		},
+		"cost": 1,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.005,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.knockback_resistance",
+					"value": 0.05,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"combat_d2": {
+		"title": {
+			"translate": "combat_d2_title"
+		},
+		"description": {
+			"translate": "combat_d2_description"
+		},
+		"extra_description": {
+			"translate": "combat_d2_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "resistance"
+			}
+		},
+		"cost": 2,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.01,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.knockback_resistance",
+					"value": 0.1,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 8
+	},
+	"combat_d3": {
+		"title": {
+			"translate": "combat_d3_title"
+		},
+		"description": {
+			"translate": "combat_d3_description"
+		},
+		"extra_description": {
+			"translate": "combat_d3_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "resistance"
+			}
+		},
+		"cost": 3,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.015,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.knockback_resistance",
+					"value": 0.15,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"required_spent_points": 20
+	},
+	"combat_d4": {
+		"title": {
+			"translate": "combat_d4_title"
+		},
+		"description": {
+			"translate": "combat_d4_description"
+		},
+		"extra_description": {
+			"translate": "combat_d4_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "resistance"
+			}
+		},
+		"cost": 4,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.02,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.knockback_resistance",
+					"value": 0.2,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 35
+	},
+	"combat_d5": {
+		"title": {
+			"translate": "combat_d5_title"
+		},
+		"description": {
+			"translate": "combat_d5_description"
+		},
+		"extra_description": {
+			"translate": "combat_d5_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "resistance"
+			}
+		},
+		"cost": 5,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.025,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.15,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:absorption",
+					"type": "GRANT",
+					"amplifier": 0,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 55
+	},
+	"combat_d6": {
+		"title": {
+			"translate": "combat_d6_title"
+		},
+		"description": {
+			"translate": "combat_d6_description"
+		},
+		"extra_description": {
+			"translate": "combat_d6_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "resistance"
+			}
+		},
+		"cost": 6,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.03,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.2,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:absorption",
+					"type": "GRANT",
+					"amplifier": 1,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 75
+	},
+	"combat_d7": {
+		"title": {
+			"translate": "combat_d7_title"
+		},
+		"description": {
+			"translate": "combat_d7_description"
+		},
+		"extra_description": {
+			"translate": "combat_d7_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "resistance"
+			}
+		},
+		"cost": 7,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.035,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.22,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 95
+	},
+	"combat_d8": {
+		"title": {
+			"translate": "combat_d8_title"
+		},
+		"description": {
+			"translate": "combat_d8_description"
+		},
+		"extra_description": {
+			"translate": "combat_d8_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "resistance"
+			}
+		},
+		"cost": 8,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.04,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.25,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"required_spent_points": 115
+	},
+	"combat_d9": {
+		"title": {
+			"translate": "combat_d9_title"
+		},
+		"description": {
+			"translate": "combat_d9_description"
+		},
+		"extra_description": {
+			"translate": "combat_d9_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "resistance"
+			}
+		},
+		"cost": 10,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.045,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.28,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 135
+	},
+	"combat_d10": {
+		"title": {
+			"translate": "combat_d10_title"
+		},
+		"description": {
+			"translate": "combat_d10_description"
+		},
+		"extra_description": {
+			"translate": "combat_d10_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "resistance"
+			}
+		},
+		"cost": 12,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.3,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:absorption",
+					"type": "GRANT",
+					"amplifier": 2,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 155
+	},
+	"combat_d11": {
+		"title": {
+			"translate": "combat_d11_title"
+		},
+		"description": {
+			"translate": "combat_d11_description"
+		},
+		"extra_description": {
+			"translate": "combat_d11_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "resistance"
+			}
+		},
+		"cost": 14,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.06,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.35,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 175
+	},
+	"combat_d12": {
+		"title": {
+			"translate": "combat_d12_title"
+		},
+		"description": {
+			"translate": "combat_d12_description"
+		},
+		"extra_description": {
+			"translate": "combat_d12_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "resistance"
+			}
+		},
+		"cost": 16,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.07,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.4,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:absorption",
+					"type": "GRANT",
+					"amplifier": 3,
+					"show_icon": true
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 4,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 195
+	},
+	"combat_f1": {
+		"title": {
+			"translate": "combat_f1_title"
+		},
+		"description": {
+			"translate": "combat_f1_description"
+		},
+		"extra_description": {
+			"translate": "combat_f1_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "leather_boots"
+			}
+		},
+		"cost": 1,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.movement_speed",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+	"combat_f2": {
+		"title": {
+			"translate": "combat_f2_title"
+		},
+		"description": {
+			"translate": "combat_f2_description"
+		},
+		"extra_description": {
+			"translate": "combat_f2_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "leather_boots"
+			}
+		},
+		"cost": 2,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.movement_speed",
+					"value": 0.08,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.step_height",
+					"value": 0.5,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 8
+	},
+	"combat_f3": {
+		"title": {
+			"translate": "combat_f3_title"
+		},
+		"description": {
+			"translate": "combat_f3_description"
+		},
+		"extra_description": {
+			"translate": "combat_f3_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "leather_boots"
+			}
+		},
+		"cost": 3,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.movement_speed",
+					"value": 0.12,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.step_height",
+					"value": 1,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"required_spent_points": 20
+	},
+	"combat_f4": {
+		"title": {
+			"translate": "combat_f4_title"
+		},
+		"description": {
+			"translate": "combat_f4_description"
+		},
+		"extra_description": {
+			"translate": "combat_f4_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "leather_boots"
+			}
+		},
+		"cost": 4,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.movement_speed",
+					"value": 0.15,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.step_height",
+					"value": 1.5,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:jump_boost",
+					"type": "GRANT",
+					"amplifier": 0,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 35
+	},
+	"combat_f5": {
+		"title": {
+			"translate": "combat_f5_title"
+		},
+		"description": {
+			"translate": "combat_f5_description"
+		},
+		"extra_description": {
+			"translate": "combat_f5_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "leather_boots"
+			}
+		},
+		"cost": 5,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.movement_speed",
+					"value": 0.2,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.step_height",
+					"value": 2,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.15,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:jump_boost",
+					"type": "GRANT",
+					"amplifier": 1,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 55
+	},
+	"combat_f6": {
+		"title": {
+			"translate": "combat_f6_title"
+		},
+		"description": {
+			"translate": "combat_f6_description"
+		},
+		"extra_description": {
+			"translate": "combat_f6_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "leather_boots"
+			}
+		},
+		"cost": 6,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.movement_speed",
+					"value": 0.22,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.step_height",
+					"value": 2,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.15,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"required_spent_points": 75
+	},
+	"combat_f7": {
+		"title": {
+			"translate": "combat_f7_title"
+		},
+		"description": {
+			"translate": "combat_f7_description"
+		},
+		"extra_description": {
+			"translate": "combat_f7_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "diamond_boots"
+			}
+		},
+		"cost": 7,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.movement_speed",
+					"value": 0.25,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.step_height",
+					"value": 2.5,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.18,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"required_spent_points": 95
+	},
+	"combat_f8": {
+		"title": {
+			"translate": "combat_f8_title"
+		},
+		"description": {
+			"translate": "combat_f8_description"
+		},
+		"extra_description": {
+			"translate": "combat_f8_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "diamond_boots"
+			}
+		},
+		"cost": 8,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.movement_speed",
+					"value": 0.28,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.step_height",
+					"value": 2.5,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.18,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:speed",
+					"type": "GRANT",
+					"amplifier": 0,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 115
+	},
+	"combat_f9": {
+		"title": {
+			"translate": "combat_f9_title"
+		},
+		"description": {
+			"translate": "combat_f9_description"
+		},
+		"extra_description": {
+			"translate": "combat_f9_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "diamond_boots"
+			}
+		},
+		"cost": 10,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.movement_speed",
+					"value": 0.3,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.step_height",
+					"value": 3,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.2,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"required_spent_points": 135
+	},
+	"combat_f10": {
+		"title": {
+			"translate": "combat_f10_title"
+		},
+		"description": {
+			"translate": "combat_f10_description"
+		},
+		"extra_description": {
+			"translate": "combat_f10_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "netherite_boots"
+			}
+		},
+		"cost": 12,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.movement_speed",
+					"value": 0.35,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.step_height",
+					"value": 3,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.2,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:jump_boost",
+					"type": "GRANT",
+					"amplifier": 2,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 155
+	},
+	"combat_f11": {
+		"title": {
+			"translate": "combat_f11_title"
+		},
+		"description": {
+			"translate": "combat_f11_description"
+		},
+		"extra_description": {
+			"translate": "combat_f11_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "netherite_boots"
+			}
+		},
+		"cost": 14,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.movement_speed",
+					"value": 0.35,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.step_height",
+					"value": 3.5,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.25,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"required_spent_points": 175
+	},
+	"combat_f12": {
+		"title": {
+			"translate": "combat_f12_title"
+		},
+		"description": {
+			"translate": "combat_f12_description"
+		},
+		"extra_description": {
+			"translate": "combat_f12_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "netherite_boots"
+			}
+		},
+		"cost": 16,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.movement_speed",
+					"value": 0.4,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.step_height",
+					"value": 4,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.25,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:speed",
+					"type": "GRANT",
+					"amplifier": 1,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 195
+	},
+	"combat_e1": {
+		"title": {
+			"translate": "combat_e1_title"
+		},
+		"description": {
+			"translate": "combat_e1_description"
+		},
+		"extra_description": {
+			"translate": "combat_e1_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "diamond_sword"
+			}
+		},
+		"cost": 3,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"required_skills": 2,
+		"required_spent_points": 28
+	},
+	"combat_e2": {
+		"title": {
+			"translate": "combat_e2_title"
+		},
+		"description": {
+			"translate": "combat_e2_description"
+		},
+		"extra_description": {
+			"translate": "combat_e2_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "diamond_sword"
+			}
+		},
+		"cost": 4,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.15,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.15,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:player.entity_interaction_range",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 48
+	},
+	"combat_e3": {
+		"title": {
+			"translate": "combat_e3_title"
+		},
+		"description": {
+			"translate": "combat_e3_description"
+		},
+		"extra_description": {
+			"translate": "combat_e3_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "diamond_sword"
+			}
+		},
+		"cost": 5,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.2,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.2,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:player.entity_interaction_range",
+					"value": 2,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 65
+	},
+	"combat_e4": {
+		"title": {
+			"translate": "combat_e4_title"
+		},
+		"description": {
+			"translate": "combat_e4_description"
+		},
+		"extra_description": {
+			"translate": "combat_e4_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "diamond_sword"
+			}
+		},
+		"cost": 6,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.25,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.25,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:player.entity_interaction_range",
+					"value": 3,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 80
+	},
+	"combat_e5": {
+		"title": {
+			"translate": "combat_e5_title"
+		},
+		"description": {
+			"translate": "combat_e5_description"
+		},
+		"extra_description": {
+			"translate": "combat_e5_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "diamond_sword"
+			}
+		},
+		"cost": 7,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.28,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.28,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:player.entity_interaction_range",
+					"value": 3,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 95
+	},
+	"combat_e6": {
+		"title": {
+			"translate": "combat_e6_title"
+		},
+		"description": {
+			"translate": "combat_e6_description"
+		},
+		"extra_description": {
+			"translate": "combat_e6_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "diamond_sword"
+			}
+		},
+		"cost": 8,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.3,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.3,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:player.entity_interaction_range",
+					"value": 3,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 3,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:strength",
+					"type": "GRANT",
+					"amplifier": 0,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 110
+	},
+	"combat_e7": {
+		"title": {
+			"translate": "combat_e7_title"
+		},
+		"description": {
+			"translate": "combat_e7_description"
+		},
+		"extra_description": {
+			"translate": "combat_e7_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "netherite_sword"
+			}
+		},
+		"cost": 10,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.32,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.32,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:player.entity_interaction_range",
+					"value": 4,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 125
+	},
+	"combat_e8": {
+		"title": {
+			"translate": "combat_e8_title"
+		},
+		"description": {
+			"translate": "combat_e8_description"
+		},
+		"extra_description": {
+			"translate": "combat_e8_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "netherite_sword"
+			}
+		},
+		"cost": 10,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.35,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.35,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:player.entity_interaction_range",
+					"value": 4,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 3,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:absorption",
+					"type": "GRANT",
+					"amplifier": 0,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 140
+	},
+	"combat_e9": {
+		"title": {
+			"translate": "combat_e9_title"
+		},
+		"description": {
+			"translate": "combat_e9_description"
+		},
+		"extra_description": {
+			"translate": "combat_e9_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "netherite_sword"
+			}
+		},
+		"cost": 12,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.38,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.35,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:player.entity_interaction_range",
+					"value": 5,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 155
+	},
+	"combat_e10": {
+		"title": {
+			"translate": "combat_e10_title"
+		},
+		"description": {
+			"translate": "combat_e10_description"
+		},
+		"extra_description": {
+			"translate": "combat_e10_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "netherite_sword"
+			}
+		},
+		"cost": 12,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.4,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.38,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:player.entity_interaction_range",
+					"value": 5,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 4,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:strength",
+					"type": "GRANT",
+					"amplifier": 1,
+					"show_icon": true
+				}
+			}
+		],
+		"required_spent_points": 170
+	},
+	"combat_e11": {
+		"title": {
+			"translate": "combat_e11_title"
+		},
+		"description": {
+			"translate": "combat_e11_description"
+		},
+		"extra_description": {
+			"translate": "combat_e11_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "netherite_sword"
+			}
+		},
+		"cost": 14,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.45,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.4,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:player.entity_interaction_range",
+					"value": 5,
+					"operation": "addition"
+				}
+			}
+		],
+		"required_spent_points": 185
+	},
+	"combat_e12": {
+		"title": {
+			"translate": "combat_e12_title"
+		},
+		"description": {
+			"translate": "combat_e12_description"
+		},
+		"extra_description": {
+			"translate": "combat_e12_extra_description"
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "netherite_sword"
+			}
+		},
+		"cost": 16,
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.5,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.45,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:player.entity_interaction_range",
+					"value": 6,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 5,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 8,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "pufferfish_unofficial_additions:effect",
+				"data": {
+					"effect": "minecraft:resistance",
+					"type": "GRANT",
+					"amplifier": 0,
+					"show_icon": true
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.15,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"required_spent_points": 200
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"level_limit": 80,
+	"experience_per_level": {
+		"type": "expression",
+		"data": {
+			"expression": "min(level ^ 1.9 + 50, 1500)"
+		}
+	},
+	"sources": [
+		{
+			"type": "puffish_skills:kill_entity",
+			"data": {
+				"variables": {
+					"dropped_xp": {
+						"operations": [
+							{
+								"type": "get_dropped_experience"
+							}
+						]
+					},
+					"max_health": {
+						"operations": [
+							{
+								"type": "get_killed_living_entity"
+							},
+							{
+								"type": "get_max_health"
+							}
+						]
+					}
+				},
+				"experience": "dropped_xp * 0.25 + max_health / 80"
+			}
+		},
+		{
+			"type": "puffish_skills:deal_damage",
+			"data": {
+				"experience": "0.08"
+			}
+		},
+		{
+			"type": "puffish_skills:take_damage",
+			"data": {
+				"experience": "0.15"
+			}
+		}
+	]
+}

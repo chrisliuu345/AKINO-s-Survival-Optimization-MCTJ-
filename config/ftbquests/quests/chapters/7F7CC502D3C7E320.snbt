@@ -1,0 +1,433 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "7F7CC502D3C7E320"
+	group: ""
+	id: "7F7CC502D3C7E320"
+	images: [ ]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["0000000000000015"]
+			icon_scale: 1.8d
+			id: "0000000004000001"
+			rewards: [{
+				id: "5A98AB9159077DA0"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [
+				{
+					count: 32L
+					id: "000000004000001A"
+					item: { count: 1, id: "minecraft:oak_planks" }
+					type: "item"
+				}
+				{
+					id: "5AD21A59FD5EF260"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0000000004000001"]
+			id: "0000000004000002"
+			rewards: [{
+				id: "6745EF17E1BAE99C"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "000000004000002A"
+					item: { count: 1, id: "mcwwindows:oak_window" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "000000004000002B"
+					item: { count: 1, id: "mcwwindows:oak_shutter" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "000000004000002C"
+					item: { count: 1, id: "mcwwindows:oak_window2" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0000000004000002"]
+			id: "0000000004000003"
+			rewards: [{
+				id: "18B028DA518A8206"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "000000004000003A"
+					item: { count: 1, id: "mcwwindows:birch_window" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "000000004000003B"
+					item: { count: 1, id: "mcwwindows:spruce_window" }
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0000000004000001"]
+			id: "0000000004000004"
+			rewards: [{
+				id: "230DFC55A2D0D2DB"
+				type: "xp_levels"
+				xp_levels: 6
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "000000004000004A"
+					item: { count: 1, id: "mcwdoors:oak_modern_door" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "000000004000004B"
+					item: { count: 1, id: "mcwdoors:oak_barn_door" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "000000004000004C"
+					item: { count: 1, id: "mcwdoors:oak_modern_door" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "000000004000004D"
+					item: { count: 1, id: "mcwdoors:oak_glass_door" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0000000004000002"]
+			id: "0000000004000005"
+			rewards: [{
+				id: "5499182613093C52"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					count: 16L
+					id: "000000004000005A"
+					item: { count: 1, id: "mcwfences:oak_picket_fence" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "000000004000005B"
+					item: { count: 1, id: "mcwfences:oak_hedge" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "000000004000005C"
+					item: { count: 1, id: "mcwfences:oak_horse_fence" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0000000004000004"]
+			id: "0000000004000006"
+			rewards: [{
+				id: "47269460245FB737"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "000000004000006A"
+					item: { count: 1, id: "mcwfurnitures:oak_chair" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "000000004000006B"
+					item: { count: 1, id: "mcwfurnitures:oak_desk" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "000000004000006C"
+					item: { count: 1, id: "mcwfurnitures:oak_bookshelf" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "000000004000006D"
+					item: { count: 1, id: "mcwfurnitures:oak_wardrobe" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "000000004000006E"
+					item: { count: 1, id: "mcwfurnitures:oak_counter" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0000000004000006"]
+			id: "0000000004000007"
+			rewards: [{
+				id: "708F5C8EFA1A6637"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					count: 2L
+					id: "000000004000007A"
+					item: { count: 1, id: "mcwfurnitures:oak_coffee_table" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "000000004000007B"
+					item: { count: 1, id: "mcwfurnitures:oak_drawer" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "000000004000007C"
+					item: { count: 1, id: "mcwfurnitures:oak_double_drawer" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"0000000004000005"
+				"0000000004000006"
+			]
+			id: "0000000004000008"
+			rewards: [{
+				id: "37A861D293C5A497"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "000000004000008A"
+					item: { count: 1, id: "mcwbridges:oak_bridge_pier" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "000000004000008B"
+					item: { count: 1, id: "mcwbridges:oak_rope_bridge_stair" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "000000004000008C"
+					item: { count: 1, id: "mcwbridges:oak_log_bridge_middle" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "000000004000008D"
+					item: { count: 1, id: "mcwbridges:asian_red_bridge" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["0000000004000003"]
+			id: "0000000004000009"
+			rewards: [{
+				id: "461746F8065BF943"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "000000004000009A"
+					item: { count: 1, id: "mcwwindows:oak_louvered_shutter" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "000000004000009B"
+					item: { count: 1, id: "mcwwindows:oak_curtain_rod" }
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["0000000004000007"]
+			id: "0000000004000010"
+			rewards: [{
+				id: "378567A050E55925"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "000000004000010A"
+					item: { count: 1, id: "mcwfurnitures:birch_chair" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "000000004000010B"
+					item: { count: 1, id: "mcwfurnitures:spruce_chair" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 10.0d
+		}
+		{
+			dependencies: [
+				"0000000004000009"
+				"0000000004000010"
+			]
+			id: "0000000004000011"
+			rewards: [{
+				id: "46B62A5584A21B2A"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					count: 2L
+					id: "000000004000011A"
+					item: { count: 1, id: "mcwfurnitures:oak_covered_desk" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "000000004000011B"
+					item: { count: 1, id: "mcwfurnitures:oak_double_wardrobe" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 10.0d
+		}
+		{
+			dependencies: [
+				"0000000004000008"
+				"0000000004000011"
+			]
+			icon_scale: 1.5d
+			id: "0000000004000012"
+			rewards: [{
+				id: "3F6F4211DFD56A85"
+				type: "xp_levels"
+				xp_levels: 15
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [
+				{
+					count: 16L
+					id: "000000004000012A"
+					item: { count: 1, id: "mcwwindows:oak_window" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "000000004000012B"
+					item: { count: 1, id: "mcwdoors:oak_modern_door" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "000000004000012C"
+					item: { count: 1, id: "mcwfurnitures:oak_chair" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "000000004000012D"
+					item: { count: 1, id: "mcwbridges:oak_bridge_pier" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["0000000004000012"]
+			icon_scale: 1.8d
+			id: "0000000004000013"
+			rewards: [
+				{
+					count: 5
+					id: "15BB695314657A42"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "0C045102A749F2D2"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+				{
+					command: "/tellraw @p [\"\",{\"text\":\"========================================\",\"color\":\"dark_green\"},{\"text\":\"\\n  = Building Arts - Graduated! =\\n\",\"color\":\"dark_green\",\"bold\":true},{\"text\":\"  All Macaw''s modules mastered!\\n\",\"color\":\"white\"},{\"text\":\"========================================\",\"color\":\"dark_green\"}]"
+					id: "55081B164F18D86C"
+					type: "command"
+				}
+			]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [{
+				count: 64L
+				id: "000000004000013A"
+				item: { count: 1, id: "minecraft:oak_planks" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 14.0d
+		}
+	]
+}

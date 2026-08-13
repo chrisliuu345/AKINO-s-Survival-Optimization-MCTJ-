@@ -1,0 +1,634 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "65BD5111F4CAEBF8"
+	group: ""
+	id: "65BD5111F4CAEBF8"
+	images: [ ]
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["0000000000000015"]
+			icon_scale: 1.8d
+			id: "0000000006000001"
+			rewards: [{
+				id: "0E597D3767F48F3A"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [
+				{
+					id: "000000006000001A"
+					item: { count: 1, id: "minecraft:diamond_pickaxe" }
+					type: "item"
+				}
+				{
+					id: "31939A5448B87ACA"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0000000006000001"]
+			id: "0000000006000002"
+			rewards: [{
+				id: "52DA3D53DAEC5266"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					count: 16L
+					id: "000000006000002A"
+					item: { count: 1, id: "minecraft:rail" }
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "000000006000002B"
+					item: { count: 1, id: "minecraft:oak_planks" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "000000006000002C"
+					item: { count: 1, id: "minecraft:cobweb" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0000000006000002"]
+			id: "0000000006000003"
+			rewards: [{
+				id: "74EFB65881C72668"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [
+				{
+					count: 32L
+					id: "000000006000003A"
+					item: { count: 1, id: "minecraft:coal" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "000000006000003B"
+					item: { count: 1, id: "minecraft:raw_iron" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "000000006000003C"
+					item: { count: 1, id: "minecraft:raw_gold" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0000000006000002"]
+			id: "0000000006000004"
+			rewards: [{
+				id: "26DB6425AD55FA33"
+				type: "xp_levels"
+				xp_levels: 6
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "000000006000004A"
+					item: { count: 1, id: "minecraft:minecart" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "000000006000004B"
+					item: { count: 1, id: "minecraft:chest_minecart" }
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "000000006000004C"
+					item: { count: 1, id: "minecraft:rail" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0000000006000001"]
+			id: "0000000006000005"
+			rewards: [{
+				id: "1DF6CD23A0D9F116"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				count: 16L
+				id: "000000006000005A"
+				item: { count: 1, id: "minecraft:mossy_cobblestone" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0000000006000005"]
+			id: "0000000006000006"
+			rewards: [{
+				id: "514C460F06E9B405"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [
+				{
+					entity: "minecraft:zombie"
+					id: "000000006000006A"
+					type: "kill"
+					value: 0L
+				}
+				{
+					count: 16L
+					id: "000000006000006B"
+					item: { count: 1, id: "minecraft:rotten_flesh" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0000000006000005"]
+			id: "0000000006000007"
+			rewards: [{
+				id: "59416B713260CC1D"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [
+				{
+					entity: "minecraft:skeleton"
+					id: "000000006000007A"
+					type: "kill"
+					value: 0L
+				}
+				{
+					count: 16L
+					id: "000000006000007B"
+					item: { count: 1, id: "minecraft:bone" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0000000006000005"]
+			id: "0000000006000008"
+			rewards: [{
+				id: "0E06D7720A9386CB"
+				type: "xp_levels"
+				xp_levels: 6
+			}]
+			tasks: [
+				{
+					entity: "minecraft:spider"
+					id: "000000006000008A"
+					type: "kill"
+					value: 0L
+				}
+				{
+					count: 16L
+					id: "000000006000008B"
+					item: { count: 1, id: "minecraft:string" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"0000000006000006"
+				"0000000006000007"
+				"0000000006000008"
+			]
+			icon_scale: 1.5d
+			id: "0000000006000009"
+			rewards: [
+				{
+					id: "2732F30CA3B70B8A"
+					type: "xp_levels"
+					xp_levels: 20
+				}
+				{
+					count: 3
+					id: "52B47A10E11084F0"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [
+				{
+					entity: "minecraft:zombie"
+					id: "000000006000009A"
+					type: "kill"
+					value: 0L
+				}
+				{
+					entity: "minecraft:skeleton"
+					id: "000000006000009B"
+					type: "kill"
+					value: 0L
+				}
+				{
+					entity: "minecraft:spider"
+					id: "000000006000009C"
+					type: "kill"
+					value: 0L
+				}
+				{
+					count: 32L
+					id: "000000006000009D"
+					item: { count: 1, id: "minecraft:mossy_cobblestone" }
+					type: "item"
+				}
+				{
+					id: "6EAC55E1C86C2698"
+					structure: "betterdungeons:skeleton_dungeon"
+					type: "structure"
+				}
+				{
+					id: "4C458FE35654131E"
+					structure: "betterdungeons:small_dungeon"
+					type: "structure"
+				}
+				{
+					id: "3A9BC7625B788B90"
+					structure: "betterdungeons:spider_dungeon"
+					type: "structure"
+				}
+				{
+					id: "10516DAF9D32E44A"
+					structure: "betterdungeons:zombie_dungeon"
+					type: "structure"
+				}
+			]
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["0000000006000009"]
+			icon_scale: 1.5d
+			id: "0000000006000010"
+			rewards: [{
+				id: "6616045E202EFF37"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [
+				{
+					count: 32L
+					id: "000000006000010A"
+					item: { count: 1, id: "minecraft:sandstone" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "000000006000010B"
+					item: { count: 1, id: "minecraft:chiseled_sandstone" }
+					type: "item"
+				}
+				{
+					id: "5C66773E75978852"
+					structure: "betterdeserttemples:desert_temple"
+					type: "structure"
+				}
+			]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["0000000006000010"]
+			id: "0000000006000011"
+			rewards: [{
+				id: "5059752E52CEBF32"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "000000006000011A"
+					item: { count: 1, id: "minecraft:tnt" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "000000006000011B"
+					item: { count: 1, id: "minecraft:golden_apple" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "000000006000011C"
+					item: { count: 1, id: "minecraft:sandstone" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["0000000006000010"]
+			id: "0000000006000012"
+			rewards: [{
+				id: "573FDC8364F24EEE"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "000000006000012A"
+					item: { count: 1, id: "minecraft:tripwire_hook" }
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "000000006000012B"
+					item: { count: 1, id: "minecraft:jungle_log" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "000000006000012C"
+					item: { count: 1, id: "minecraft:vine" }
+					type: "item"
+				}
+				{
+					id: "162F13166DB5D243"
+					structure: "betterjungletemples:jungle_temple"
+					type: "structure"
+				}
+				{
+					id: "3D50AAE6BB0D618E"
+					structure: "explorations:jungle_temple"
+					type: "structure"
+				}
+			]
+			x: 6.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["0000000006000010"]
+			id: "0000000006000013"
+			rewards: [{
+				id: "148387C65D6A9460"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [
+				{
+					entity: "minecraft:witch"
+					id: "000000006000013A"
+					type: "kill"
+					value: 0L
+				}
+				{
+					count: 8L
+					id: "000000006000013B"
+					item: { count: 1, id: "minecraft:glowstone_dust" }
+					type: "item"
+				}
+				{
+					count: 12L
+					id: "000000006000013C"
+					item: { count: 1, id: "minecraft:glass_bottle" }
+					type: "item"
+				}
+				{
+					id: "544B0C75856F07EF"
+					structure: "betterwitchhuts:witch_hut"
+					type: "structure"
+				}
+			]
+			x: -6.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["0000000006000010"]
+			id: "0000000006000014"
+			rewards: [{
+				id: "745D34EF2131E414"
+				type: "xp_levels"
+				xp_levels: 12
+			}]
+			tasks: [
+				{
+					entity: "minecraft:guardian"
+					id: "000000006000014A"
+					type: "kill"
+					value: 0L
+				}
+				{
+					entity: "minecraft:elder_guardian"
+					id: "000000006000014B"
+					type: "kill"
+					value: 0L
+				}
+				{
+					count: 16L
+					id: "000000006000014C"
+					item: { count: 1, id: "minecraft:prismarine_shard" }
+					type: "item"
+				}
+				{
+					id: "2E8CE09E8B3AFEC6"
+					structure: "betteroceanmonuments:ocean_monument"
+					type: "structure"
+				}
+			]
+			x: 6.0d
+			y: 12.0d
+		}
+		{
+			dependencies: [
+				"0000000006000011"
+				"0000000006000012"
+				"0000000006000013"
+				"0000000006000014"
+			]
+			icon_scale: 1.5d
+			id: "0000000006000015"
+			rewards: [{
+				id: "7A6DED99B0814FC4"
+				type: "xp_levels"
+				xp_levels: 25
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [
+				{
+					count: 4L
+					id: "000000006000015A"
+					item: { count: 1, id: "minecraft:tnt" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "000000006000015B"
+					item: { count: 1, id: "minecraft:tripwire_hook" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "000000006000015C"
+					item: { count: 1, id: "minecraft:glowstone_dust" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "000000006000015D"
+					item: { count: 1, id: "minecraft:prismarine_shard" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["0000000006000015"]
+			id: "0000000006000016"
+			rewards: [{
+				id: "3A11BC2F3BD4CE05"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [
+				{
+					entity: "minecraft:cave_spider"
+					id: "000000006000016A"
+					type: "kill"
+					value: 0L
+				}
+				{
+					count: 16L
+					id: "000000006000016B"
+					item: { count: 1, id: "minecraft:cobweb" }
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["0000000006000015"]
+			id: "0000000006000017"
+			rewards: [{
+				id: "04C4ADE116CC5A41"
+				type: "xp_levels"
+				xp_levels: 15
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "000000006000017A"
+					item: { count: 1, id: "minecraft:diamond" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "000000006000017B"
+					item: { count: 1, id: "minecraft:ancient_debris" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "000000006000017C"
+					item: { count: 1, id: "minecraft:raw_iron" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 14.0d
+		}
+		{
+			dependencies: [
+				"0000000006000016"
+				"0000000006000017"
+			]
+			icon_scale: 1.5d
+			id: "0000000006000018"
+			rewards: [
+				{
+					count: 5
+					id: "26556881A5DB3906"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "190D84F099541F77"
+					type: "xp_levels"
+					xp_levels: 30
+				}
+				{
+					command: "/tellraw @p [\"\",{\"text\":\"▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\",\"color\":\"gold\"},{\"text\":\"\\n  ✔ YUNG's Structure Exploration - Complete!\\n\",\"color\":\"gold\",\"bold\":true},{\"text\":\"Mineshafts, 3 Dungeons, Desert Temple\\n\",\"color\":\"white\"},{\"text\":\"Jungle Temple, Witch Hut, Ocean Monument\\n\",\"color\":\"white\"},{\"text\":\"You have conquered all of YUNG's structure world!\\n\",\"color\":\"aqua\"},{\"text\":\"▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\",\"color\":\"gold\"}]"
+					id: "42D51A743C905C89"
+					type: "command"
+				}
+			]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [
+				{
+					count: 64L
+					id: "000000006000018A"
+					item: { count: 1, id: "minecraft:mossy_cobblestone" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "000000006000018B"
+					item: { count: 1, id: "minecraft:sandstone" }
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "000000006000018C"
+					item: { count: 1, id: "minecraft:prismarine_shard" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "000000006000018D"
+					item: { count: 1, id: "minecraft:rail" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 16.0d
+		}
+	]
+}

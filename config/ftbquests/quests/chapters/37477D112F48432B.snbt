@@ -1,0 +1,634 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "37477D112F48432B"
+	group: ""
+	id: "37477D112F48432B"
+	images: [ ]
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["0000000000000015"]
+			icon_scale: 1.5d
+			id: "0000000007000001"
+			shape: "diamond"
+			size: 1.5d
+			tasks: [
+				{
+					count: 4L
+					id: "4F3409E66F807DB6"
+					item: { count: 1, id: "minecraft:ender_eye" }
+					type: "item"
+				}
+				{
+					id: "62E2A96D9CB80EB2"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0000000007000001"]
+			id: "0000000007000002"
+			rewards: [{
+				id: "2D54F5EAD453A008"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [
+				{
+					count: 32L
+					id: "7CC71EF6FC42DB1F"
+					item: { count: 1, id: "minecraft:nether_bricks" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "3286DF206869DC6C"
+					item: { count: 1, id: "minecraft:blaze_rod" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0000000007000002"]
+			id: "0000000007000003"
+			rewards: [{
+				id: "6F4900D9EECA8017"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [
+				{
+					entity: "minecraft:blaze"
+					id: "150859505F21E2D9"
+					type: "kill"
+					value: 50L
+				}
+				{
+					count: 124L
+					id: "027F75F9A19A0E27"
+					item: { count: 1, id: "minecraft:blaze_rod" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0000000007000002"]
+			id: "0000000007000004"
+			rewards: [{
+				id: "16636E6CCC9CD98A"
+				type: "xp"
+				xp: 15
+			}]
+			tasks: [
+				{
+					entity: "minecraft:wither_skeleton"
+					id: "671504AA4B53CB2B"
+					type: "kill"
+					value: 3L
+				}
+				{
+					id: "4F27BD2DF3AD3C75"
+					item: { count: 1, id: "minecraft:wither_skeleton_skull" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0000000007000002"]
+			id: "0000000007000005"
+			rewards: [{
+				id: "325A56E089C56B8C"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [
+				{
+					count: 64L
+					id: "56E9720FA38208D3"
+					item: { count: 1, id: "minecraft:nether_bricks" }
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "23D1C130EF698E01"
+					item: { count: 1, id: "minecraft:nether_wart" }
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "29CBF836E6AE0CBF"
+					item: { count: 1, id: "minecraft:soul_sand" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["0000000007000005"]
+			icon_scale: 1.5d
+			id: "0000000007000006"
+			rewards: [{
+				id: "09CDE27768058D9C"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				count: 12L
+				id: "07406C8688E4A5D2"
+				item: { count: 1, id: "minecraft:ender_eye" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["0000000007000006"]
+			id: "0000000007000007"
+			rewards: [{
+				id: "4632E10F2D04245F"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [
+				{
+					entity: "minecraft:silverfish"
+					id: "5F7296C6DDE66E1B"
+					type: "kill"
+					value: 5L
+				}
+				{
+					count: 16L
+					id: "54775652F6A62CD1"
+					item: { count: 1, id: "minecraft:end_stone" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["0000000007000006"]
+			id: "0000000007000008"
+			rewards: [{
+				id: "12E81D5491FED46E"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				dimension: "minecraft:the_end"
+				id: "1DE755DD769F0697"
+				type: "dimension"
+			}]
+			x: 3.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["0000000007000008"]
+			id: "0000000007000009"
+			rewards: [
+				{
+					id: "466B61B7C76E8E39"
+					item: {
+						count: 1
+						id: "minecraft:dragon_head"
+					}
+					type: "item"
+				}
+				{
+					id: "73A57E517B8B8B5C"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				id: "7D4BB4CA4760582C"
+				item: { count: 1, id: "minecraft:dragon_egg" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["0000000007000009"]
+			id: "0000000007000010"
+			rewards: [{
+				id: "05C7798ABEABB821"
+				type: "xp"
+				xp: 15
+			}]
+			tasks: [
+				{
+					count: 32L
+					id: "00185F8F1BA0AA75"
+					item: { count: 1, id: "minecraft:chorus_fruit" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "4B3CC4F2A11E2B19"
+					item: { count: 1, id: "minecraft:purpur_block" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "5ED354D4430128B1"
+					item: { count: 1, id: "minecraft:shulker_shell" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["0000000007000001"]
+			id: "0000000007000011"
+			rewards: [{
+				id: "1966812B01E79FAA"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "31AC4A9D075D109C"
+					item: { count: 1, id: "minecraft:emerald" }
+					type: "item"
+				}
+				{
+					id: "756919D610BB6E0A"
+					item: { count: 1, id: "minecraft:bell" }
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "5027FFBEEE10C12A"
+					item: { count: 1, id: "minecraft:bread" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0000000007000001"]
+			id: "0000000007000012"
+			rewards: [{
+				id: "5206AD6622B32EFA"
+				type: "xp"
+				xp: 8
+			}]
+			tasks: [
+				{
+					count: 16L
+					id: "4C8CE5305B91DC75"
+					item: { count: 1, id: "minecraft:iron_ingot" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "7118C037C2167867"
+					item: { count: 1, id: "minecraft:lantern" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "65F3E5C25797D7A2"
+					item: { count: 1, id: "minecraft:cobblestone" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"0000000007000010"
+				"0000000007000011"
+				"0000000007000012"
+			]
+			icon_scale: 1.5d
+			id: "0000000007000013"
+			rewards: [
+				{
+					id: "4305C272DF3B7938"
+					type: "xp"
+					xp: 20
+				}
+				{
+					count: 3
+					id: "0CC3D847B8EFFA1A"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [
+				{
+					count: 4L
+					id: "67B632EC30A0E22D"
+					item: { count: 1, id: "minecraft:filled_map" }
+					type: "item"
+				}
+				{
+					id: "08D4619F18CAC461"
+					item: { count: 1, id: "minecraft:compass" }
+					type: "item"
+				}
+				{
+					id: "020486B4C06717A6"
+					item: { count: 1, id: "minecraft:spyglass" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["0000000007000001"]
+			id: "0000000007000014"
+			rewards: [{
+				id: "57497FD0AC08C3A9"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [
+				{
+					count: 32L
+					id: "3E1DB96124C752BE"
+					item: { count: 1, id: "minecraft:sculk" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "57C7C2FDEEF229D7"
+					item: { count: 1, id: "minecraft:sculk_sensor" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "4B221F7D02E92278"
+					item: { count: 1, id: "minecraft:sculk_shrieker" }
+					type: "item"
+				}
+				{
+					id: "74429F27A2C5F806"
+					item: { count: 1, id: "deeperdarker:reinforced_echo_shard" }
+					type: "item"
+				}
+				{
+					dimension: "deeperdarker:otherside"
+					id: "6880C41FBCEB5BC6"
+					type: "dimension"
+				}
+			]
+			x: -6.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["0000000007000014"]
+			id: "0000000007000015"
+			rewards: [{
+				id: "5ED194F6DD4C2706"
+				type: "xp"
+				xp: 12
+			}]
+			tasks: [
+				{
+					count: 64L
+					id: "338414D7C117C249"
+					item: { count: 1, id: "minecraft:sculk" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "25F6FDFF809CA656"
+					item: { count: 1, id: "minecraft:sculk_catalyst" }
+					type: "item"
+				}
+				{
+					count: 12L
+					id: "40CDB89FF40E25AD"
+					item: { count: 1, id: "deeperdarker:sculk_bone" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["0000000007000014"]
+			id: "0000000007000016"
+			rewards: [
+				{
+					id: "6A03B9ED99608F65"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "67ED08F9545C9C95"
+					item: {
+						count: 1
+						id: "minecraft:nether_star"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					entity: "minecraft:warden"
+					id: "79D64DB39C405AF3"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "deeperdarker:shriek_worm"
+					id: "02711756B7937667"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "deeperdarker:sculk_centipede"
+					id: "7BC34ADA5E66BDC3"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: -6.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["0000000007000016"]
+			id: "0000000007000017"
+			rewards: [{
+				id: "3ACD8015C01E9F76"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "5AF42E82065F09EF"
+					item: { count: 1, id: "minecraft:echo_shard" }
+					type: "item"
+				}
+				{
+					id: "6D4EF93FF5A6EEA8"
+					structure: "deeperdarker:ancient_temple"
+					type: "structure"
+				}
+			]
+			x: -6.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["0000000007000017"]
+			icon_scale: 1.5d
+			id: "0000000007000018"
+			rewards: [{
+				id: "361CC81EB8374E55"
+				type: "xp"
+				xp: 30
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [
+				{
+					count: 64L
+					id: "3D84AA9817A8B10E"
+					item: { count: 1, id: "minecraft:sculk" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "754C667471B45D5E"
+					item: { count: 1, id: "minecraft:reinforced_deepslate" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "23D7C78C0812C045"
+					item: { count: 1, id: "minecraft:echo_shard" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: 16.0d
+		}
+		{
+			dependencies: [
+				"0000000007000013"
+				"0000000007000018"
+			]
+			icon_scale: 1.5d
+			id: "0000000007000019"
+			rewards: [
+				{
+					id: "4E48EC0654C11BA6"
+					type: "xp"
+					xp: 30
+				}
+				{
+					count: 30
+					id: "44EB038D30CB2808"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [
+				{
+					id: "1980E9DA5CAD1AA5"
+					item: { count: 1, id: "minecraft:dragon_head" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "6A81D2FCE0E86FBE"
+					item: { count: 1, id: "minecraft:echo_shard" }
+					type: "item"
+				}
+				{
+					id: "22AE6178E5C79B31"
+					item: { count: 1, id: "minecraft:elytra" }
+					type: "item"
+				}
+				{
+					id: "4C66CACCA234F133"
+					item: { count: 1, id: "deeperdarker:sonorous_staff" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["0000000007000019"]
+			icon_scale: 1.5d
+			id: "0000000007000020"
+			rewards: [
+				{
+					count: 3
+					id: "3C89EF2D84D6D184"
+					item: {
+						count: 1
+						id: "minecraft:nether_star"
+					}
+					type: "item"
+				}
+				{
+					id: "1DD186DCEDCC183B"
+					type: "xp"
+					xp: 50
+				}
+				{
+					command: "/tellraw @a {\"text\":\"[Dimension Journey] Player has completed all dimension challenges and become the Dimension Conqueror!\",\"color\":\"gold\",\"bold\":true}"
+					id: "1BAD7675ACF25B50"
+					type: "command"
+				}
+			]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [
+				{
+					id: "31795259A59A0CA4"
+					item: { count: 1, id: "minecraft:netherite_block" }
+					type: "item"
+				}
+				{
+					id: "22EF1449624162B2"
+					item: { count: 1, id: "minecraft:beacon" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "795B58157B039114"
+					item: { count: 1, id: "minecraft:ender_eye" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 19.0d
+		}
+	]
+}

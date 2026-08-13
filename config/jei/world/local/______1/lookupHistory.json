@@ -1,0 +1,13 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"kaleidoscope_tavern:green_sofa"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farmersdelight:gleaming_salad_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farmersdelight:tomato_sauce"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farmersdelight:rotten_tomato"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kaleidoscope_cookery:scramble_egg_with_tomatoes"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kaleidoscope_cookery:tomato"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:crafting_table"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:crafter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedbackpacks:crafting_upgrade"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"twilightforest:uncrafting_table"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

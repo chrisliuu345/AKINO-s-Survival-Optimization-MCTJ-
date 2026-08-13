@@ -1,0 +1,13 @@
+logs/
+crash-reports/
+.mixin.out/
+dynamic-data-pack-cache/
+dynamic-resource-pack-cache/
+saves/
+downloads/
+moddata/
+command_history.txt
+usercache.json
+usernamecache.json
+user-prefs.json
+XaeroWaypoints_BACKUP240807/

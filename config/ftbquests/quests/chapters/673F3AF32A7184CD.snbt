@@ -1,0 +1,440 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "673F3AF32A7184CD"
+	group: ""
+	id: "673F3AF32A7184CD"
+	images: [ ]
+	order_index: 11
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["0000000000000015"]
+			icon_scale: 1.8d
+			id: "0000000012000001"
+			rewards: [{
+				id: "6B91F4D5E4E00CD8"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [
+				{
+					id: "7E1D6A71E1C27AEA"
+					item: { count: 1, id: "minecraft:cake" }
+					type: "item"
+				}
+				{
+					id: "0D469153AD3F221E"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0000000012000001"]
+			id: "0000000012000002"
+			rewards: [{
+				id: "463ECB308E284B39"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				count: 4L
+				id: "14D8EABC3397CC32"
+				item: { count: 1, id: "minecraft:cake" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0000000012000001"]
+			id: "0000000012000003"
+			rewards: [{
+				id: "5F665AD18A33975C"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [
+				{
+					id: "0C7541211E71F240"
+					item: { count: 1, id: "minecraft:diamond_sword" }
+					type: "item"
+				}
+				{
+					id: "3612E83E51601FA4"
+					item: { count: 1, id: "minecraft:diamond_chestplate" }
+					type: "item"
+				}
+				{
+					id: "11195A3BDA866099"
+					item: { count: 1, id: "minecraft:bow" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0000000012000001"]
+			id: "0000000012000004"
+			rewards: [{
+				id: "7F561F8D8E028D14"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "4145CAD61F29C169"
+					item: { count: 1, id: "minecraft:experience_bottle" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "189D51ECB58562D3"
+					item: { count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0000000012000001"]
+			id: "0000000012000005"
+			rewards: [{
+				id: "21BD535C2DBECB34"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "1775CDC2B01021FB"
+					item: { count: 1, id: "minecraft:golden_apple" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "74D92DDAD3507362"
+					item: { count: 1, id: "minecraft:gold_nugget" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0000000012000004"]
+			id: "0000000012000006"
+			rewards: [{
+				id: "535BDAD049845642"
+				type: "xp_levels"
+				xp_levels: 15
+			}]
+			tasks: [
+				{
+					entity: "minecraft:skeleton"
+					id: "119A73D13670E77D"
+					type: "kill"
+					value: 20L
+				}
+				{
+					entity: "minecraft:zombie"
+					id: "4C1768634A3AE1B9"
+					type: "kill"
+					value: 20L
+				}
+				{
+					entity: "minecraft:spider"
+					id: "3CAA3EB905E1DA7D"
+					type: "kill"
+					value: 10L
+				}
+			]
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"0000000012000002"
+				"0000000012000003"
+			]
+			id: "0000000012000007"
+			rewards: [{
+				id: "50FF507365EC281B"
+				type: "xp_levels"
+				xp_levels: 15
+			}]
+			tasks: [
+				{
+					count: 64L
+					id: "778218D54C2B559D"
+					item: { count: 1, id: "minecraft:rotten_flesh" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "50B6078983E53E9C"
+					item: { count: 1, id: "minecraft:bone" }
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "1AFFC8C6A514A5D5"
+					item: { count: 1, id: "minecraft:string" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"0000000012000006"
+				"0000000012000007"
+			]
+			icon_scale: 1.5d
+			id: "0000000012000008"
+			rewards: [
+				{
+					id: "0E3035D36422E257"
+					type: "xp_levels"
+					xp_levels: 30
+				}
+				{
+					id: "457B59CC22B6AA65"
+					item: {
+						count: 1
+						id: "minecraft:nether_star"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [
+				{
+					id: "41B142BB0C0BE877"
+					item: { count: 1, id: "minecraft:enchanted_golden_apple" }
+					type: "item"
+				}
+				{
+					id: "07FC06D4236DCBB9"
+					item: { count: 1, id: "minecraft:totem_of_undying" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "5AE8FA8B2966F45D"
+					item: { count: 1, id: "minecraft:netherite_ingot" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["0000000012000002"]
+			id: "0000000012000009"
+			rewards: [{
+				id: "7D0CBCF134271AA2"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [
+				{
+					count: 32L
+					id: "137EF47C156B310A"
+					item: { count: 1, id: "minecraft:glowstone" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "0D8ED4AE9C9F0F2D"
+					item: { count: 1, id: "minecraft:lantern" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "472A44BB24721E2B"
+					item: { count: 1, id: "minecraft:amethyst_shard" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["0000000012000002"]
+			id: "0000000012000010"
+			rewards: [{
+				id: "39BBF016353CD162"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [
+				{
+					count: 16L
+					id: "101BEAFFCA97B86F"
+					item: { count: 1, id: "minecraft:emerald" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "3963F499E7B8B42A"
+					item: { count: 1, id: "minecraft:cake" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "79B49B8BC49969B5"
+					item: { count: 1, id: "minecraft:golden_carrot" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 9.0d
+		}
+		{
+			dependencies: [
+				"0000000012000008"
+				"0000000012000009"
+				"0000000012000010"
+			]
+			icon_scale: 1.5d
+			id: "0000000012000011"
+			rewards: [
+				{
+					id: "16AD416F68035DED"
+					type: "xp_levels"
+					xp_levels: 50
+				}
+				{
+					count: 10
+					id: "15D1B65779647493"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [
+				{
+					count: 16L
+					id: "4FE71D527F3A4497"
+					item: { count: 1, id: "minecraft:cake" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "0CC9A762DC7F3BBF"
+					item: { count: 1, id: "minecraft:enchanted_golden_apple" }
+					type: "item"
+				}
+				{
+					count: 50L
+					id: "7515B3337D5EC661"
+					item: { count: 1, id: "minecraft:nether_star" }
+					type: "item"
+				}
+				{
+					id: "32628C162D5C66EE"
+					points: false
+					type: "xp"
+					value: 1000L
+				}
+				{
+					id: "302E35D632A3DC9B"
+					stat: "minecraft:sleep_in_bed"
+					type: "stat"
+					value: 500
+				}
+				{
+					id: "0152D5F9C118ED47"
+					item: { count: 1, id: "minecraft:sniffer_egg" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["0000000012000011"]
+			icon_scale: 1.8d
+			id: "0000000012000012"
+			rewards: [
+				{
+					count: 20
+					id: "0ECA2FD87A3DB924"
+					item: {
+						count: 1
+						id: "minecraft:nether_star"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "392DF196867BE1CF"
+					item: {
+						count: 1
+						id: "minecraft:netherite_block"
+					}
+					type: "item"
+				}
+				{
+					id: "61C88DD00896B2BD"
+					item: {
+						count: 1
+						id: "minecraft:elytra"
+					}
+					type: "item"
+				}
+				{
+					id: "063B134CB02E427B"
+					type: "xp_levels"
+					xp_levels: 100
+				}
+				{
+					command: "/tellraw @a [\"\",{\"text\":\"========================================\",\"color\":\"gold\"},{\"text\":\"\\n  = AKINO Modpack - Fully Cleared! =\\n\",\"color\":\"gold\",\"bold\":true},{\"text\":\"Congratulations on completing all AKINO Survival Optimization content!\\n\\n\",\"color\":\"white\"},{\"text\":\"From vanilla survival to Create factories\\n\",\"color\":\"green\"},{\"text\":\"From six schools of magic to the Aether skies\\n\",\"color\":\"aqua\"},{\"text\":\"From YUNG dungeons to the Deeper Darker abyss\\n\",\"color\":\"dark_purple\"},{\"text\":\"From Boss hunting to Maid progression\\n\",\"color\":\"light_purple\"},{\"text\":\"\\nYou are a true AKINO Master!\\n\",\"color\":\"gold\",\"bold\":true},{\"text\":\"========================================\",\"color\":\"gold\"}]"
+					id: "0BED83C427708DF6"
+					type: "command"
+				}
+			]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [
+				{
+					count: 8L
+					id: "1366F21DCD15E672"
+					item: { count: 1, id: "minecraft:nether_star" }
+					type: "item"
+				}
+				{
+					id: "7E86E7D47CC5742A"
+					item: { count: 1, id: "minecraft:dragon_head" }
+					type: "item"
+				}
+				{
+					id: "7A38B23CE84443D4"
+					item: { count: 1, id: "minecraft:beacon" }
+					type: "item"
+				}
+				{
+					id: "4984AAD62E948E4B"
+					item: { count: 1, id: "minecraft:cake" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 13.0d
+		}
+	]
+}
